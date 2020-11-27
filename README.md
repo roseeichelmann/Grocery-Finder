@@ -20,7 +20,7 @@ of grocery stores within a zip code
 8. Dont forget to take into consideration pages, if there are multiple pages we need to flip through them until we are at last one. 
 9. We also dont want duplicates in the collection so lets store our results in a Set or implement a way to check for duplicates
 10. Learn about geopy, heres a demo that will be useful, as the next thing we need to do is get coordinates given address and zip code 
-````python`    
+```python
     >>> from geopy.geocoders import Nominatim
     >>> geolocator = Nominatim()
     >>> location = geolocator.geocode("175 5th Avenue NYC")
