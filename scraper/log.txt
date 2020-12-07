@@ -1,0 +1,1178 @@
+2020-12-06 18:20:20 [scrapy.utils.log] INFO: Scrapy 1.6.0 started (bot: groceryfinder)
+2020-12-06 18:20:20 [scrapy.utils.log] INFO: Versions: lxml 4.5.2.0, libxml2 2.9.10, cssselect 1.1.0, parsel 1.5.2, w3lib 1.21.0, Twisted 20.3.0, Python 3.6.10 |Anaconda, Inc.| (default, Mar 23 2020, 23:13:11) - [GCC 7.3.0], pyOpenSSL 19.1.0 (OpenSSL 1.1.1g  21 Apr 2020), cryptography 2.9.2, Platform Linux-5.4.0-56-generic-x86_64-with-debian-bullseye-sid
+2020-12-06 18:20:20 [scrapy.crawler] INFO: Overridden settings: {'BOT_NAME': 'groceryfinder', 'LOG_FILE': 'log.txt', 'NEWSPIDER_MODULE': 'groceryfinder.spiders', 'SPIDER_MODULES': ['groceryfinder.spiders']}
+2020-12-06 18:20:20 [scrapy.extensions.telnet] INFO: Telnet Password: d76b55553e384099
+2020-12-06 18:20:20 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.memusage.MemoryUsage',
+ 'scrapy.extensions.logstats.LogStats']
+2020-12-06 18:20:20 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2020-12-06 18:20:20 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2020-12-06 18:20:20 [scrapy.middleware] INFO: Enabled item pipelines:
+[]
+2020-12-06 18:20:20 [scrapy.core.engine] INFO: Spider opened
+2020-12-06 18:20:20 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2020-12-06 18:20:20 [scrapy.extensions.telnet] INFO: Telnet console listening on 127.0.0.1:6024
+2020-12-06 18:20:20 [urllib3.util.retry] DEBUG: Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2020-12-06 18:20:20 [urllib3.util.retry] DEBUG: Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2020-12-06 18:20:21 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.zip-codes.com/county/tx-travis.asp> (referer: None)
+2020-12-06 18:20:21 [scrapy.downloadermiddlewares.redirect] DEBUG: Redirecting (301) to <GET https://www.grocery-stores.org/sgt-peppers-hot-sauce-austin-tx-9ef/> from <GET https://www.grocery-stores.org/grocery-stores-in-78765/>
+2020-12-06 18:20:21 [scrapy.core.engine] DEBUG: Crawled (404) <GET https://www.grocery-stores.org/grocery-stores-in-78761/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:21 [scrapy.core.engine] DEBUG: Crawled (404) <GET https://www.grocery-stores.org/grocery-stores-in-73301/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:21 [scrapy.core.engine] DEBUG: Crawled (404) <GET https://www.grocery-stores.org/grocery-stores-in-78764/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:21 [scrapy.core.engine] DEBUG: Crawled (404) <GET https://www.grocery-stores.org/grocery-stores-in-78762/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:21 [scrapy.core.engine] DEBUG: Crawled (404) <GET https://www.grocery-stores.org/grocery-stores-in-78763/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:21 [scrapy.core.engine] DEBUG: Crawled (404) <GET https://www.grocery-stores.org/grocery-stores-in-78760/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:21 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.grocery-stores.org/grocery-stores-in-78759/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:21 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.grocery-stores.org/grocery-stores-in-78761/>: HTTP status code is not handled or not allowed
+2020-12-06 18:20:21 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.grocery-stores.org/grocery-stores-in-73301/>: HTTP status code is not handled or not allowed
+2020-12-06 18:20:21 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.grocery-stores.org/grocery-stores-in-78764/>: HTTP status code is not handled or not allowed
+2020-12-06 18:20:21 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.grocery-stores.org/grocery-stores-in-78762/>: HTTP status code is not handled or not allowed
+2020-12-06 18:20:21 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.grocery-stores.org/grocery-stores-in-78763/>: HTTP status code is not handled or not allowed
+2020-12-06 18:20:21 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.grocery-stores.org/grocery-stores-in-78760/>: HTTP status code is not handled or not allowed
+2020-12-06 18:20:22 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:22 [driver] DEBUG: H E Butt Grocery,10710 Research Blvd # 2 78759
+2020-12-06 18:20:22 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:22 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=10710+Research+Blvd+%23+2+78759&format=json&limit=1
+2020-12-06 18:20:22 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+2020-12-06 18:20:22 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=10710+Research+Blvd+%23+2+78759&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:22 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:22 [driver] DEBUG: H-e-b,10710 Research Blvd Ste 200 78759
+2020-12-06 18:20:22 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:22 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=10710+Research+Blvd+Ste+200+78759&format=json&limit=1
+2020-12-06 18:20:22 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=10710+Research+Blvd+Ste+200+78759&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:22 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.grocery-stores.org/grocery-stores-in-78759/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+Traceback (most recent call last):
+  File "/home/theo/miniconda3/envs/Alpha/lib/python3.6/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/home/theo/Grocery-Finder/scraper/groceryfinder/spiders/driver.py", line 57, in grocery_parse
+    latitude, longitude = self.get_lat_and_long(address, zip_)
+  File "/home/theo/Grocery-Finder/scraper/groceryfinder/spiders/driver.py", line 88, in get_lat_and_long
+    latitude = str(location.latitude)
+AttributeError: 'NoneType' object has no attribute 'latitude'
+2020-12-06 18:20:22 [scrapy.downloadermiddlewares.redirect] DEBUG: Redirecting (301) to <GET https://www.grocery-stores.org/h-e-b-austin-tx-916/> from <GET https://www.grocery-stores.org/grocery-stores-in-78756/>
+2020-12-06 18:20:22 [scrapy.core.engine] DEBUG: Crawled (404) <GET https://www.grocery-stores.org/grocery-stores-in-78755/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:22 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.grocery-stores.org/grocery-stores-in-78758/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:22 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.grocery-stores.org/grocery-stores-in-78754/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:22 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.grocery-stores.org/grocery-stores-in-78757/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:22 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.grocery-stores.org/grocery-stores-in-78752/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:22 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.grocery-stores.org/grocery-stores-in-78753/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:22 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.grocery-stores.org/grocery-stores-in-78751/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:22 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.grocery-stores.org/grocery-stores-in-78755/>: HTTP status code is not handled or not allowed
+2020-12-06 18:20:22 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:22 [driver] DEBUG: Albertsons,8716 Research Blvd 78758
+2020-12-06 18:20:22 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:22 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=8716+Research+Blvd+78758&format=json&limit=1
+2020-12-06 18:20:23 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=8716+Research+Blvd+78758&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:23 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:23 [driver] DEBUG: Fairfield Food Mart,8538 Research Blvd 78758
+2020-12-06 18:20:23 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:23 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=8538+Research+Blvd+78758&format=json&limit=1
+2020-12-06 18:20:23 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=8538+Research+Blvd+78758&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:23 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:23 [driver] DEBUG: H-e-b,12407 N Mopac Expwy 78758
+2020-12-06 18:20:23 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:23 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=12407+N+Mopac+Expwy+78758&format=json&limit=1
+2020-12-06 18:20:24 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=12407+N+Mopac+Expwy+78758&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:24 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.grocery-stores.org/grocery-stores-in-78758/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+Traceback (most recent call last):
+  File "/home/theo/miniconda3/envs/Alpha/lib/python3.6/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/home/theo/Grocery-Finder/scraper/groceryfinder/spiders/driver.py", line 57, in grocery_parse
+    latitude, longitude = self.get_lat_and_long(address, zip_)
+  File "/home/theo/Grocery-Finder/scraper/groceryfinder/spiders/driver.py", line 88, in get_lat_and_long
+    latitude = str(location.latitude)
+AttributeError: 'NoneType' object has no attribute 'latitude'
+2020-12-06 18:20:24 [scrapy.core.engine] DEBUG: Crawled (404) <GET https://www.grocery-stores.org/grocery-stores-in-78779/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:24 [scrapy.core.engine] DEBUG: Crawled (404) <GET https://www.grocery-stores.org/grocery-stores-in-78783/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:24 [scrapy.core.engine] DEBUG: Crawled (404) <GET https://www.grocery-stores.org/grocery-stores-in-78799/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:24 [scrapy.core.engine] DEBUG: Crawled (404) <GET https://www.grocery-stores.org/grocery-stores-in-78772/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:24 [scrapy.core.engine] DEBUG: Crawled (404) <GET https://www.grocery-stores.org/grocery-stores-in-78773/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:24 [scrapy.core.engine] DEBUG: Crawled (404) <GET https://www.grocery-stores.org/grocery-stores-in-78778/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:24 [scrapy.core.engine] DEBUG: Crawled (404) <GET https://www.grocery-stores.org/grocery-stores-in-78774/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:24 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.grocery-stores.org/sgt-peppers-hot-sauce-austin-tx-9ef/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:24 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:24 [driver] DEBUG: E A Sween Company,8608 Wall St 78754
+2020-12-06 18:20:24 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:24 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=8608+Wall+St+78754&format=json&limit=1
+2020-12-06 18:20:24 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=8608+Wall+St+78754&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:24 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:24 [driver] DEBUG: Mi Casa Market,11700 Dessau Rd 78754
+2020-12-06 18:20:24 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:24 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=11700+Dessau+Rd+78754&format=json&limit=1
+2020-12-06 18:20:25 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=11700+Dessau+Rd+78754&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:25 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:25 [driver] DEBUG: Amg Mart,1700 W Anderson Ln 78757
+2020-12-06 18:20:25 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:25 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=1700+W+Anderson+Ln+78757&format=json&limit=1
+2020-12-06 18:20:25 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=1700+W+Anderson+Ln+78757&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:25 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:25 [driver] DEBUG: Arlan's Market 25,7108 Woodrow Ave 78757
+2020-12-06 18:20:25 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:25 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=7108+Woodrow+Ave+78757&format=json&limit=1
+2020-12-06 18:20:26 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=7108+Woodrow+Ave+78757&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:26 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:26 [driver] DEBUG: Crestview Minimax,7108 Woodrow Ave 78757
+2020-12-06 18:20:26 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:26 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=7108+Woodrow+Ave+78757&format=json&limit=1
+2020-12-06 18:20:26 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=7108+Woodrow+Ave+78757&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:26 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:26 [driver] DEBUG: 99 Ranch Market,6929 Airport Blvd 78752
+2020-12-06 18:20:26 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:26 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=6929+Airport+Blvd+78752&format=json&limit=1
+2020-12-06 18:20:27 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=6929+Airport+Blvd+78752&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:27 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:27 [driver] DEBUG: Eatery Heo,6214 N Lamar Blvd 78752
+2020-12-06 18:20:27 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:27 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=6214+N+Lamar+Blvd+78752&format=json&limit=1
+2020-12-06 18:20:27 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=6214+N+Lamar+Blvd+78752&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:27 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:27 [driver] DEBUG: Food Lion,109 Denson Dr 78752
+2020-12-06 18:20:27 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:27 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=109+Denson+Dr+78752&format=json&limit=1
+2020-12-06 18:20:28 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=109+Denson+Dr+78752&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:28 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:28 [driver] DEBUG: Spec's,5775 Airport Blvd 78752
+2020-12-06 18:20:28 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:28 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=5775+Airport+Blvd+78752&format=json&limit=1
+2020-12-06 18:20:28 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=5775+Airport+Blvd+78752&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:28 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:28 [driver] DEBUG: Stop and Shop,6301 N Lamar Blvd 78752
+2020-12-06 18:20:28 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:28 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=6301+N+Lamar+Blvd+78752&format=json&limit=1
+2020-12-06 18:20:29 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=6301+N+Lamar+Blvd+78752&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:29 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:29 [driver] DEBUG: 7-Eleven,9401 N I-h35 78753
+2020-12-06 18:20:29 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:29 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=9401+N+I-h35+78753&format=json&limit=1
+2020-12-06 18:20:29 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=9401+N+I-h35+78753&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:29 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.grocery-stores.org/grocery-stores-in-78753/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+Traceback (most recent call last):
+  File "/home/theo/miniconda3/envs/Alpha/lib/python3.6/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/home/theo/Grocery-Finder/scraper/groceryfinder/spiders/driver.py", line 57, in grocery_parse
+    latitude, longitude = self.get_lat_and_long(address, zip_)
+  File "/home/theo/Grocery-Finder/scraper/groceryfinder/spiders/driver.py", line 88, in get_lat_and_long
+    latitude = str(location.latitude)
+AttributeError: 'NoneType' object has no attribute 'latitude'
+2020-12-06 18:20:29 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:29 [driver] DEBUG: Avenue B Groc and Market,4403 Ave B 78751
+2020-12-06 18:20:29 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:29 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=4403+Ave+B+78751&format=json&limit=1
+2020-12-06 18:20:30 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=4403+Ave+B+78751&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:30 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:30 [driver] DEBUG: D K Sushi and Seoul Asian Food Market,5610 N Lamar Blvd 78751
+2020-12-06 18:20:30 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:30 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=5610+N+Lamar+Blvd+78751&format=json&limit=1
+2020-12-06 18:20:30 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=5610+N+Lamar+Blvd+78751&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:30 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:30 [driver] DEBUG: Fresh Plus Grocery,408 E 43rd St 78751
+2020-12-06 18:20:30 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:30 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=408+E+43rd+St+78751&format=json&limit=1
+2020-12-06 18:20:31 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=408+E+43rd+St+78751&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:31 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:31 [driver] DEBUG: H-e-b,1000 E 41st St 78751
+2020-12-06 18:20:31 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:31 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=1000+E+41st+St+78751&format=json&limit=1
+2020-12-06 18:20:31 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=1000+E+41st+St+78751&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:31 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.grocery-stores.org/grocery-stores-in-78779/>: HTTP status code is not handled or not allowed
+2020-12-06 18:20:31 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.grocery-stores.org/grocery-stores-in-78783/>: HTTP status code is not handled or not allowed
+2020-12-06 18:20:31 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.grocery-stores.org/grocery-stores-in-78799/>: HTTP status code is not handled or not allowed
+2020-12-06 18:20:31 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.grocery-stores.org/grocery-stores-in-78772/>: HTTP status code is not handled or not allowed
+2020-12-06 18:20:31 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.grocery-stores.org/grocery-stores-in-78773/>: HTTP status code is not handled or not allowed
+2020-12-06 18:20:31 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.grocery-stores.org/grocery-stores-in-78778/>: HTTP status code is not handled or not allowed
+2020-12-06 18:20:31 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.grocery-stores.org/grocery-stores-in-78774/>: HTTP status code is not handled or not allowed
+2020-12-06 18:20:31 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:31 [driver] DEBUG: 99 Ranch Market,6929 Airport Blvd 9ef
+2020-12-06 18:20:31 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:31 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=6929+Airport+Blvd+9ef&format=json&limit=1
+2020-12-06 18:20:32 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=6929+Airport+Blvd+9ef&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:32 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:32 [driver] DEBUG: Albertsons,5510 S Interstate 35 9ef
+2020-12-06 18:20:32 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:32 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=5510+S+Interstate+35+9ef&format=json&limit=1
+2020-12-06 18:20:32 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=5510+S+Interstate+35+9ef&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:32 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:32 [driver] DEBUG: Amigos,4410 E Riverside Dr 9ef
+2020-12-06 18:20:32 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:32 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=4410+E+Riverside+Dr+9ef&format=json&limit=1
+2020-12-06 18:20:33 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=4410+E+Riverside+Dr+9ef&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:33 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:33 [driver] DEBUG: Arlan's Market 25,7108 Woodrow Ave 9ef
+2020-12-06 18:20:33 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:33 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=7108+Woodrow+Ave+9ef&format=json&limit=1
+2020-12-06 18:20:33 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=7108+Woodrow+Ave+9ef&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:33 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.grocery-stores.org/sgt-peppers-hot-sauce-austin-tx-9ef/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+Traceback (most recent call last):
+  File "/home/theo/miniconda3/envs/Alpha/lib/python3.6/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/home/theo/Grocery-Finder/scraper/groceryfinder/spiders/driver.py", line 57, in grocery_parse
+    latitude, longitude = self.get_lat_and_long(address, zip_)
+  File "/home/theo/Grocery-Finder/scraper/groceryfinder/spiders/driver.py", line 88, in get_lat_and_long
+    latitude = str(location.latitude)
+AttributeError: 'NoneType' object has no attribute 'latitude'
+2020-12-06 18:20:34 [scrapy.core.engine] DEBUG: Crawled (404) <GET https://www.grocery-stores.org/grocery-stores-in-78767/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:34 [scrapy.core.engine] DEBUG: Crawled (404) <GET https://www.grocery-stores.org/grocery-stores-in-78768/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:34 [scrapy.core.engine] DEBUG: Crawled (404) <GET https://www.grocery-stores.org/grocery-stores-in-78766/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:34 [scrapy.downloadermiddlewares.redirect] DEBUG: Redirecting (301) to <GET https://www.grocery-stores.org/penzeys-spices-austin-tx-5de/> from <GET https://www.grocery-stores.org/grocery-stores-in-78747/>
+2020-12-06 18:20:34 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.grocery-stores.org/grocery-stores-in-78750/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:34 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.grocery-stores.org/grocery-stores-in-78748/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:34 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.grocery-stores.org/grocery-stores-in-78749/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:34 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.grocery-stores.org/grocery-stores-in-78767/>: HTTP status code is not handled or not allowed
+2020-12-06 18:20:34 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.grocery-stores.org/grocery-stores-in-78768/>: HTTP status code is not handled or not allowed
+2020-12-06 18:20:34 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.grocery-stores.org/grocery-stores-in-78766/>: HTTP status code is not handled or not allowed
+2020-12-06 18:20:34 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.grocery-stores.org/h-e-b-austin-tx-916/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:34 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:34 [driver] DEBUG: Capital Fast Foods,13425 N Hwy 183 78750
+2020-12-06 18:20:34 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:34 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=13425+N+Hwy+183+78750&format=json&limit=1
+2020-12-06 18:20:34 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=13425+N+Hwy+183+78750&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:34 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:34 [driver] DEBUG: H-e-b,12860 Research Blvd 78750
+2020-12-06 18:20:34 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:34 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=12860+Research+Blvd+78750&format=json&limit=1
+2020-12-06 18:20:35 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=12860+Research+Blvd+78750&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:35 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:35 [driver] DEBUG: R Z Foodmart,9708 Anderson Ml Rd 78750
+2020-12-06 18:20:35 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:35 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=9708+Anderson+Ml+Rd+78750&format=json&limit=1
+2020-12-06 18:20:35 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=9708+Anderson+Ml+Rd+78750&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:35 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.grocery-stores.org/grocery-stores-in-78750/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+Traceback (most recent call last):
+  File "/home/theo/miniconda3/envs/Alpha/lib/python3.6/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/home/theo/Grocery-Finder/scraper/groceryfinder/spiders/driver.py", line 57, in grocery_parse
+    latitude, longitude = self.get_lat_and_long(address, zip_)
+  File "/home/theo/Grocery-Finder/scraper/groceryfinder/spiders/driver.py", line 88, in get_lat_and_long
+    latitude = str(location.latitude)
+AttributeError: 'NoneType' object has no attribute 'latitude'
+2020-12-06 18:20:35 [scrapy.core.engine] DEBUG: Crawled (404) <GET https://www.grocery-stores.org/grocery-stores-in-78742/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:35 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.grocery-stores.org/grocery-stores-in-78746/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:35 [scrapy.core.engine] DEBUG: Crawled (404) <GET https://www.grocery-stores.org/grocery-stores-in-78739/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:35 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.grocery-stores.org/grocery-stores-in-78744/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:35 [scrapy.core.engine] DEBUG: Crawled (404) <GET https://www.grocery-stores.org/grocery-stores-in-78738/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:35 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.grocery-stores.org/grocery-stores-in-78745/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:35 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.grocery-stores.org/grocery-stores-in-78741/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:35 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.grocery-stores.org/grocery-stores-in-78736/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:35 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:35 [driver] DEBUG: Dollar General,9600 Manchaca Rd 78748
+2020-12-06 18:20:35 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:35 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=9600+Manchaca+Rd+78748&format=json&limit=1
+2020-12-06 18:20:36 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=9600+Manchaca+Rd+78748&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:36 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:36 [driver] DEBUG: Pavilions,9911 Brodie Ln 78748
+2020-12-06 18:20:36 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:36 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=9911+Brodie+Ln+78748&format=json&limit=1
+2020-12-06 18:20:36 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=9911+Brodie+Ln+78748&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:36 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:36 [driver] DEBUG: Spec's,9900 S Ih35 78748
+2020-12-06 18:20:36 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:36 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=9900+S+Ih35+78748&format=json&limit=1
+2020-12-06 18:20:37 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=9900+S+Ih35+78748&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:37 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.grocery-stores.org/grocery-stores-in-78748/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+Traceback (most recent call last):
+  File "/home/theo/miniconda3/envs/Alpha/lib/python3.6/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/home/theo/Grocery-Finder/scraper/groceryfinder/spiders/driver.py", line 57, in grocery_parse
+    latitude, longitude = self.get_lat_and_long(address, zip_)
+  File "/home/theo/Grocery-Finder/scraper/groceryfinder/spiders/driver.py", line 88, in get_lat_and_long
+    latitude = str(location.latitude)
+AttributeError: 'NoneType' object has no attribute 'latitude'
+2020-12-06 18:20:37 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:37 [driver] DEBUG: Baker's Layne,4609 Alta Loma Dr 78749
+2020-12-06 18:20:37 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:37 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=4609+Alta+Loma+Dr+78749&format=json&limit=1
+2020-12-06 18:20:37 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=4609+Alta+Loma+Dr+78749&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:37 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:37 [driver] DEBUG: Costco Wholesale,4301 W William Cannon Dr 78749
+2020-12-06 18:20:37 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:37 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=4301+W+William+Cannon+Dr+78749&format=json&limit=1
+2020-12-06 18:20:38 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=4301+W+William+Cannon+Dr+78749&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:38 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:38 [driver] DEBUG: Man Pasand Grocery,3601 W William Cannon Dr 78749
+2020-12-06 18:20:38 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:38 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=3601+W+William+Cannon+Dr+78749&format=json&limit=1
+2020-12-06 18:20:38 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=3601+W+William+Cannon+Dr+78749&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:38 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:38 [driver] DEBUG: Pavilions,6600 Mopac Expy S 78749
+2020-12-06 18:20:38 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:38 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=6600+Mopac+Expy+S+78749&format=json&limit=1
+2020-12-06 18:20:39 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=6600+Mopac+Expy+S+78749&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:39 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:39 [driver] DEBUG: Star Stop38,4912 Monterey Oaks Blvd 78749
+2020-12-06 18:20:39 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:39 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=4912+Monterey+Oaks+Blvd+78749&format=json&limit=1
+2020-12-06 18:20:39 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=4912+Monterey+Oaks+Blvd+78749&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:39 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:39 [driver] DEBUG: Target,5300 S Mo Pac Expy 78749
+2020-12-06 18:20:39 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:39 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=5300+S+Mo+Pac+Expy+78749&format=json&limit=1
+2020-12-06 18:20:40 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=5300+S+Mo+Pac+Expy+78749&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:40 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.grocery-stores.org/grocery-stores-in-78749/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+Traceback (most recent call last):
+  File "/home/theo/miniconda3/envs/Alpha/lib/python3.6/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/home/theo/Grocery-Finder/scraper/groceryfinder/spiders/driver.py", line 57, in grocery_parse
+    latitude, longitude = self.get_lat_and_long(address, zip_)
+  File "/home/theo/Grocery-Finder/scraper/groceryfinder/spiders/driver.py", line 88, in get_lat_and_long
+    latitude = str(location.latitude)
+AttributeError: 'NoneType' object has no attribute 'latitude'
+2020-12-06 18:20:40 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:40 [driver] DEBUG: 365 By Whole Foods Market,550 Bowie St 916
+2020-12-06 18:20:40 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:40 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=550+Bowie+St+916&format=json&limit=1
+2020-12-06 18:20:40 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=550+Bowie+St+916&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:40 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:40 [driver] DEBUG: 99 Ranch Market,6929 Airport Blvd 916
+2020-12-06 18:20:40 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:40 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=6929+Airport+Blvd+916&format=json&limit=1
+2020-12-06 18:20:41 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=6929+Airport+Blvd+916&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:41 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.grocery-stores.org/grocery-stores-in-78742/>: HTTP status code is not handled or not allowed
+2020-12-06 18:20:41 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:41 [driver] DEBUG: 7-Eleven,6111 Bee Cave Rd 78746
+2020-12-06 18:20:41 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:41 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=6111+Bee+Cave+Rd+78746&format=json&limit=1
+2020-12-06 18:20:41 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=6111+Bee+Cave+Rd+78746&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:41 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.grocery-stores.org/grocery-stores-in-78746/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+Traceback (most recent call last):
+  File "/home/theo/miniconda3/envs/Alpha/lib/python3.6/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/home/theo/Grocery-Finder/scraper/groceryfinder/spiders/driver.py", line 57, in grocery_parse
+    latitude, longitude = self.get_lat_and_long(address, zip_)
+  File "/home/theo/Grocery-Finder/scraper/groceryfinder/spiders/driver.py", line 88, in get_lat_and_long
+    latitude = str(location.latitude)
+AttributeError: 'NoneType' object has no attribute 'latitude'
+2020-12-06 18:20:41 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.grocery-stores.org/grocery-stores-in-78739/>: HTTP status code is not handled or not allowed
+2020-12-06 18:20:41 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:41 [driver] DEBUG: Ahsan Qazi,4600 Teri Rd 78744
+2020-12-06 18:20:41 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:41 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=4600+Teri+Rd+78744&format=json&limit=1
+2020-12-06 18:20:42 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=4600+Teri+Rd+78744&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:42 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:42 [driver] DEBUG: All Star Grocery,5303 Nuckols Xing Rd 78744
+2020-12-06 18:20:42 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:42 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=5303+Nuckols+Xing+Rd+78744&format=json&limit=1
+2020-12-06 18:20:42 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=5303+Nuckols+Xing+Rd+78744&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:42 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:42 [driver] DEBUG: All Star Grocery 3,4600 Teri Rd 78744
+2020-12-06 18:20:42 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:42 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=4600+Teri+Rd+78744&format=json&limit=1
+2020-12-06 18:20:43 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=4600+Teri+Rd+78744&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:43 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.grocery-stores.org/grocery-stores-in-78738/>: HTTP status code is not handled or not allowed
+2020-12-06 18:20:43 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:43 [driver] DEBUG: Albertsons,5510 S Interstate 35 78745
+2020-12-06 18:20:43 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:43 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=5510+S+Interstate+35+78745&format=json&limit=1
+2020-12-06 18:20:43 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=5510+S+Interstate+35+78745&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:43 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:43 [driver] DEBUG: Central Market,4521 W Gate Blvd 78745
+2020-12-06 18:20:43 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:43 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=4521+W+Gate+Blvd+78745&format=json&limit=1
+2020-12-06 18:20:44 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=4521+W+Gate+Blvd+78745&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:44 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:44 [driver] DEBUG: Fiesta Mart,5510 S I H 35 78745
+2020-12-06 18:20:44 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:44 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=5510+S+I+H+35+78745&format=json&limit=1
+2020-12-06 18:20:44 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=5510+S+I+H+35+78745&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:44 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.grocery-stores.org/grocery-stores-in-78745/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+Traceback (most recent call last):
+  File "/home/theo/miniconda3/envs/Alpha/lib/python3.6/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/home/theo/Grocery-Finder/scraper/groceryfinder/spiders/driver.py", line 57, in grocery_parse
+    latitude, longitude = self.get_lat_and_long(address, zip_)
+  File "/home/theo/Grocery-Finder/scraper/groceryfinder/spiders/driver.py", line 88, in get_lat_and_long
+    latitude = str(location.latitude)
+AttributeError: 'NoneType' object has no attribute 'latitude'
+2020-12-06 18:20:44 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:44 [driver] DEBUG: Am Petroleum,7310 E Riverside Dr 78741
+2020-12-06 18:20:44 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:44 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=7310+E+Riverside+Dr+78741&format=json&limit=1
+2020-12-06 18:20:45 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=7310+E+Riverside+Dr+78741&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:45 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:45 [driver] DEBUG: Amigos,4410 E Riverside Dr 78741
+2020-12-06 18:20:45 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:45 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=4410+E+Riverside+Dr+78741&format=json&limit=1
+2020-12-06 18:20:45 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=4410+E+Riverside+Dr+78741&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:45 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:45 [driver] DEBUG: H-E-B Plus!,2508 E Riverside Dr 78741
+2020-12-06 18:20:45 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:45 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=2508+E+Riverside+Dr+78741&format=json&limit=1
+2020-12-06 18:20:46 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=2508+E+Riverside+Dr+78741&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:46 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:46 [driver] DEBUG: Hallmark Specialty Retail Group,2701 Parker Ln 78741
+2020-12-06 18:20:46 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:46 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=2701+Parker+Ln+78741&format=json&limit=1
+2020-12-06 18:20:46 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=2701+Parker+Ln+78741&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:46 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:46 [driver] DEBUG: JD's Market 5,7310 E Riverside Dr 78741
+2020-12-06 18:20:46 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:46 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=7310+E+Riverside+Dr+78741&format=json&limit=1
+2020-12-06 18:20:47 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=7310+E+Riverside+Dr+78741&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:47 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:47 [driver] DEBUG: Albertsons,7100 Hwy 290 W 78736
+2020-12-06 18:20:47 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:47 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=7100+Hwy+290+W+78736&format=json&limit=1
+2020-12-06 18:20:47 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=7100+Hwy+290+W+78736&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:47 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.grocery-stores.org/grocery-stores-in-78736/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+Traceback (most recent call last):
+  File "/home/theo/miniconda3/envs/Alpha/lib/python3.6/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/home/theo/Grocery-Finder/scraper/groceryfinder/spiders/driver.py", line 57, in grocery_parse
+    latitude, longitude = self.get_lat_and_long(address, zip_)
+  File "/home/theo/Grocery-Finder/scraper/groceryfinder/spiders/driver.py", line 88, in get_lat_and_long
+    latitude = str(location.latitude)
+AttributeError: 'NoneType' object has no attribute 'latitude'
+2020-12-06 18:20:48 [scrapy.downloadermiddlewares.redirect] DEBUG: Redirecting (301) to <GET https://www.grocery-stores.org/lakehills-grocery-austin-tx-f88/> from <GET https://www.grocery-stores.org/grocery-stores-in-78733/>
+2020-12-06 18:20:48 [scrapy.downloadermiddlewares.redirect] DEBUG: Redirecting (301) to <GET https://www.grocery-stores.org/pavilions-austin-tx-71f/> from <GET https://www.grocery-stores.org/grocery-stores-in-78732/>
+2020-12-06 18:20:48 [scrapy.core.engine] DEBUG: Crawled (404) <GET https://www.grocery-stores.org/grocery-stores-in-78734/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:48 [scrapy.core.engine] DEBUG: Crawled (404) <GET https://www.grocery-stores.org/grocery-stores-in-78730/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:48 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.grocery-stores.org/grocery-stores-in-78735/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:48 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.grocery-stores.org/grocery-stores-in-78728/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:48 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.grocery-stores.org/grocery-stores-in-78731/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:48 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.grocery-stores.org/grocery-stores-in-78734/>: HTTP status code is not handled or not allowed
+2020-12-06 18:20:48 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.grocery-stores.org/penzeys-spices-austin-tx-5de/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:48 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.grocery-stores.org/grocery-stores-in-78730/>: HTTP status code is not handled or not allowed
+2020-12-06 18:20:48 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:48 [driver] DEBUG: H-E-B Foods,7010 W Hwy 71 78735
+2020-12-06 18:20:48 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:48 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=7010+W+Hwy+71+78735&format=json&limit=1
+2020-12-06 18:20:48 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=7010+W+Hwy+71+78735&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:48 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:48 [driver] DEBUG: Highway 71 Food Mart,9341 W Hwy 71 78735
+2020-12-06 18:20:48 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:48 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=9341+W+Hwy+71+78735&format=json&limit=1
+2020-12-06 18:20:49 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=9341+W+Hwy+71+78735&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:49 [scrapy.core.engine] DEBUG: Crawled (404) <GET https://www.grocery-stores.org/grocery-stores-in-78725/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:49 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.grocery-stores.org/grocery-stores-in-78727/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:49 [scrapy.downloadermiddlewares.redirect] DEBUG: Redirecting (301) to <GET https://www.grocery-stores.org/fiesta-mart-austin-tx-652/> from <GET https://www.grocery-stores.org/grocery-stores-in-78722/>
+2020-12-06 18:20:49 [scrapy.core.engine] DEBUG: Crawled (404) <GET https://www.grocery-stores.org/grocery-stores-in-78721/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:49 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.grocery-stores.org/grocery-stores-in-78726/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:49 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.grocery-stores.org/grocery-stores-in-78724/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:49 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.grocery-stores.org/grocery-stores-in-78723/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:49 [scrapy.core.engine] DEBUG: Crawled (404) <GET https://www.grocery-stores.org/grocery-stores-in-78720/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:49 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:49 [driver] DEBUG: Desserts Of Many Worlds,1773 Wls Br Pkwy 78728
+2020-12-06 18:20:49 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:49 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=1773+Wls+Br+Pkwy+78728&format=json&limit=1
+2020-12-06 18:20:49 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=1773+Wls+Br+Pkwy+78728&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:49 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.grocery-stores.org/grocery-stores-in-78728/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+Traceback (most recent call last):
+  File "/home/theo/miniconda3/envs/Alpha/lib/python3.6/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/home/theo/Grocery-Finder/scraper/groceryfinder/spiders/driver.py", line 57, in grocery_parse
+    latitude, longitude = self.get_lat_and_long(address, zip_)
+  File "/home/theo/Grocery-Finder/scraper/groceryfinder/spiders/driver.py", line 88, in get_lat_and_long
+    latitude = str(location.latitude)
+AttributeError: 'NoneType' object has no attribute 'latitude'
+2020-12-06 18:20:49 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:49 [driver] DEBUG: H-e-b,7015 Vlg Ctr Dr 78731
+2020-12-06 18:20:49 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:49 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=7015+Vlg+Ctr+Dr+78731&format=json&limit=1
+2020-12-06 18:20:50 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=7015+Vlg+Ctr+Dr+78731&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:50 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.grocery-stores.org/grocery-stores-in-78731/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+Traceback (most recent call last):
+  File "/home/theo/miniconda3/envs/Alpha/lib/python3.6/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/home/theo/Grocery-Finder/scraper/groceryfinder/spiders/driver.py", line 57, in grocery_parse
+    latitude, longitude = self.get_lat_and_long(address, zip_)
+  File "/home/theo/Grocery-Finder/scraper/groceryfinder/spiders/driver.py", line 88, in get_lat_and_long
+    latitude = str(location.latitude)
+AttributeError: 'NoneType' object has no attribute 'latitude'
+2020-12-06 18:20:50 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:50 [driver] DEBUG: 365 By Whole Foods Market,550 Bowie St 5de
+2020-12-06 18:20:50 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:50 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=550+Bowie+St+5de&format=json&limit=1
+2020-12-06 18:20:50 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=550+Bowie+St+5de&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:50 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.grocery-stores.org/penzeys-spices-austin-tx-5de/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+Traceback (most recent call last):
+  File "/home/theo/miniconda3/envs/Alpha/lib/python3.6/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/home/theo/Grocery-Finder/scraper/groceryfinder/spiders/driver.py", line 57, in grocery_parse
+    latitude, longitude = self.get_lat_and_long(address, zip_)
+  File "/home/theo/Grocery-Finder/scraper/groceryfinder/spiders/driver.py", line 88, in get_lat_and_long
+    latitude = str(location.latitude)
+AttributeError: 'NoneType' object has no attribute 'latitude'
+2020-12-06 18:20:50 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.grocery-stores.org/grocery-stores-in-78725/>: HTTP status code is not handled or not allowed
+2020-12-06 18:20:50 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:50 [driver] DEBUG: Albertsons,13801 Burnet Rd 78727
+2020-12-06 18:20:50 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:50 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=13801+Burnet+Rd+78727&format=json&limit=1
+2020-12-06 18:20:51 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=13801+Burnet+Rd+78727&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:51 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:51 [driver] DEBUG: Gourmet Grocery Online,PO Box 270115 78727
+2020-12-06 18:20:51 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:51 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=PO+Box+270115+78727&format=json&limit=1
+2020-12-06 18:20:51 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=PO+Box+270115+78727&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:51 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.grocery-stores.org/grocery-stores-in-78727/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+Traceback (most recent call last):
+  File "/home/theo/miniconda3/envs/Alpha/lib/python3.6/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/home/theo/Grocery-Finder/scraper/groceryfinder/spiders/driver.py", line 57, in grocery_parse
+    latitude, longitude = self.get_lat_and_long(address, zip_)
+  File "/home/theo/Grocery-Finder/scraper/groceryfinder/spiders/driver.py", line 88, in get_lat_and_long
+    latitude = str(location.latitude)
+AttributeError: 'NoneType' object has no attribute 'latitude'
+2020-12-06 18:20:51 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.grocery-stores.org/grocery-stores-in-78721/>: HTTP status code is not handled or not allowed
+2020-12-06 18:20:51 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:51 [driver] DEBUG: H-E-B Foods,11521 N Fm 620 Rd # A 78726
+2020-12-06 18:20:51 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:51 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=11521+N+Fm+620+Rd+%23+A+78726&format=json&limit=1
+2020-12-06 18:20:52 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=11521+N+Fm+620+Rd+%23+A+78726&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:52 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:52 [driver] DEBUG: H-E-B Plus!,11521 N Fm 620 Rd 78726
+2020-12-06 18:20:52 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:52 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=11521+N+Fm+620+Rd+78726&format=json&limit=1
+2020-12-06 18:20:52 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=11521+N+Fm+620+Rd+78726&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:52 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:52 [driver] DEBUG: Forest Bluff Grocery,14300 Fm 969 78724
+2020-12-06 18:20:52 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:52 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=14300+Fm+969+78724&format=json&limit=1
+2020-12-06 18:20:52 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=14300+Fm+969+78724&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:52 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:52 [driver] DEBUG: J D's Market,6506 Decker Ln 78724
+2020-12-06 18:20:52 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:52 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=6506+Decker+Ln+78724&format=json&limit=1
+2020-12-06 18:20:53 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=6506+Decker+Ln+78724&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:53 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:53 [driver] DEBUG: Safeway,9579 E Hwy 290 78724
+2020-12-06 18:20:53 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:53 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=9579+E+Hwy+290+78724&format=json&limit=1
+2020-12-06 18:20:53 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=9579+E+Hwy+290+78724&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:53 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.grocery-stores.org/grocery-stores-in-78724/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+Traceback (most recent call last):
+  File "/home/theo/miniconda3/envs/Alpha/lib/python3.6/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/home/theo/Grocery-Finder/scraper/groceryfinder/spiders/driver.py", line 57, in grocery_parse
+    latitude, longitude = self.get_lat_and_long(address, zip_)
+  File "/home/theo/Grocery-Finder/scraper/groceryfinder/spiders/driver.py", line 88, in get_lat_and_long
+    latitude = str(location.latitude)
+AttributeError: 'NoneType' object has no attribute 'latitude'
+2020-12-06 18:20:53 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:53 [driver] DEBUG: Aus-Tex Food Mart,4607 Loyola Ln 78723
+2020-12-06 18:20:53 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:53 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=4607+Loyola+Ln+78723&format=json&limit=1
+2020-12-06 18:20:54 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=4607+Loyola+Ln+78723&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:54 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:54 [driver] DEBUG: City Market,6319 Cameron Rd 78723
+2020-12-06 18:20:54 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:54 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=6319+Cameron+Rd+78723&format=json&limit=1
+2020-12-06 18:20:55 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=6319+Cameron+Rd+78723&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:55 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:55 [driver] DEBUG: H-e-b,7112 Ed Bluestein Blvd 78723
+2020-12-06 18:20:55 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:55 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=7112+Ed+Bluestein+Blvd+78723&format=json&limit=1
+2020-12-06 18:20:55 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=7112+Ed+Bluestein+Blvd+78723&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:55 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:55 [driver] DEBUG: H-e-b,1801 E 51st St 78723
+2020-12-06 18:20:55 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:55 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=1801+E+51st+St+78723&format=json&limit=1
+2020-12-06 18:20:55 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=1801+E+51st+St+78723&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:55 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:55 [driver] DEBUG: H-e-b,1801 E.51st St 78723
+2020-12-06 18:20:55 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:55 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=1801+E.51st+St+78723&format=json&limit=1
+2020-12-06 18:20:56 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=1801+E.51st+St+78723&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:56 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.grocery-stores.org/grocery-stores-in-78720/>: HTTP status code is not handled or not allowed
+2020-12-06 18:20:56 [scrapy.core.engine] DEBUG: Crawled (404) <GET https://www.grocery-stores.org/grocery-stores-in-78719/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:56 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.grocery-stores.org/lakehills-grocery-austin-tx-f88/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:56 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.grocery-stores.org/pavilions-austin-tx-71f/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:56 [scrapy.core.engine] DEBUG: Crawled (404) <GET https://www.grocery-stores.org/grocery-stores-in-78718/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:56 [scrapy.core.engine] DEBUG: Crawled (404) <GET https://www.grocery-stores.org/grocery-stores-in-78716/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:56 [scrapy.core.engine] DEBUG: Crawled (404) <GET https://www.grocery-stores.org/grocery-stores-in-78715/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:56 [scrapy.core.engine] DEBUG: Crawled (404) <GET https://www.grocery-stores.org/grocery-stores-in-78714/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:56 [scrapy.core.engine] DEBUG: Crawled (404) <GET https://www.grocery-stores.org/grocery-stores-in-78713/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:56 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.grocery-stores.org/grocery-stores-in-78719/>: HTTP status code is not handled or not allowed
+2020-12-06 18:20:56 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:56 [driver] DEBUG: 99 Ranch Market,6929 Airport Blvd f88
+2020-12-06 18:20:56 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:56 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=6929+Airport+Blvd+f88&format=json&limit=1
+2020-12-06 18:20:57 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=6929+Airport+Blvd+f88&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:57 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:57 [driver] DEBUG: 365 By Whole Foods Market,550 Bowie St 71f
+2020-12-06 18:20:57 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:57 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=550+Bowie+St+71f&format=json&limit=1
+2020-12-06 18:20:57 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=550+Bowie+St+71f&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:57 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.grocery-stores.org/pavilions-austin-tx-71f/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+Traceback (most recent call last):
+  File "/home/theo/miniconda3/envs/Alpha/lib/python3.6/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/home/theo/Grocery-Finder/scraper/groceryfinder/spiders/driver.py", line 57, in grocery_parse
+    latitude, longitude = self.get_lat_and_long(address, zip_)
+  File "/home/theo/Grocery-Finder/scraper/groceryfinder/spiders/driver.py", line 88, in get_lat_and_long
+    latitude = str(location.latitude)
+AttributeError: 'NoneType' object has no attribute 'latitude'
+2020-12-06 18:20:57 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.grocery-stores.org/grocery-stores-in-78718/>: HTTP status code is not handled or not allowed
+2020-12-06 18:20:57 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.grocery-stores.org/grocery-stores-in-78716/>: HTTP status code is not handled or not allowed
+2020-12-06 18:20:57 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.grocery-stores.org/grocery-stores-in-78715/>: HTTP status code is not handled or not allowed
+2020-12-06 18:20:57 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.grocery-stores.org/grocery-stores-in-78714/>: HTTP status code is not handled or not allowed
+2020-12-06 18:20:57 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.grocery-stores.org/grocery-stores-in-78713/>: HTTP status code is not handled or not allowed
+2020-12-06 18:20:57 [scrapy.core.engine] DEBUG: Crawled (404) <GET https://www.grocery-stores.org/grocery-stores-in-78708/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:57 [scrapy.core.engine] DEBUG: Crawled (404) <GET https://www.grocery-stores.org/grocery-stores-in-78711/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:57 [scrapy.core.engine] DEBUG: Crawled (404) <GET https://www.grocery-stores.org/grocery-stores-in-78710/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:57 [scrapy.core.engine] DEBUG: Crawled (404) <GET https://www.grocery-stores.org/grocery-stores-in-78712/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:57 [scrapy.core.engine] DEBUG: Crawled (404) <GET https://www.grocery-stores.org/grocery-stores-in-78709/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:57 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.grocery-stores.org/grocery-stores-in-78705/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:57 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.grocery-stores.org/grocery-stores-in-78704/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:57 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.grocery-stores.org/grocery-stores-in-78708/>: HTTP status code is not handled or not allowed
+2020-12-06 18:20:58 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.grocery-stores.org/grocery-stores-in-78711/>: HTTP status code is not handled or not allowed
+2020-12-06 18:20:58 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.grocery-stores.org/fiesta-mart-austin-tx-652/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:58 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.grocery-stores.org/grocery-stores-in-78710/>: HTTP status code is not handled or not allowed
+2020-12-06 18:20:58 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.grocery-stores.org/grocery-stores-in-78712/>: HTTP status code is not handled or not allowed
+2020-12-06 18:20:58 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.grocery-stores.org/grocery-stores-in-78709/>: HTTP status code is not handled or not allowed
+2020-12-06 18:20:58 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:58 [driver] DEBUG: Fresh Plus Grocery,2401 San Gabriel St Apt 200 78705
+2020-12-06 18:20:58 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:58 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=2401+San+Gabriel+St+Apt+200+78705&format=json&limit=1
+2020-12-06 18:20:58 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=2401+San+Gabriel+St+Apt+200+78705&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:58 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.grocery-stores.org/grocery-stores-in-78705/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+Traceback (most recent call last):
+  File "/home/theo/miniconda3/envs/Alpha/lib/python3.6/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/home/theo/Grocery-Finder/scraper/groceryfinder/spiders/driver.py", line 57, in grocery_parse
+    latitude, longitude = self.get_lat_and_long(address, zip_)
+  File "/home/theo/Grocery-Finder/scraper/groceryfinder/spiders/driver.py", line 88, in get_lat_and_long
+    latitude = str(location.latitude)
+AttributeError: 'NoneType' object has no attribute 'latitude'
+2020-12-06 18:20:58 [scrapy.core.engine] DEBUG: Crawled (404) <GET https://www.grocery-stores.org/grocery-stores-in-78691/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:58 [scrapy.core.engine] DEBUG: Crawled (404) <GET https://www.grocery-stores.org/grocery-stores-in-78669/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:58 [scrapy.core.engine] DEBUG: Crawled (404) <GET https://www.grocery-stores.org/grocery-stores-in-78660/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:58 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.grocery-stores.org/grocery-stores-in-78703/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:58 [scrapy.core.engine] DEBUG: Crawled (404) <GET https://www.grocery-stores.org/grocery-stores-in-78653/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:58 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.grocery-stores.org/grocery-stores-in-78701/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:58 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.grocery-stores.org/grocery-stores-in-78702/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:58 [scrapy.core.engine] DEBUG: Crawled (404) <GET https://www.grocery-stores.org/grocery-stores-in-78652/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:20:58 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:58 [driver] DEBUG: D H Food Mart,2911 S 1st St 78704
+2020-12-06 18:20:58 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:58 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=2911+S+1st+St+78704&format=json&limit=1
+2020-12-06 18:20:58 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=2911+S+1st+St+78704&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:58 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:58 [driver] DEBUG: Dollar General,2101 W Ben White Blvd Ste 106 78704
+2020-12-06 18:20:58 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:58 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:58 [driver] DEBUG: Geoffry Johnson,2526 Durwood St 78704
+2020-12-06 18:20:58 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:58 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=2526+Durwood+St+78704&format=json&limit=1
+2020-12-06 18:20:59 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=2526+Durwood+St+78704&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:59 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:59 [driver] DEBUG: H-e-b,2400 S Congress Ave 78704
+2020-12-06 18:20:59 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:59 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=2400+S+Congress+Ave+78704&format=json&limit=1
+2020-12-06 18:20:59 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=2400+S+Congress+Ave+78704&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:20:59 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:20:59 [driver] DEBUG: Healthmarkets Insurance-John Wilkes,3404 Willowrun Cv 78704
+2020-12-06 18:20:59 [driver] DEBUG: --------------------------
+
+2020-12-06 18:20:59 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=3404+Willowrun+Cv+78704&format=json&limit=1
+2020-12-06 18:21:00 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=3404+Willowrun+Cv+78704&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:21:00 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:21:00 [driver] DEBUG: King Food Mart,2907 S 1st St 78704
+2020-12-06 18:21:00 [driver] DEBUG: --------------------------
+
+2020-12-06 18:21:00 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=2907+S+1st+St+78704&format=json&limit=1
+2020-12-06 18:21:00 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=2907+S+1st+St+78704&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:21:00 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:21:00 [driver] DEBUG: La Moreliana Meat Market,3600 S Congress Ave 78704
+2020-12-06 18:21:00 [driver] DEBUG: --------------------------
+
+2020-12-06 18:21:00 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=3600+S+Congress+Ave+78704&format=json&limit=1
+2020-12-06 18:21:01 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=3600+S+Congress+Ave+78704&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:21:01 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:21:01 [driver] DEBUG: Pavilions,2025 W Ben White Blvd 78704
+2020-12-06 18:21:01 [driver] DEBUG: --------------------------
+
+2020-12-06 18:21:01 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=2025+W+Ben+White+Blvd+78704&format=json&limit=1
+2020-12-06 18:21:01 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=2025+W+Ben+White+Blvd+78704&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:21:01 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:21:01 [driver] DEBUG: Poco Loco Supermercado,611 W Ben White Blvd 78704
+2020-12-06 18:21:01 [driver] DEBUG: --------------------------
+
+2020-12-06 18:21:01 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=611+W+Ben+White+Blvd+78704&format=json&limit=1
+2020-12-06 18:21:02 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=611+W+Ben+White+Blvd+78704&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:21:02 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:21:02 [driver] DEBUG: Smart Stop,2700 S Congress Ave 78704
+2020-12-06 18:21:02 [driver] DEBUG: --------------------------
+
+2020-12-06 18:21:02 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=2700+S+Congress+Ave+78704&format=json&limit=1
+2020-12-06 18:21:02 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=2700+S+Congress+Ave+78704&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:21:02 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:21:02 [driver] DEBUG: Sxsw 2016,1950 S Ih 35 78704
+2020-12-06 18:21:02 [driver] DEBUG: --------------------------
+
+2020-12-06 18:21:02 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=1950+S+Ih+35+78704&format=json&limit=1
+2020-12-06 18:21:03 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=1950+S+Ih+35+78704&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:21:03 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.grocery-stores.org/grocery-stores-in-78704/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+Traceback (most recent call last):
+  File "/home/theo/miniconda3/envs/Alpha/lib/python3.6/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/home/theo/Grocery-Finder/scraper/groceryfinder/spiders/driver.py", line 57, in grocery_parse
+    latitude, longitude = self.get_lat_and_long(address, zip_)
+  File "/home/theo/Grocery-Finder/scraper/groceryfinder/spiders/driver.py", line 88, in get_lat_and_long
+    latitude = str(location.latitude)
+AttributeError: 'NoneType' object has no attribute 'latitude'
+2020-12-06 18:21:03 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:21:03 [driver] DEBUG: 365 By Whole Foods Market,550 Bowie St 652
+2020-12-06 18:21:03 [driver] DEBUG: --------------------------
+
+2020-12-06 18:21:03 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=550+Bowie+St+652&format=json&limit=1
+2020-12-06 18:21:03 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=550+Bowie+St+652&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:21:03 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.grocery-stores.org/fiesta-mart-austin-tx-652/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+Traceback (most recent call last):
+  File "/home/theo/miniconda3/envs/Alpha/lib/python3.6/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/home/theo/Grocery-Finder/scraper/groceryfinder/spiders/driver.py", line 57, in grocery_parse
+    latitude, longitude = self.get_lat_and_long(address, zip_)
+  File "/home/theo/Grocery-Finder/scraper/groceryfinder/spiders/driver.py", line 88, in get_lat_and_long
+    latitude = str(location.latitude)
+AttributeError: 'NoneType' object has no attribute 'latitude'
+2020-12-06 18:21:03 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.grocery-stores.org/grocery-stores-in-78691/>: HTTP status code is not handled or not allowed
+2020-12-06 18:21:03 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.grocery-stores.org/grocery-stores-in-78669/>: HTTP status code is not handled or not allowed
+2020-12-06 18:21:03 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.grocery-stores.org/grocery-stores-in-78660/>: HTTP status code is not handled or not allowed
+2020-12-06 18:21:03 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:21:03 [driver] DEBUG: 365 By Whole Foods Market,550 Bowie St 78703
+2020-12-06 18:21:03 [driver] DEBUG: --------------------------
+
+2020-12-06 18:21:03 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=550+Bowie+St+78703&format=json&limit=1
+2020-12-06 18:21:04 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=550+Bowie+St+78703&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:21:04 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:21:04 [driver] DEBUG: Clarksville Market,1001 W Lynn St 78703
+2020-12-06 18:21:04 [driver] DEBUG: --------------------------
+
+2020-12-06 18:21:04 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=1001+W+Lynn+St+78703&format=json&limit=1
+2020-12-06 18:21:04 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=1001+W+Lynn+St+78703&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:21:04 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:21:04 [driver] DEBUG: Pavilions,1500 W 35th St 78703
+2020-12-06 18:21:04 [driver] DEBUG: --------------------------
+
+2020-12-06 18:21:04 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=1500+W+35th+St+78703&format=json&limit=1
+2020-12-06 18:21:05 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=1500+W+35th+St+78703&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:21:05 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:21:05 [driver] DEBUG: Pavilions,715 S Exposition Blvd 78703
+2020-12-06 18:21:05 [driver] DEBUG: --------------------------
+
+2020-12-06 18:21:05 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=715+S+Exposition+Blvd+78703&format=json&limit=1
+2020-12-06 18:21:05 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=715+S+Exposition+Blvd+78703&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:21:05 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:21:05 [driver] DEBUG: Rabbit Food Grocery,2425 Exposition Bld 78703
+2020-12-06 18:21:05 [driver] DEBUG: --------------------------
+
+2020-12-06 18:21:05 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=2425+Exposition+Bld+78703&format=json&limit=1
+2020-12-06 18:21:06 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=2425+Exposition+Bld+78703&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:21:06 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.grocery-stores.org/grocery-stores-in-78703/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+Traceback (most recent call last):
+  File "/home/theo/miniconda3/envs/Alpha/lib/python3.6/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/home/theo/Grocery-Finder/scraper/groceryfinder/spiders/driver.py", line 57, in grocery_parse
+    latitude, longitude = self.get_lat_and_long(address, zip_)
+  File "/home/theo/Grocery-Finder/scraper/groceryfinder/spiders/driver.py", line 88, in get_lat_and_long
+    latitude = str(location.latitude)
+AttributeError: 'NoneType' object has no attribute 'latitude'
+2020-12-06 18:21:06 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.grocery-stores.org/grocery-stores-in-78653/>: HTTP status code is not handled or not allowed
+2020-12-06 18:21:06 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:21:06 [driver] DEBUG: A V N Food Mart,116 E 6th St 78701
+2020-12-06 18:21:06 [driver] DEBUG: --------------------------
+
+2020-12-06 18:21:06 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=116+E+6th+St+78701&format=json&limit=1
+2020-12-06 18:21:06 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=116+E+6th+St+78701&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:21:06 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:21:06 [driver] DEBUG: Amplify Snack Brands,500 W 5th St Ste 1350 78701
+2020-12-06 18:21:06 [driver] DEBUG: --------------------------
+
+2020-12-06 18:21:06 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:21:06 [driver] DEBUG: Burpy. com,1616 Guadalupe St 78701
+2020-12-06 18:21:06 [driver] DEBUG: --------------------------
+
+2020-12-06 18:21:06 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=1616+Guadalupe+St+78701&format=json&limit=1
+2020-12-06 18:21:07 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=1616+Guadalupe+St+78701&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:21:07 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:21:07 [driver] DEBUG: Randall's Food and Pharmacy,1400 Cypress Crk Rd 78701
+2020-12-06 18:21:07 [driver] DEBUG: --------------------------
+
+2020-12-06 18:21:07 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=1400+Cypress+Crk+Rd+78701&format=json&limit=1
+2020-12-06 18:21:07 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=1400+Cypress+Crk+Rd+78701&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:21:07 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:21:07 [driver] DEBUG: Royal Blue Grocery,247 W 3rd St 78701
+2020-12-06 18:21:07 [driver] DEBUG: --------------------------
+
+2020-12-06 18:21:07 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=247+W+3rd+St+78701&format=json&limit=1
+2020-12-06 18:21:08 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=247+W+3rd+St+78701&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:21:08 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:21:08 [driver] DEBUG: Shop 24 Food Mart and Souvenirs,213 E 6th St 78701
+2020-12-06 18:21:08 [driver] DEBUG: --------------------------
+
+2020-12-06 18:21:08 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=213+E+6th+St+78701&format=json&limit=1
+2020-12-06 18:21:08 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=213+E+6th+St+78701&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:21:08 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:21:08 [driver] DEBUG: Stubb's Legendary Bbq,801 Red Riv St 78701
+2020-12-06 18:21:08 [driver] DEBUG: --------------------------
+
+2020-12-06 18:21:08 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=801+Red+Riv+St+78701&format=json&limit=1
+2020-12-06 18:21:09 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=801+Red+Riv+St+78701&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:21:09 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:21:09 [driver] DEBUG: The Bee Grocery,209 E 6th St 78701
+2020-12-06 18:21:09 [driver] DEBUG: --------------------------
+
+2020-12-06 18:21:09 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=209+E+6th+St+78701&format=json&limit=1
+2020-12-06 18:21:09 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=209+E+6th+St+78701&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:21:09 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:21:09 [driver] DEBUG: Trader Joe's,211 Walter Seaholm Dr Ste 100 78701
+2020-12-06 18:21:09 [driver] DEBUG: --------------------------
+
+2020-12-06 18:21:09 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=211+Walter+Seaholm+Dr+Ste+100+78701&format=json&limit=1
+2020-12-06 18:21:10 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=211+Walter+Seaholm+Dr+Ste+100+78701&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:21:10 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.grocery-stores.org/grocery-stores-in-78701/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+Traceback (most recent call last):
+  File "/home/theo/miniconda3/envs/Alpha/lib/python3.6/site-packages/twisted/internet/defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "/home/theo/Grocery-Finder/scraper/groceryfinder/spiders/driver.py", line 57, in grocery_parse
+    latitude, longitude = self.get_lat_and_long(address, zip_)
+  File "/home/theo/Grocery-Finder/scraper/groceryfinder/spiders/driver.py", line 88, in get_lat_and_long
+    latitude = str(location.latitude)
+AttributeError: 'NoneType' object has no attribute 'latitude'
+2020-12-06 18:21:10 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:21:10 [driver] DEBUG: Alpaca Market,507 Calles St 78702
+2020-12-06 18:21:10 [driver] DEBUG: --------------------------
+
+2020-12-06 18:21:10 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=507+Calles+St+78702&format=json&limit=1
+2020-12-06 18:21:10 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=507+Calles+St+78702&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:21:10 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:21:10 [driver] DEBUG: Bee Grocery,1001 E 6th St 78702
+2020-12-06 18:21:10 [driver] DEBUG: --------------------------
+
+2020-12-06 18:21:10 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=1001+E+6th+St+78702&format=json&limit=1
+2020-12-06 18:21:11 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=1001+E+6th+St+78702&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:21:11 [driver] DEBUG: 
+
+-----------------------
+2020-12-06 18:21:11 [driver] DEBUG: City Market,1148 Airport Blvd 78702
+2020-12-06 18:21:11 [driver] DEBUG: --------------------------
+
+2020-12-06 18:21:11 [geopy] DEBUG: Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=1148+Airport+Blvd+78702&format=json&limit=1
+2020-12-06 18:21:11 [urllib3.connectionpool] DEBUG: https://nominatim.openstreetmap.org:443 "GET /search?q=1148+Airport+Blvd+78702&format=json&limit=1 HTTP/1.1" 200 None
+2020-12-06 18:21:11 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.grocery-stores.org/grocery-stores-in-78652/>: HTTP status code is not handled or not allowed
+2020-12-06 18:21:12 [scrapy.core.engine] DEBUG: Crawled (404) <GET https://www.grocery-stores.org/grocery-stores-in-78617/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:21:12 [scrapy.core.engine] DEBUG: Crawled (404) <GET https://www.grocery-stores.org/grocery-stores-in-78645/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:21:12 [scrapy.core.engine] DEBUG: Crawled (404) <GET https://www.grocery-stores.org/grocery-stores-in-73344/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:21:12 [scrapy.core.engine] DEBUG: Crawled (404) <GET https://www.grocery-stores.org/grocery-stores-in-78651/> (referer: https://www.zip-codes.com/county/tx-travis.asp)
+2020-12-06 18:21:12 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.grocery-stores.org/grocery-stores-in-78617/>: HTTP status code is not handled or not allowed
+2020-12-06 18:21:12 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.grocery-stores.org/grocery-stores-in-78645/>: HTTP status code is not handled or not allowed
+2020-12-06 18:21:12 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.grocery-stores.org/grocery-stores-in-73344/>: HTTP status code is not handled or not allowed
+2020-12-06 18:21:12 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.grocery-stores.org/grocery-stores-in-78651/>: HTTP status code is not handled or not allowed
+2020-12-06 18:21:12 [scrapy.core.engine] INFO: Closing spider (finished)
+2020-12-06 18:21:12 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 25882,
+ 'downloader/request_count': 85,
+ 'downloader/request_method_count/GET': 85,
+ 'downloader/response_bytes': 270601,
+ 'downloader/response_count': 85,
+ 'downloader/response_status_count/200': 34,
+ 'downloader/response_status_count/301': 6,
+ 'downloader/response_status_count/404': 45,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2020, 12, 7, 0, 21, 12, 464490),
+ 'httperror/response_ignored_count': 45,
+ 'httperror/response_ignored_status_count/404': 45,
+ 'log_count/DEBUG': 584,
+ 'log_count/ERROR': 21,
+ 'log_count/INFO': 54,
+ 'memusage/max': 62296064,
+ 'memusage/startup': 62296064,
+ 'request_depth_max': 1,
+ 'response_received_count': 79,
+ 'scheduler/dequeued': 85,
+ 'scheduler/dequeued/memory': 85,
+ 'scheduler/enqueued': 85,
+ 'scheduler/enqueued/memory': 85,
+ 'spider_exceptions/AttributeError': 21,
+ 'start_time': datetime.datetime(2020, 12, 7, 0, 20, 20, 802373)}
+2020-12-06 18:21:12 [scrapy.core.engine] INFO: Spider closed (finished)
