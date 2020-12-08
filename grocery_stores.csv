@@ -1,71 +1,1554 @@
 Title, Address, Latitude, Longitude
-H E Butt Grocery,10710 Research Blvd # 2,30.39841665,-97.74835977065551
-Albertsons,8716 Research Blvd,30.3635933,-97.7193163
-Fairfield Food Mart,8538 Research Blvd,30.3600188,-97.7170285
-E A Sween Company,8608 Wall St,30.3407375,-97.67249709362181
-Mi Casa Market,11700 Dessau Rd,30.3975435,-97.6425395
-Amg Mart,1700 W Anderson Ln,30.353055,-97.723484
-Arlan's Market 25,7108 Woodrow Ave,30.343119,-97.725654
-99 Ranch Market,6929 Airport Blvd,30.3377202,-97.7178538
-Eatery Heo,6214 N Lamar Blvd,30.330854,-97.723532
-Food Lion,109 Denson Dr,30.327404,-97.71771
-Spec's,5775 Airport Blvd,30.322500849999997,-97.71356556163232
-Stop and Shop,6301 N Lamar Blvd,30.331208500000002,-97.7225552988006
-Avenue B Groc and Market,4403 Ave B,30.30905,-97.73144846363635
-D K Sushi and Seoul Asian Food Market,5610 N Lamar Blvd,30.32516,-97.727187
-Fresh Plus Grocery,408 E 43rd St,30.3049974,-97.7264878
-H-e-b,1000 E 41st St,30.3009339,-97.7211338
-99 Ranch Market,6929 Airport Blvd,-27.41515075,153.08305754899052
-Albertsons,5510 S Interstate 35,29.408853,-98.3893974
-Amigos,4410 E Riverside Dr,-40.3432824,175.660629
-Capital Fast Foods,13425 N Hwy 183,30.4618115,-97.76279100244541
-H-e-b,12860 Research Blvd,30.4341693,-97.77266082769164
-Dollar General,9600 Manchaca Rd,30.1407692,-97.833055
-Pavilions,9911 Brodie Ln,30.1840996,-97.84765484983933
-Baker's Layne,4609 Alta Loma Dr,30.2067485,-97.85349261893381
-Costco Wholesale,4301 W William Cannon Dr,30.220989,-97.841331
-Man Pasand Grocery,3601 W William Cannon Dr,30.214256,-97.832082
-Pavilions,6600 Mopac Expy S,30.2061479,-97.8627248
-Star Stop38,4912 Monterey Oaks Blvd,30.2355095,-97.83920499999999
-365 By Whole Foods Market,550 Bowie St,38.9022511,-76.825049
-Ahsan Qazi,4600 Teri Rd,30.1971155,-97.74362705827104
-All Star Grocery,5303 Nuckols Xing Rd,30.192796,-97.738654
-Albertsons,5510 S Interstate 35,30.2481614,-97.7357897
-Central Market,4521 W Gate Blvd,30.231686,-97.800124
-Am Petroleum,7310 E Riverside Dr,30.220536,-97.693553
-Amigos,4410 E Riverside Dr,30.233549,-97.721161
-H-E-B Plus!,2508 E Riverside Dr,30.2365865,-97.7221281364796
-Hallmark Specialty Retail Group,2701 Parker Ln,30.2223095,-97.734704
-H-E-B Foods,7010 W Hwy 71,46.8044949,4.4186530307356655
-Albertsons,13801 Burnet Rd,30.3670372,-97.7279861
-H-E-B Foods,11521 N Fm 620 Rd # A,30.4323621,-97.8414579
-Forest Bluff Grocery,14300 Fm 969,30.2830546,-97.6539366
-J D's Market,6506 Decker Ln,30.289873,-97.629247
-Aus-Tex Food Mart,4607 Loyola Ln,30.3022962,-97.6526542
-City Market,6319 Cameron Rd,30.3392928,-97.6820627
-H-e-b,7112 Ed Bluestein Blvd,30.31186385,-97.66461472008831
-H-e-b,1801 E 51st St,30.30100935,-97.69852018746744
-D H Food Mart,2911 S 1st St,30.235774,-97.763419
-Dollar General,2101 W Ben White Blvd Ste 106,30.229760,-97.791090
-Geoffry Johnson,2526 Durwood St,30.2389499,-97.7594105
-H-e-b,2400 S Congress Ave,30.23865735,-97.75513935000001
-Healthmarkets Insurance-John Wilkes,3404 Willowrun Cv,30.225682499999998,-97.7547912108295
-King Food Mart,2907 S 1st St,30.2360605,-97.7632135
-La Moreliana Meat Market,3600 S Congress Ave,30.2592644,-97.7461061
-Pavilions,2025 W Ben White Blvd,30.229185700000002,-97.79019229264699
-Poco Loco Supermercado,611 W Ben White Blvd,30.2265484,-97.7703026
-Smart Stop,2700 S Congress Ave,30.235589,-97.756656
-365 By Whole Foods Market,550 Bowie St,30.270809,-97.752789
-Clarksville Market,1001 W Lynn St,30.279063,-97.759696
-Pavilions,1500 W 35th St,30.306603000000003,-97.74902879815556
-Pavilions,715 S Exposition Blvd,30.307195,-97.763601
-A V N Food Mart,116 E 6th St,30.2661206,-97.735874
-Amplify Snack Brands,500 W 5th St Ste 1350,30.268670,-97.747840
-Burpy. com,1616 Guadalupe St,30.2793075,-97.74284549999999
-Randall's Food and Pharmacy,1400 Cypress Crk Rd,39.0717244,-76.5280098
-Royal Blue Grocery,247 W 3rd St,30.2657004,-97.7460421
-Shop 24 Food Mart and Souvenirs,213 E 6th St,30.2672613,-97.74101612353029
-Stubb's Legendary Bbq,801 Red Riv St,30.2686885,-97.73621126029536
-The Bee Grocery,209 E 6th St,30.267319,-97.741132
-Alpaca Market,507 Calles St,30.2585041,-97.7120357
-Bee Grocery,1001 E 6th St,30.264836,-97.732449
+Payless Food Store, 2400 Burleson Rd, Austin, TX 78741, United States, 30.2294433, -97.73597
+Market, Austin, TX 78704, United States, 30.2203795, -97.7538563
+Taylor grocery, 518 E Oltorf St, Austin, TX 78704, United States, 30.2374422, -97.75048679999999
+Shop 'n Save, 2204 Woodland Ave, Austin, TX 78741, United States, 30.236153, -97.7280926
+Austin SuperMarket, 30 S IH 35 Frontage Rd, Austin, TX 78701, United States, 30.25450859999999, -97.7372688
+FARM TO MARKET GROCERY, 1718 S Congress Ave, Austin, TX 78704, United States, 30.2463687, -97.7511298
+King Food Mart, 2907 S 1st St, Austin, TX 78704, United States, 30.236082, -97.7632533
+H-E-B, 2400 S S Congress Ave, Austin, TX 78704, United States, 30.23863129999999, -97.75507400000001
+All Star Grocery, 4619 S Congress Ave I, Austin, TX 78745, United States, 30.21524, -97.7684512
+7 Days Food Store, 1025 W Stassney Ln # 104, Austin, TX 78745, United States, 30.2102228, -97.7870445
+Whole Foods Market, 525 N Lamar Blvd, Austin, TX 78703, United States, 30.2705496, -97.7531762
+Mi Pueblito Market, 2030 E Oltorf St, Austin, TX 78741, United States, 30.2308899, -97.7325213
+Royal Blue Grocery, 301 Brazos St suite 110 suite 110, Austin, TX 78701, United States, 30.26497539999999, -97.74196459999999
+H-E-B plus!, 2508 E Riverside Dr, Austin, TX 78741, United States, 30.2365234, -97.72207290000001
+Royal Blue Grocery, 51 Rainey St #120, Austin, TX 78701, United States, 30.2572284, -97.7391249
+David's Food, 912 W Mary St, Austin, TX 78704, United States, 30.2483573, -97.76179739999999
+Lone Star Family Market #4, 512 W Stassney Ln STE 101, Austin, TX 78745, United States, 30.2087251, -97.7799597
+The Bee Grocery, 1001 E 6th St, Austin, TX 78702, United States, 30.2649183, -97.73244919999999
+Fiesta Mart, LLC, 5510 S IH 35 Frontage Rd, Austin, TX 78745, United States, 30.2005225, -97.7645809
+Buesiniso mart, 1100 Manlove St, Austin, TX 78741, United States, 30.2466746, -97.7339458
+Allstar Groceries, 5303 Nuckols Crossing Rd, Austin, TX 78744, United States, 30.192618, -97.7386672
+Payless Food Store, 2400 Burleson Rd, Austin, TX 78741, United States, 30.2294433, -97.73597
+All Star Grocery 3, 4600 Teri Rd, Austin, TX 78744, United States, 30.197067, -97.7436929
+Shop 'n Save, 2204 Woodland Ave, Austin, TX 78741, United States, 30.236153, -97.7280926
+La Moreliana Market, 5405 S Pleasant Valley Rd # E, Austin, TX 78744, United States, 30.1934233, -97.74410189999999
+Market, Austin, TX 78704, United States, 30.2203795, -97.7538563
+H-E-B, 6607 S IH 35 Frontage Rd, Austin, TX 78744, United States, 30.188724, -97.76871799999999
+Whole Foods Market, 525 N Lamar Blvd, Austin, TX 78703, United States, 30.2705496, -97.7531762
+7 Days Food Store, 1025 W Stassney Ln # 104, Austin, TX 78745, United States, 30.2102228, -97.7870445
+Mom's Grocery, 1901 E William Cannon Dr, Austin, TX 78744, United States, 30.1879215, -97.7658216
+Lone Star Family Market #4, 512 W Stassney Ln STE 101, Austin, TX 78745, United States, 30.2087251, -97.7799597
+Wheatsville Food Co-op, 4001 S Lamar Blvd, Austin, TX 78704, United States, 30.2355801, -97.790999
+David's Food, 912 W Mary St, Austin, TX 78704, United States, 30.2483573, -97.76179739999999
+Thomas food market, 6301 E Riverside Dr, Austin, TX 78741, United States, 30.2245586, -97.70351219999999
+Fiesta Mart, LLC, 5510 S IH 35 Frontage Rd, Austin, TX 78745, United States, 30.2005225, -97.7645809
+Tomgro Grocery, 1313 Montopolis Dr, Austin, TX 78741, United States, 30.2301121, -97.69973279999999
+H-E-B, 8801 S Congress Ave, Austin, TX 78745, United States, 30.168984, -97.7868135
+Royal Blue Grocery, 301 Brazos St suite 110 suite 110, Austin, TX 78701, United States, 30.26497539999999, -97.74196459999999
+Whole Foods Market, 901 E 5th St Ste 100, Austin, TX 78702, United States, 30.2639948, -97.7338841
+The Bee Grocery, 1001 E 6th St, Austin, TX 78702, United States, 30.2649183, -97.73244919999999
+Duron Grocery Store, 135 Stony Creek Dr, Del Valle, TX 78617, United States, 30.13421, -97.567764
+Quikie Pickie Stores, 13000 FM812, Del Valle, TX 78617, United States, 30.1303129, -97.6436963
+Airport Xpress Market, 2777 E Hwy 71, Del Valle, TX 78617, United States, 30.2102543, -97.651808
+Dollar General, 13903 Fm 812 Rd, Del Valle, TX 78617, United States, 30.120886, -97.6359732
+Tiger Mart, 4535 E Hwy 71, Del Valle, TX 78617, United States, 30.1873432, -97.606408
+Dollar General, 4800 Ross Rd, Del Valle, TX 78617, United States, 30.1823692, -97.61288449999999
+Country Grocery, Mesa Dr, Del Valle, TX 78617, United States, 30.1080951, -97.5881916
+Bread Basket Of Elroy, 2920 FM812, Del Valle, TX 78617, United States, 30.1017841, -97.60706569999999
+Bread Basket Market, 5201 Ross Rd, Del Valle, TX 78617, United States, 30.1794829, -97.61513240000001
+Super Moreliana, 6112 US-183, Austin, TX 78744, United States, 30.1676709, -97.69253619999999
+JD's Market, Cedar Creek,TX, 6759 FM535, Cedar Creek, TX 78612, United States, 30.1402516, -97.56745230000001
+Bread Basket, Austin, TX 78719, United States, 30.114675, -97.6943776
+Circle K, 2453 E State Hwy 71 Service Rd, Del Valle, TX 78617, United States, 30.2135908, -97.6589467
+oaks corner, 1522 TX-21, Cedar Creek, TX 78612, United States, 30.0856216, -97.5280051
+JD's Supermarket #6, 9111 FM812, Austin, TX 78719, United States, 30.1590344, -97.68786659999999
+Mobil - JD's Market, 7310 E Riverside Dr, Austin, TX 78741, United States, 30.2208695, -97.69391170000002
+Tomgro Grocery, 1313 Montopolis Dr, Austin, TX 78741, United States, 30.2301121, -97.69973279999999
+ATM (Quix Food Store), 3404 US-183, Austin, TX 78744, United States, 30.2002397, -97.68466029999999
+Payless Food Store, 2400 Burleson Rd, Austin, TX 78741, United States, 30.2294433, -97.73597
+Thomas food market, 6301 E Riverside Dr, Austin, TX 78741, United States, 30.2245586, -97.70351219999999
+Lowe's Market, 7708 Lohman Ford Rd STE C, Lago Vista, TX 78645, United States, 30.4746684, -97.97655909999999
+SLR Grocery & Center, 2024 Lohman Ford Rd, Lago Vista, TX 78645, United States, 30.4510471, -97.9793387
+Oski's, 20602 Ranch Rd 1431, Lago Vista, TX 78645, United States, 30.4744336, -97.97386639999999
+Hillside Grocery, 7501 Lohman Ford Rd, Lago Vista, TX 78645, United States, 30.4700895, -97.9764433
+CEFCO Convenience Store, 20520 FM 1421, Lago Vista, TX 78645, United States, 30.47379399999999, -97.973531
+Dollar General, 8017 Bronco Ln, Lago Vista, TX 78645, United States, 30.4786547, -97.9738035
+Travisso Market, Leander, TX 78641, United States, 30.51185509999999, -97.9121866
+Foodmart, Lohman Ford Rd, Lago Vista, TX 78645, United States, 30.4699006, -97.9769852
+Lago Vista Farmer's Market, 5803 Thunderbird St, Lago Vista, TX 78645, United States, 30.4530039, -97.98736199999999
+Hudson Bend Grocery, 5001 Hudson Bend Rd, Austin, TX 78734, United States, 30.412219, -97.927218
+Whole Pets Market Lago Vista, 7708 Lohman Ford Rd, Lago Vista, TX 78645, United States, 30.4748172, -97.976181
+Texaco Lago Vista, 7501 Lohman Ford Rd, Lago Vista, TX 78645, United States, 30.4697794, -97.9767234
+CVS, 20601 Ranch Rd 1431, Lago Vista, TX 78645, United States, 30.474624, -97.975375
+H-E-B, 6001 W Parmer Ln, Austin, TX 78727, United States, 30.4415577, -97.7425876
+McNeil, 14005 E McNeil Rd, Austin, TX 78729, United States, 30.4536187, -97.7206521
+H-E-B, 16900 N, Ranch Rd 620, Round Rock, TX 78681, United States, 30.5005804, -97.72280239999999
+H-E-B, 12407 N Mopac Expy, Austin, TX 78758, United States, 30.417464, -97.702855
+H-E-B, 12860 Research Blvd, Austin, TX 78750, United States, 30.4342471, -97.7726297
+H-E-B, 1434 Wells Branch Pkwy, Pflugerville, TX 78660, United States, 30.4425716, -97.66425339999999
+MTM Indian Grocery & Fish Store Inc., 9225 W Parmer Ln UNIT 102, Austin, TX 78717, United States, 30.4780862, -97.76637009999999
+Randalls, 10900 Research Blvd, Austin, TX 78759, United States, 30.4022823, -97.7472052
+Sprouts Farmers Market, 110 N Interstate Hwy 35 Ste 299, Round Rock, TX 78681, United States, 30.50811, -97.68705000000001
+Whole Foods Market, 11920 Domain Dr, Austin, TX 78758, United States, 30.4063209, -97.7201151
+Taj Grocery, 1601 N Interstate 35 Frontage Rd, Round Rock, TX 78664, United States, 30.4952441, -97.67688470000002
+H-E-B, 10710 Research Blvd Ste 200, Austin, TX 78759, United States, 30.39853969999999, -97.7483489
+Manpasand Indian Pakistani Halal Groceries Supermarket, 13945 North, 183 Lakeline Mall Dr Exit, Austin, TX 78717, United States, 30.4718721, -97.7966979
+MT Supermarket, 10901 N Lamar Blvd G, Austin, TX 78753, United States, 30.3780174, -97.6859436
+Randalls, 2051 Gattis School Rd, Round Rock, TX 78664, United States, 30.4950044, -97.6541185
+H-E-B, 500 W Canyon Ridge Dr, Austin, TX 78753, United States, 30.4057625, -97.6719967
+Trader Joe's, 9722 Great Hills Trail Ste 200, Austin, TX 78759, United States, 30.3955849, -97.7517712
+Borderless European Market (BEM), 2121 W Parmer Ln #113, Austin, TX 78727, United States, 30.41554649999999, -97.69724989999999
+Randalls, 8040 Mesa Dr, Austin, TX 78731, United States, 30.3714899, -97.7580995
+Dessau Grocery, 9406 Dessau Rd, Austin, TX 78754, United States, 30.3513762, -97.6762703
+Sac-N-Pac Drive In Groceries, 2120 Farm to Market 1626, Manchaca, TX 78652, United States, 30.1345384, -97.85395489999999
+H-E-B, 15300 S IH 35 Frontage Rd, Buda, TX 78610, United States, 30.0878262, -97.82080219999999
+ATM (6 M Grocery), 805 Farm to Market 1626, Manchaca, TX 78652, United States, 30.1403835, -97.8278166
+Ravens market / shell, 11200 manchaca road buld 1, Austin, TX 78748, United States, 30.1580018, -97.8339506
+ATM (Sac-N-Pac Drive In Groceries), 2120 Farm to Market 1626, Manchaca, TX 78652, United States, 30.1345206, -97.85398479999999
+Onion Creek Food Mart, 2107 Boca Raton Dr, Austin, TX 78747, United States, 30.1393315, -97.7957357
+T&C Center, 1671 Main St, Buda, TX 78610, United States, 30.0882452, -97.8223915
+H-E-B Plus! - Buda, Buda, TX 78610, United States, 30.0878096, -97.82149869999999
+H-E-B, 2110 W Slaughter Ln, Austin, TX 78748, United States, 30.17537879999999, -97.82507799999999
+7-Eleven, 2120 FM 1626 West, Manchaca, TX 78652, United States, 30.1345321, -97.8540079
+Filipino Asian Mart, 615 W Slaughter Ln, Austin, TX 78748, United States, 30.172323, -97.801245
+H-E-B, 8801 S Congress Ave, Austin, TX 78745, United States, 30.168984, -97.7868135
+U Pak M, 11940 Menchaca Rd #101, Austin, TX 78748, United States, 30.1457148, -97.83354419999999
+Randalls, 9911 Brodie Ln, Austin, TX 78748, United States, 30.1840741, -97.8475742
+H-E-B, 6607 S IH 35 Frontage Rd, Austin, TX 78744, United States, 30.188724, -97.76871799999999
+Walmart, Austin, TX 78748, United States, 30.1649481, -97.78993589999999
+Mom's Grocery, 1901 E William Cannon Dr, Austin, TX 78744, United States, 30.1879215, -97.7658216
+H-E-B Fresh Foods (Austin), 8801 S Congress Ave, Austin, TX 78745, United States, 30.1688596, -97.7868562
+H-E-B, 5800 W Slaughter Ln, Austin, TX 78749, United States, 30.202255, -97.8764559
+Beer Geek, 12721 Bob Johnson Ln, Manchaca, TX 78652, United States, 30.1390254, -97.8475112
+Mr Jim's Grocery Inc, 212 TX-212 Loop, Manor, TX 78653, United States, 30.3477173, -97.55854579999999
+Presidential Markets, 12836 US-290, Manor, TX 78653, United States, 30.3505001, -97.52494809999999
+Manor Grocery, 102 W Parsons St, Manor, TX 78653, United States, 30.34107269999999, -97.5577984
+Walmart Supercenter, 11923 Us Hwy 290 E, Manor, TX 78653, United States, 30.3478838, -97.544444
+General Store, 11003 Harris Branch Pkwy, Austin, TX 78754, United States, 30.3428548, -97.6127681
+Twin Creek Grocery, 16419 FM 969, Manor, TX 78653, United States, 30.25178, -97.5581485
+Blake Manor Food Mart, 17530 Blake Manor Rd, Manor, TX 78653, United States, 30.318358, -97.5398033
+Mi Casa Market, 11700 Dessau Rd, Austin, TX 78754, United States, 30.3771082, -97.6593532
+Manor Express Mart, 12130 FM973 #101, Manor, TX 78653, United States, 30.3370752, -97.5592104
+MT Supermarket, 10901 N Lamar Blvd G, Austin, TX 78753, United States, 30.3780174, -97.6859436
+La Mexicana Supermercado Chaparo, 14236 FM 969, Austin, TX 78724, United States, 30.2486061, -97.5843031
+Dessau Grocery, 9406 Dessau Rd, Austin, TX 78754, United States, 30.3513762, -97.6762703
+Africarib Market, 825 E Rundberg Ln # A-1, Austin, TX 78753, United States, 30.3562734, -97.6873918
+Speedy Express, 12836 US-290, Manor, TX 78653, United States, 30.3504977, -97.52484120000001
+H-E-B, 500 W Canyon Ridge Dr, Austin, TX 78753, United States, 30.4057625, -97.6719967
+Rundberg Grocery, 310 E Rundberg Ln, Austin, TX 78753, United States, 30.3601258, -97.691563
+MiniMax Food Mart #3, 11800 Dessau Rd Suite #100, Austin, TX 78754, United States, 30.378526, -97.65808299999999
+Shahi Grocery and Cafe, 12410 N Lamar Blvd D, Austin, TX 78753, United States, 30.4067985, -97.6789312
+H-E-B, 7112 Ed Bluestein Blvd #125, Austin, TX 78723, United States, 30.3120539, -97.6647761
+Manpasand Indian Pakistani Halal Groceries Supermarket, 12625 N Interstate Hwy 35 building a, Austin, TX 78753, United States, 30.4105057, -97.6717706
+H-E-B, 201 Farm to Market 685, Pflugerville, TX 78660, United States, 30.4380334, -97.6116167
+ALDI, 1415 Farm to Market Road #685, Pflugerville, TX 78660, United States, 30.4503214, -97.6047217
+H-E-B, 1434 Wells Branch Pkwy, Pflugerville, TX 78660, United States, 30.4425716, -97.66425339999999
+Al Zaytoon Market, 616 Farm to Market 685 Suite A104, Pflugerville, TX 78660, United States, 30.4420713, -97.6109468
+Walmart Supercenter, 1548 Farm to Market 685, Pflugerville, TX 78660, United States, 30.4531157, -97.6060353
+JD's Market, 14300 Dessau Rd, Pflugerville, TX 78660, United States, 30.4147357, -97.6336166
+Target Grocery, 18700 Limestone Commercial Dr Ste 100, Pflugerville, TX 78660, United States, 30.4673232, -97.5987853
+H-E-B, 603 Louis Henna Blvd Bldg A, Round Rock, TX 78664, United States, 30.4812157, -97.6590135
+H-E-B plus!, 5000 Gattis School Rd, Hutto, TX 78634, United States, 30.5027086, -97.5826555
+H-E-B, 3750 Gattis School Rd, Round Rock, TX 78664, United States, 30.4994252, -97.6153655
+Blackhawk Liquor, Vape, and Smoke, 20115-20281 Algreg St, Pflugerville, TX 78660, United States, 30.4838994, -97.5838206
+Randalls, 2051 Gattis School Rd, Round Rock, TX 78664, United States, 30.4950044, -97.6541185
+Manpasand Indian Pakistani Halal Groceries Supermarket, 12625 N Interstate Hwy 35 building a, Austin, TX 78753, United States, 30.4105057, -97.6717706
+Hiwot Injera, 616 Farm to Market 685 suite a-110, Pflugerville, TX 78660, United States, 30.4422455, -97.6112539
+Custom Food Group, 1120 W Howard Ln, Austin, TX 78753, United States, 30.4248424, -97.6684789
+LaCasa SuperMercado, 13015 Dessau Rd A-103, Austin, TX 78754, United States, 30.3989933, -97.6409638
+Hana World Market, 1700 W Parmer Ln #100, Austin, TX 78727, United States, 30.4129126, -97.6867422
+Dollar General, 2205 W Pecan St, Pflugerville, TX 78660, United States, 30.4453464, -97.6507845
+H-E-B, 500 W Canyon Ridge Dr, Austin, TX 78753, United States, 30.4057625, -97.6719967
+Shahi Grocery and Cafe, 12410 N Lamar Blvd D, Austin, TX 78753, United States, 30.4067985, -97.6789312
+Paleface Grocery, 3611 Pace Bend Rd S, Spicewood, TX 78669, United States, 30.3854937, -98.08541269999999
+Randalls, 2301 Ranch Rd 620 S, Lakeway, TX 78734, United States, 30.3411591, -97.96690550000001
+Spicewood General Store, 9418 TX-71, Spicewood, TX 78669, United States, 30.462288, -98.159639
+Kwik Chek, 21024 W, TX-71, Spicewood, TX 78669, United States, 30.3522442, -98.06303
+Quick N Save, 1002 Pace Bend Rd S, Spicewood, TX 78669, United States, 30.4044279, -98.0630997
+SLR Grocery & Center, 2024 Lohman Ford Rd, Lago Vista, TX 78645, United States, 30.4510471, -97.9793387
+Hamilton Market, 18901 Hamilton Pool Rd, Dripping Springs, TX 78620, United States, 30.2861292, -98.06563810000002
+Lake Travis Country Market, 3325 Ranch Rd 620 S, Austin, TX 78738, United States, 30.3277811, -97.9633843
+SPICEWOOD GENERAL STORE, 9418 TX-71, Spicewood, TX 78669, United States, 30.461977, -98.15958499999999
+Pedernales Country Store, 910 Pace Bend Rd S, Spicewood, TX 78669, United States, 30.4054466, -98.0624386
+7-Eleven, 18201 W, TX-71, Spicewood, TX 78669, United States, 30.33086789999999, -98.02517069999999
+Whole Foods Market, 12601 Hill Country Blvd, Bee Cave, TX 78738, United States, 30.3076183, -97.9377502
+H-E-B, 2000 Ranch Rd 620 S, Lakeway, TX 78734, United States, 30.3448818, -97.9675772
+Oski's, 20602 Ranch Rd 1431, Lago Vista, TX 78645, United States, 30.4744336, -97.97386639999999
+Whimsy Me, 9807 TX-71, Spicewood, TX 78669, United States, 30.4580028, -98.1557333
+Hudson Bend Grocery, 5001 Hudson Bend Rd, Austin, TX 78734, United States, 30.412219, -97.927218
+Cavalier Food Market, 509 Ranch Rd 620 S, Lakeway, TX 78734, United States, 30.359346, -97.9537079
+H-E-B, 12400 W, TX-71, Bee Cave, TX 78738, United States, 30.3047556, -97.93231999999999
+Target Grocery, 3702 Ranch Rd 620 S, Bee Cave, TX 78738, United States, 30.316366, -97.95434859999999
+Lowe's Market, 7708 Lohman Ford Rd STE C, Lago Vista, TX 78645, United States, 30.4746684, -97.97655909999999
+H-E-B, 1434 Wells Branch Pkwy, Pflugerville, TX 78660, United States, 30.4425716, -97.66425339999999
+H-E-B, 201 Farm to Market 685, Pflugerville, TX 78660, United States, 30.4380334, -97.6116167
+ALDI, 1415 Farm to Market Road #685, Pflugerville, TX 78660, United States, 30.4503214, -97.6047217
+H-E-B, 603 Louis Henna Blvd Bldg A, Round Rock, TX 78664, United States, 30.4812157, -97.6590135
+Al Zaytoon Market, 616 Farm to Market 685 Suite A104, Pflugerville, TX 78660, United States, 30.4420713, -97.6109468
+H-E-B, 500 W Canyon Ridge Dr, Austin, TX 78753, United States, 30.4057625, -97.6719967
+H-E-B, 3750 Gattis School Rd, Round Rock, TX 78664, United States, 30.4994252, -97.6153655
+Randalls, 2051 Gattis School Rd, Round Rock, TX 78664, United States, 30.4950044, -97.6541185
+Taj Grocery, 1601 N Interstate 35 Frontage Rd, Round Rock, TX 78664, United States, 30.4952441, -97.67688470000002
+Shahi Grocery and Cafe, 12410 N Lamar Blvd D, Austin, TX 78753, United States, 30.4067985, -97.6789312
+Sprouts Farmers Market, 110 N Interstate Hwy 35 Ste 299, Round Rock, TX 78681, United States, 30.50811, -97.68705000000001
+Manpasand Indian Pakistani Halal Groceries Supermarket, 12625 N Interstate Hwy 35 building a, Austin, TX 78753, United States, 30.4105057, -97.6717706
+MT Supermarket, 10901 N Lamar Blvd G, Austin, TX 78753, United States, 30.3780174, -97.6859436
+H-E-B, 12407 N Mopac Expy, Austin, TX 78758, United States, 30.417464, -97.702855
+Target Grocery, 18700 Limestone Commercial Dr Ste 100, Pflugerville, TX 78660, United States, 30.4673232, -97.5987853
+Walmart Supercenter, 1548 Farm to Market 685, Pflugerville, TX 78660, United States, 30.4531157, -97.6060353
+Africarib Market, 825 E Rundberg Ln # A-1, Austin, TX 78753, United States, 30.3562734, -97.6873918
+Target Grocery, 121 Louis Henna Blvd, Round Rock, TX 78664, United States, 30.4794825, -97.6688844
+Custom Food Group, 1120 W Howard Ln, Austin, TX 78753, United States, 30.4248424, -97.6684789
+JD's Market, 14300 Dessau Rd, Pflugerville, TX 78660, United States, 30.4147357, -97.6336166
+Royal Blue Grocery, 51 Rainey St #120, Austin, TX 78701, United States, 30.2572284, -97.7391249
+Trader Joe's, 211 Walter Seaholm Dr Ste 100, Austin, TX 78701, United States, 30.2674966, -97.7527899
+Royal Blue Grocery, The 360 Tower, 360 Nueces St #90, Austin, TX 78701, United States, 30.2677373, -97.74955369999999
+The Bee Grocery, 1001 E 6th St, Austin, TX 78702, United States, 30.2649183, -97.73244919999999
+Royal Blue Grocery, 301 Brazos St suite 110 suite 110, Austin, TX 78701, United States, 30.26497539999999, -97.74196459999999
+Whole Foods Market, 525 N Lamar Blvd, Austin, TX 78703, United States, 30.2705496, -97.7531762
+Royal Blue Grocery, 609 Congress Ave, Austin, TX 78701, United States, 30.268323, -97.74224699999999
+Royal Blue, 241 W 3rd St, Austin, TX 78701, United States, 30.2657008, -97.7460431
+Austin SuperMarket, 30 S IH 35 Frontage Rd, Austin, TX 78701, United States, 30.25450859999999, -97.7372688
+Whole Foods Market, 901 E 5th St Ste 100, Austin, TX 78702, United States, 30.2639948, -97.7338841
+Mini Mart, 231 E 6th St, Austin, TX 78701, United States, 30.2674362, -97.7405886
+Wheatsville Food Co-op, 3101 Guadalupe St, Austin, TX 78705, United States, 30.2975583, -97.7410694
+Thom's Market - Riverside, 160 E Riverside Dr, Austin, TX 78704, United States, 30.2556737, -97.744906
+Shop 24, 213 E 6th St, Austin, TX 78701, United States, 30.267259, -97.741001
+Central Market, 4001 N Lamar Blvd, Austin, TX 78756, United States, 30.3076098, -97.73987609999999
+West Campus Market, 709 W 22nd St STE 200, Austin, TX 78705, United States, 30.2852075, -97.7464206
+Fresh Plus Grocery, 2401 San Gabriel St, Austin, TX 78705, United States, 30.2883133, -97.74767059999999
+Thom's Market - Barton Springs, 1418 Barton Springs Rd, Austin, TX 78704, United States, 30.2616099, -97.75965099999999
+Rio Mart, 2101 Rio Grande St # 1002, Austin, TX 78705, United States, 30.2841403, -97.7449358
+The Bee Grocery, 209 E 6th St, Austin, TX 78701, United States, 30.26744429999999, -97.7410835
+The Bee Grocery, 1001 E 6th St, Austin, TX 78702, United States, 30.2649183, -97.73244919999999
+Quick Stop Grocery, 1197 Hargrave St, Austin, TX 78702, United States, 30.275525, -97.70750699999999
+H-E-B, 2701 E 7th St, Austin, TX 78702, United States, 30.2594094, -97.7119031
+Royal Blue Grocery, 1629 E 6th St, Austin, TX 78702, United States, 30.2624553, -97.7252084
+Whole Foods Market, 901 E 5th St Ste 100, Austin, TX 78702, United States, 30.2639948, -97.7338841
+MLK Food Store, 2915 E Martin Luther King Jr Blvd, Austin, TX 78702, United States, 30.2817937, -97.7078133
+Green & White Grocery, 1201 E 7th St, Austin, TX 78702, United States, 30.2650911, -97.72999659999999
+La Michoacana Meat Market, 1917 E 7th St, Austin, TX 78702, United States, 30.2620848, -97.7214364
+Royal Blue Grocery Commissary Kitchen, 408 N Pleasant Valley Rd, Austin, TX 78702, United States, 30.256117, -97.71161239999999
+Cedar Corner Store, 1401 Cedar Ave, Austin, TX 78702, United States, 30.2770192, -97.7133063
+East 1st Grocery, 1811 E Cesar Chavez St, Austin, TX 78702, United States, 30.2570045, -97.7249303
+Salon del reino, 2810 E 2nd St, Austin, TX 78702, United States, 30.2538518, -97.7115882
+Native Grocery, 705 Tillery St, Austin, TX 78702, United States, 30.2610442, -97.7041606
+Bernadette A Machado, Austin, TX 78702, United States, 30.2585193, -97.7286604
+Bread Basket Holly, 1514 Holly St, Austin, TX 78702, United States, 30.2552488, -97.73042509999999
+Royal Blue Grocery, 51 Rainey St #120, Austin, TX 78701, United States, 30.2572284, -97.7391249
+Al's Food Mart, 3503 Webberville Rd, Austin, TX 78702, United States, 30.270342, -97.7058857
+Royal Blue Grocery, 301 Brazos St suite 110 suite 110, Austin, TX 78701, United States, 30.26497539999999, -97.74196459999999
+Muchos Import, 2314 E 7th St, Austin, TX 78702, United States, 30.2614338, -97.7161409
+Mini Mart, 231 E 6th St, Austin, TX 78701, United States, 30.2674362, -97.7405886
+Whole Foods Market, 525 N Lamar Blvd, Austin, TX 78703, United States, 30.2705496, -97.7531762
+Randalls, 2727 Exposition Blvd, Austin, TX 78703, United States, 30.3042649, -97.7638905
+Randalls, 1500 W 35th St, Austin, TX 78703, United States, 30.3066026, -97.7490176
+Fresh Plus Grocery, 1221 W Lynn St, Austin, TX 78703, United States, 30.2808333, -97.75833329999999
+Rabbit Food Grocery, 2425 Exposition Blvd ste a, Austin, TX 78703, United States, 30.2975155, -97.767337
+Whole Foods Inc HQ, 550 Bowie St, Austin, TX 78703, United States, 30.2706347, -97.7528921
+Royal Blue Grocery, 301 Brazos St suite 110 suite 110, Austin, TX 78701, United States, 30.26497539999999, -97.74196459999999
+Fresh Plus Grocery, 2401 San Gabriel St, Austin, TX 78705, United States, 30.2883133, -97.74767059999999
+Royal Blue Grocery, 609 Congress Ave, Austin, TX 78701, United States, 30.268323, -97.74224699999999
+Royal Blue Grocery, The 360 Tower, 360 Nueces St #90, Austin, TX 78701, United States, 30.2677373, -97.74955369999999
+Trader Joe's, 211 Walter Seaholm Dr Ste 100, Austin, TX 78701, United States, 30.2674966, -97.7527899
+West Campus Market, 709 W 22nd St STE 200, Austin, TX 78705, United States, 30.2852075, -97.7464206
+Royal Blue, 241 W 3rd St, Austin, TX 78701, United States, 30.2657008, -97.7460431
+Whole Foods Market Southwest Office, 1105 N Lamar Blvd, Austin, TX 78703, United States, 30.2760591, -97.75135499999999
+Wheatsville Food Co-op, 3101 Guadalupe St, Austin, TX 78705, United States, 30.2975583, -97.7410694
+Central Market, 4001 N Lamar Blvd, Austin, TX 78756, United States, 30.3076098, -97.73987609999999
+Path Food Store, 2402 Lake Austin Blvd, Austin, TX 78703, United States, 30.2782901, -97.7724057
+Orange Market, 910 W 25th St, Austin, TX 78705, United States, 30.2896111, -97.7475906
+Mini Mart, 231 E 6th St, Austin, TX 78701, United States, 30.2674362, -97.7405886
+Rio Mart, 2101 Rio Grande St # 1002, Austin, TX 78705, United States, 30.2841403, -97.7449358
+FARM TO MARKET GROCERY, 1718 S Congress Ave, Austin, TX 78704, United States, 30.2463687, -97.7511298
+Whole Foods Market, 525 N Lamar Blvd, Austin, TX 78703, United States, 30.2705496, -97.7531762
+Randalls, 2025 W Ben White Blvd, Austin, TX 78704, United States, 30.2292336, -97.7901337
+Sprouts Farmers Market, 4006 S Lamar Blvd Ste 400, Austin, TX 78704, United States, 30.237778, -97.79312
+Thom's Market - Barton Springs, 1418 Barton Springs Rd, Austin, TX 78704, United States, 30.2616099, -97.75965099999999
+Wheatsville Food Co-op, 4001 S Lamar Blvd, Austin, TX 78704, United States, 30.2355801, -97.790999
+Trader Joe's, 211 Walter Seaholm Dr Ste 100, Austin, TX 78701, United States, 30.2674966, -97.7527899
+H-E-B, 2400 S S Congress Ave, Austin, TX 78704, United States, 30.23863129999999, -97.75507400000001
+Austin SuperMarket, 30 S IH 35 Frontage Rd, Austin, TX 78701, United States, 30.25450859999999, -97.7372688
+Barton Hills Market, 1220 Barton Hills Dr, Austin, TX 78704, United States, 30.261884, -97.775004
+Royal Blue Grocery, 609 Congress Ave, Austin, TX 78701, United States, 30.268323, -97.74224699999999
+The Austinite Market, 1017 Barton Springs Rd, Austin, TX 78704, United States, 30.2599743, -97.7554003
+Royal Blue Grocery, 51 Rainey St #120, Austin, TX 78701, United States, 30.2572284, -97.7391249
+Royal Blue Grocery, 301 Brazos St suite 110 suite 110, Austin, TX 78701, United States, 30.26497539999999, -97.74196459999999
+Thom's Market - Riverside, 160 E Riverside Dr, Austin, TX 78704, United States, 30.2556737, -97.744906
+Royal Blue, 241 W 3rd St, Austin, TX 78701, United States, 30.2657008, -97.7460431
+Royal Blue Grocery, The 360 Tower, 360 Nueces St #90, Austin, TX 78701, United States, 30.2677373, -97.74955369999999
+Central Market, 4477 S Lamar Blvd, Austin, TX 78745, United States, 30.2312951, -97.7973525
+David's Food, 912 W Mary St, Austin, TX 78704, United States, 30.2483573, -97.76179739999999
+Taylor grocery, 518 E Oltorf St, Austin, TX 78704, United States, 30.2374422, -97.75048679999999
+Fresh Plus Grocery, 2401 San Gabriel St, Austin, TX 78705, United States, 30.2883133, -97.74767059999999
+Wheatsville Food Co-op, 3101 Guadalupe St, Austin, TX 78705, United States, 30.2975583, -97.7410694
+Natural Grocers, 4615 N Lamar Blvd Suite 304, Austin, TX 78751, United States, 30.3154649, -97.73462049999999
+Central Market, 4001 N Lamar Blvd, Austin, TX 78756, United States, 30.3076098, -97.73987609999999
+Randalls, 1500 W 35th St, Austin, TX 78703, United States, 30.3066026, -97.7490176
+Red River Market, 3213 Red River St, Austin, TX 78705, United States, 30.2914167, -97.72646089999999
+Avenue B Grocery & Market, 4403 Avenue B, Austin, TX 78751, United States, 30.3090267, -97.7314334
+Fresh Plus Grocery, 1221 W Lynn St, Austin, TX 78703, United States, 30.2808333, -97.75833329999999
+West Campus Market, 709 W 22nd St STE 200, Austin, TX 78705, United States, 30.2852075, -97.7464206
+New Speedway Grocery, 3707 Speedway, Austin, TX 78705, United States, 30.3001941, -97.7334336
+Speedway Market, 104 E 31st St, Austin, TX 78705, United States, 30.295159, -97.736477
+Orange Market, 910 W 25th St, Austin, TX 78705, United States, 30.2896111, -97.7475906
+Friendly Rio Market, 620 W 29th St, Austin, TX 78705, United States, 30.2960499, -97.7435794
+H-E-B, 1000 E 41st St, Austin, TX 78751, United States, 30.3006372, -97.71995679999999
+Whole Foods Market, 525 N Lamar Blvd, Austin, TX 78703, United States, 30.2705496, -97.7531762
+Rio Mart, 2101 Rio Grande St # 1002, Austin, TX 78705, United States, 30.2841403, -97.7449358
+Fiesta Mart, LLC, 3909 N I-35 Srvc Rd, Austin, TX 78722, United States, 30.29583809999999, -97.7175465
+H-E-B Convenience Store, 3807 N Interstate Hwy 35, Austin, TX 78722, United States, 30.2948485, -97.71896919999999
+Fresh Plus Grocery, 408 E 43rd St, Austin, TX 78751, United States, 30.3049515, -97.72642859999999
+The Bee Grocery, 1001 E 6th St, Austin, TX 78702, United States, 30.2649183, -97.73244919999999
+MT Supermarket, 10901 N Lamar Blvd G, Austin, TX 78753, United States, 30.3780174, -97.6859436
+Rutland Food Store, 1747 Rutland Dr, Austin, TX 78758, United States, 30.3772516, -97.7103546
+Whole Foods Market, 11920 Domain Dr, Austin, TX 78758, United States, 30.4063209, -97.7201151
+Hong Kong Supermarket, 8557 Research Blvd, Austin, TX 78758, United States, 30.3613722, -97.71515
+Natural Grocers, 10515 N Mopac Expy, Austin, TX 78759, United States, 30.3874483, -97.7332291
+Dia's Market, 812 Justin Ln, Austin, TX 78757, United States, 30.3374065, -97.72039079999999
+Fresh Plus Grocery, 2917 W Anderson Ln, Austin, TX 78757, United States, 30.3582782, -97.7389463
+Nugent Grocery, 808 Justin Ln, Austin, TX 78757, United States, 30.3371404, -97.7199675
+World Food & Halal Market, 9616 N Lamar Blvd # 125, Austin, TX 78753, United States, 30.3670451, -97.69682499999999
+Arlan's Market, 7108 Woodrow Ave, Austin, TX 78757, United States, 30.3430352, -97.7256041
+Randalls, 10900 Research Blvd, Austin, TX 78759, United States, 30.4022823, -97.7472052
+Lone Star Family Market #1, 8756 Research Blvd, Austin, TX 78758, United States, 30.3656064, -97.7188635
+H-E-B, 12407 N Mopac Expy, Austin, TX 78758, United States, 30.417464, -97.702855
+La hacienda, 1835 Kramer Ln, Austin, TX 78758, United States, 30.3870395, -97.70813899999999
+Hana World Market, 1700 W Parmer Ln #100, Austin, TX 78727, United States, 30.4129126, -97.6867422
+H-E-B, 9414 N Lamar Blvd, Austin, TX 78753, United States, 30.3646685, -97.69806779999999
+Whole Foods Market, 9607 Research Blvd #300, Austin, TX 78759, United States, 30.3893852, -97.7415146
+Sprouts Farmers Market, 10225 Research Blvd Ste 1000, Austin, TX 78759, United States, 30.3949, -97.74481
+The Corner Market, 11010 Domain Dr STE 112, Austin, TX 78758, United States, 30.3967496, -97.7269976
+Han Yang Market, 6808 N Lamar Blvd #A-110, Austin, TX 78752, United States, 30.3361904, -97.7210397
+H-E-B, 7010 Hwy 71 West, Austin, TX 78735, United States, 30.234958, -97.873891
+Food Mart, 104 W US Hwy 290 Service Rd, Austin, TX 78735, United States, 30.237321, -97.8403965
+Whole Foods Market, 4301 W William Cannon Dr, Austin, TX 78749, United States, 30.22017799999999, -97.84175049999999
+Randalls, 6600 S MoPac Expy S, Austin, TX 78749, United States, 30.2227877, -97.8362269
+H-E-B, 6900 Brodie Ln, Austin, TX 78745, United States, 30.2160058, -97.83062600000001
+Johnson grocery store, 4410 W William Cannon Dr, Austin, TX 78749, United States, 30.2237332, -97.840858
+Sprouts Farmers Market, 6920 Menchaca Rd, Austin, TX 78745, United States, 30.20241, -97.80805
+Wheatsville Food Co-op, 4001 S Lamar Blvd, Austin, TX 78704, United States, 30.2355801, -97.790999
+Manpasand Vegan Grocery, 3601 W William Cannon Dr, Austin, TX 78749, United States, 30.21506399999999, -97.833579
+7 Days Food Store, 1025 W Stassney Ln # 104, Austin, TX 78745, United States, 30.2102228, -97.7870445
+Target Grocery, 5300 S MoPac Expy, Austin, TX 78749, United States, 30.2338365, -97.82787610000001
+Randalls, 9911 Brodie Ln, Austin, TX 78748, United States, 30.1840741, -97.8475742
+H-E-B, 5800 W Slaughter Ln, Austin, TX 78749, United States, 30.202255, -97.8764559
+Farmers Market, Sunset Valley, TX 78745, United States, 30.2310902, -97.806068
+Sprouts Farmers Market, 4006 S Lamar Blvd Ste 400, Austin, TX 78704, United States, 30.237778, -97.79312
+Randalls, 2025 W Ben White Blvd, Austin, TX 78704, United States, 30.2292336, -97.7901337
+Central Market, 4477 S Lamar Blvd, Austin, TX 78745, United States, 30.2312951, -97.7973525
+Whole Foods Market, 525 N Lamar Blvd, Austin, TX 78703, United States, 30.2705496, -97.7531762
+Payless Food Store, 2400 Burleson Rd, Austin, TX 78741, United States, 30.2294433, -97.73597
+Target Grocery, 2300 W Ben White Blvd, Austin, TX 78704, United States, 30.2334001, -97.7914251
+Express Food Mart, 8201 Cross Park Dr, Austin, TX 78754, United States, 30.3306208, -97.667231
+SOH DIST/AUSTIN ORGANICS, 8024 Exchange Dr Suite 200, bldg 7, Austin, TX 78754, United States, 30.333418, -97.660963
+Dessau Grocery, 9406 Dessau Rd, Austin, TX 78754, United States, 30.3513762, -97.6762703
+Super Market Cameron, 8800 Cameron Rd, Austin, TX 78754, United States, 30.3447976, -97.67754099999999
+JD’s Supermarket #8, 8807 Cameron Rd, Austin, TX 78754, United States, 30.3443466, -97.67711969999999
+H-E-B, 7112 Ed Bluestein Blvd #125, Austin, TX 78723, United States, 30.3120539, -97.6647761
+Africarib Market, 825 E Rundberg Ln # A-1, Austin, TX 78753, United States, 30.3562734, -97.6873918
+MT Supermarket, 10901 N Lamar Blvd G, Austin, TX 78753, United States, 30.3780174, -97.6859436
+Arlan's Market, 7108 Woodrow Ave, Austin, TX 78757, United States, 30.3430352, -97.7256041
+La Hacienda Market, 7517 Cameron Rd #100, Austin, TX 78752, United States, 30.3288889, -97.6894444
+Texas Market, 720 Lamar Pl, Austin, TX 78752, United States, 30.3317488, -97.7222359
+Hong Kong Supermarket, 8557 Research Blvd, Austin, TX 78758, United States, 30.3613722, -97.71515
+Mi Tienda, 8007 Gessner Dr, Austin, TX 78753, United States, 30.343589, -97.70193959999999
+Nugent Grocery, 808 Justin Ln, Austin, TX 78757, United States, 30.3371404, -97.7199675
+Lone Star Family Market #2, 7110 Cameron Rd # A-1, Austin, TX 78752, United States, 30.3257639, -97.69311669999999
+El Rancho Supermercado, 6800 Berkman Dr, Austin, TX 78723, United States, 30.3202701, -97.69048049999999
+Rundberg Grocery, 310 E Rundberg Ln, Austin, TX 78753, United States, 30.3601258, -97.691563
+Tienda Mexicana, 825 E Rundberg Ln # D, Austin, TX 78753, United States, 30.3568925, -97.6863437
+H-E-B, 9414 N Lamar Blvd, Austin, TX 78753, United States, 30.3646685, -97.69806779999999
+H-E-B, 1801 E 51st St, Austin, TX 78723, United States, 30.3011658, -97.69871499999999
+Whole Foods Market, 525 N Lamar Blvd, Austin, TX 78703, United States, 30.2705496, -97.7531762
+Fresh Plus Grocery, 2401 San Gabriel St, Austin, TX 78705, United States, 30.2883133, -97.74767059999999
+Royal Blue Grocery, 301 Brazos St suite 110 suite 110, Austin, TX 78701, United States, 30.26497539999999, -97.74196459999999
+Fresh Plus Grocery, 1221 W Lynn St, Austin, TX 78703, United States, 30.2808333, -97.75833329999999
+The Bee Grocery, 1001 E 6th St, Austin, TX 78702, United States, 30.2649183, -97.73244919999999
+Royal Blue Grocery, 609 Congress Ave, Austin, TX 78701, United States, 30.268323, -97.74224699999999
+Mini Mart, 231 E 6th St, Austin, TX 78701, United States, 30.2674362, -97.7405886
+Whole Foods Market, 901 E 5th St Ste 100, Austin, TX 78702, United States, 30.2639948, -97.7338841
+Royal Blue Grocery, The 360 Tower, 360 Nueces St #90, Austin, TX 78701, United States, 30.2677373, -97.74955369999999
+Austin SuperMarket, 30 S IH 35 Frontage Rd, Austin, TX 78701, United States, 30.25450859999999, -97.7372688
+Royal Blue Grocery, 1629 E 6th St, Austin, TX 78702, United States, 30.2624553, -97.7252084
+Royal Blue Grocery, 51 Rainey St #120, Austin, TX 78701, United States, 30.2572284, -97.7391249
+Royal Blue, 241 W 3rd St, Austin, TX 78701, United States, 30.2657008, -97.7460431
+Fresh Plus Grocery, 408 E 43rd St, Austin, TX 78751, United States, 30.3049515, -97.72642859999999
+Central Market, 4001 N Lamar Blvd, Austin, TX 78756, United States, 30.3076098, -97.73987609999999
+New Speedway Grocery, 3707 Speedway, Austin, TX 78705, United States, 30.3001941, -97.7334336
+Texas Market, 720 Lamar Pl, Austin, TX 78752, United States, 30.3317488, -97.7222359
+Thom's Market - Barton Springs, 1418 Barton Springs Rd, Austin, TX 78704, United States, 30.2616099, -97.75965099999999
+H-E-B, 2701 E 7th St, Austin, TX 78702, United States, 30.2594094, -97.7119031
+Green & White Grocery, 1201 E 7th St, Austin, TX 78702, United States, 30.2650911, -97.72999659999999
+Wheatsville Food Co-op, 3101 Guadalupe St, Austin, TX 78705, United States, 30.2975583, -97.7410694
+Fresh Plus Grocery, 2401 San Gabriel St, Austin, TX 78705, United States, 30.2883133, -97.74767059999999
+The Bee Grocery, 1001 E 6th St, Austin, TX 78702, United States, 30.2649183, -97.73244919999999
+West Campus Market, 709 W 22nd St STE 200, Austin, TX 78705, United States, 30.2852075, -97.7464206
+Whole Foods Market, 525 N Lamar Blvd, Austin, TX 78703, United States, 30.2705496, -97.7531762
+Central Market, 4001 N Lamar Blvd, Austin, TX 78756, United States, 30.3076098, -97.73987609999999
+Red River Market, 3213 Red River St, Austin, TX 78705, United States, 30.2914167, -97.72646089999999
+Rio Mart, 2101 Rio Grande St # 1002, Austin, TX 78705, United States, 30.2841403, -97.7449358
+Fresh Plus Grocery, 408 E 43rd St, Austin, TX 78751, United States, 30.3049515, -97.72642859999999
+Fresh Plus Grocery, 1221 W Lynn St, Austin, TX 78703, United States, 30.2808333, -97.75833329999999
+Royal Blue Grocery, 609 Congress Ave, Austin, TX 78701, United States, 30.268323, -97.74224699999999
+Friendly Rio Market, 620 W 29th St, Austin, TX 78705, United States, 30.2960499, -97.7435794
+Whole Foods Market, 901 E 5th St Ste 100, Austin, TX 78702, United States, 30.2639948, -97.7338841
+Royal Blue Grocery, 301 Brazos St suite 110 suite 110, Austin, TX 78701, United States, 30.26497539999999, -97.74196459999999
+Jester City Market, 201 E 21st St, Austin, TX 78705, United States, 30.2827907, -97.736898
+Avenue B Grocery & Market, 4403 Avenue B, Austin, TX 78751, United States, 30.3090267, -97.7314334
+H-E-B, 1000 E 41st St, Austin, TX 78751, United States, 30.3006372, -97.71995679999999
+New Speedway Grocery, 3707 Speedway, Austin, TX 78705, United States, 30.3001941, -97.7334336
+Orange Market, 910 W 25th St, Austin, TX 78705, United States, 30.2896111, -97.7475906
+Austin SuperMarket, 30 S IH 35 Frontage Rd, Austin, TX 78701, United States, 30.25450859999999, -97.7372688
+Fresh Plus Grocery, 2401 San Gabriel St, Austin, TX 78705, United States, 30.2883133, -97.74767059999999
+Whole Foods Market, 525 N Lamar Blvd, Austin, TX 78703, United States, 30.2705496, -97.7531762
+Royal Blue Grocery, 609 Congress Ave, Austin, TX 78701, United States, 30.268323, -97.74224699999999
+Royal Blue Grocery, The 360 Tower, 360 Nueces St #90, Austin, TX 78701, United States, 30.2677373, -97.74955369999999
+The Bee Grocery, 1001 E 6th St, Austin, TX 78702, United States, 30.2649183, -97.73244919999999
+Fresh Plus Grocery, 1221 W Lynn St, Austin, TX 78703, United States, 30.2808333, -97.75833329999999
+Wheatsville Food Co-op, 3101 Guadalupe St, Austin, TX 78705, United States, 30.2975583, -97.7410694
+Royal Blue Grocery, 301 Brazos St suite 110 suite 110, Austin, TX 78701, United States, 30.26497539999999, -97.74196459999999
+Fresh Plus Grocery, 408 E 43rd St, Austin, TX 78751, United States, 30.3049515, -97.72642859999999
+Austin SuperMarket, 30 S IH 35 Frontage Rd, Austin, TX 78701, United States, 30.25450859999999, -97.7372688
+Whole Foods Market, 901 E 5th St Ste 100, Austin, TX 78702, United States, 30.2639948, -97.7338841
+West Campus Market, 709 W 22nd St STE 200, Austin, TX 78705, United States, 30.2852075, -97.7464206
+Royal Blue Grocery, 51 Rainey St #120, Austin, TX 78701, United States, 30.2572284, -97.7391249
+Mini Mart, 231 E 6th St, Austin, TX 78701, United States, 30.2674362, -97.7405886
+Royal Blue Grocery, 1629 E 6th St, Austin, TX 78702, United States, 30.2624553, -97.7252084
+Red River Market, 3213 Red River St, Austin, TX 78705, United States, 30.2914167, -97.72646089999999
+Nugent Grocery, 808 Justin Ln, Austin, TX 78757, United States, 30.3371404, -97.7199675
+Randalls, 2727 Exposition Blvd, Austin, TX 78703, United States, 30.3042649, -97.7638905
+New Speedway Grocery, 3707 Speedway, Austin, TX 78705, United States, 30.3001941, -97.7334336
+Avenue B Grocery & Market, 4403 Avenue B, Austin, TX 78751, United States, 30.3090267, -97.7314334
+Rabbit Food Grocery, 2425 Exposition Blvd ste a, Austin, TX 78703, United States, 30.2975155, -97.767337
+Randalls, 2727 Exposition Blvd, Austin, TX 78703, United States, 30.3042649, -97.7638905
+Fresh Plus Grocery, 2401 San Gabriel St, Austin, TX 78705, United States, 30.2883133, -97.74767059999999
+Fresh Plus Grocery, 1221 W Lynn St, Austin, TX 78703, United States, 30.2808333, -97.75833329999999
+Whole Foods Market, 525 N Lamar Blvd, Austin, TX 78703, United States, 30.2705496, -97.7531762
+Wheatsville Food Co-op, 3101 Guadalupe St, Austin, TX 78705, United States, 30.2975583, -97.7410694
+Central Market, 4001 N Lamar Blvd, Austin, TX 78756, United States, 30.3076098, -97.73987609999999
+Texas Market, 720 Lamar Pl, Austin, TX 78752, United States, 30.3317488, -97.7222359
+Randalls, 1500 W 35th St, Austin, TX 78703, United States, 30.3066026, -97.7490176
+The Bee Grocery, 1001 E 6th St, Austin, TX 78702, United States, 30.2649183, -97.73244919999999
+Natural Grocers, 4615 N Lamar Blvd Suite 304, Austin, TX 78751, United States, 30.3154649, -97.73462049999999
+Fresh Plus Grocery, 408 E 43rd St, Austin, TX 78751, United States, 30.3049515, -97.72642859999999
+Austin SuperMarket, 30 S IH 35 Frontage Rd, Austin, TX 78701, United States, 30.25450859999999, -97.7372688
+Royal Blue Grocery, 301 Brazos St suite 110 suite 110, Austin, TX 78701, United States, 30.26497539999999, -97.74196459999999
+West Campus Market, 709 W 22nd St STE 200, Austin, TX 78705, United States, 30.2852075, -97.7464206
+Royal Blue Grocery, The 360 Tower, 360 Nueces St #90, Austin, TX 78701, United States, 30.2677373, -97.74955369999999
+Avenue B Grocery & Market, 4403 Avenue B, Austin, TX 78751, United States, 30.3090267, -97.7314334
+Nugent Grocery, 808 Justin Ln, Austin, TX 78757, United States, 30.3371404, -97.7199675
+H-E-B, 5808 Burnet Rd, Austin, TX 78756, United States, 30.3344062, -97.74112579999999
+Orange Market, 910 W 25th St, Austin, TX 78705, United States, 30.2896111, -97.7475906
+7 Days Food Store, 1025 W Stassney Ln # 104, Austin, TX 78745, United States, 30.2102228, -97.7870445
+Sprouts Farmers Market, 6920 Menchaca Rd, Austin, TX 78745, United States, 30.20241, -97.80805
+Wheatsville Food Co-op, 4001 S Lamar Blvd, Austin, TX 78704, United States, 30.2355801, -97.790999
+Lone Star Family Market #4, 512 W Stassney Ln STE 101, Austin, TX 78745, United States, 30.2087251, -97.7799597
+Central Market, 4477 S Lamar Blvd, Austin, TX 78745, United States, 30.2312951, -97.7973525
+Maha Market, 5212 Menchaca Rd, Austin, TX 78745, United States, 30.2188456, -97.7956179
+Sprouts Farmers Market, 4006 S Lamar Blvd Ste 400, Austin, TX 78704, United States, 30.237778, -97.79312
+Randalls, 2025 W Ben White Blvd, Austin, TX 78704, United States, 30.2292336, -97.7901337
+Farmers Market, Sunset Valley, TX 78745, United States, 30.2310902, -97.806068
+Payless Food Store, 2400 Burleson Rd, Austin, TX 78741, United States, 30.2294433, -97.73597
+H & R Grocery, 6400 S Congress Ave, Austin, TX 78745, United States, 30.1969391, -97.7778137
+The Market @ WM Cannon, 719 W William Cannon Dr # 101, Austin, TX 78745, United States, 30.1969219, -97.7884175
+Market, Austin, TX 78704, United States, 30.2203795, -97.7538563
+H-E-B, 6900 Brodie Ln, Austin, TX 78745, United States, 30.2160058, -97.83062600000001
+H-E-B, 6607 S IH 35 Frontage Rd, Austin, TX 78744, United States, 30.188724, -97.76871799999999
+First Market, 7814 S 1st St, Austin, TX 78745, United States, 30.1844526, -97.79285709999999
+Whole Foods Market, 4301 W William Cannon Dr, Austin, TX 78749, United States, 30.22017799999999, -97.84175049999999
+Mom's Grocery, 1901 E William Cannon Dr, Austin, TX 78744, United States, 30.1879215, -97.7658216
+Fiesta Mart, LLC, 5510 S IH 35 Frontage Rd, Austin, TX 78745, United States, 30.2005225, -97.7645809
+FARM TO MARKET GROCERY, 1718 S Congress Ave, Austin, TX 78704, United States, 30.2463687, -97.7511298
+Randalls, 3300 Bee Cave Rd, West Lake Hills, TX 78746, United States, 30.2753663, -97.798856
+Trader Joe's, 2805 Bee Cave Rd, Austin, TX 78746, United States, 30.2701339, -97.78981139999999
+Whole Foods Market, 525 N Lamar Blvd, Austin, TX 78703, United States, 30.2705496, -97.7531762
+Austin SuperMarket, 30 S IH 35 Frontage Rd, Austin, TX 78701, United States, 30.25450859999999, -97.7372688
+Thom's Market - Barton Springs, 1418 Barton Springs Rd, Austin, TX 78704, United States, 30.2616099, -97.75965099999999
+Fresh Plus Grocery, 2401 San Gabriel St, Austin, TX 78705, United States, 30.2883133, -97.74767059999999
+H-E-B, 701 N Capital of Texas Hwy Bld C, West Lake Hills, TX 78746, United States, 30.291855, -97.82523859999999
+Barton Hills Market, 1220 Barton Hills Dr, Austin, TX 78704, United States, 30.261884, -97.775004
+Fresh Plus Grocery, 1221 W Lynn St, Austin, TX 78703, United States, 30.2808333, -97.75833329999999
+The Austinite Market, 1017 Barton Springs Rd, Austin, TX 78704, United States, 30.2599743, -97.7554003
+Royal Blue Grocery, The 360 Tower, 360 Nueces St #90, Austin, TX 78701, United States, 30.2677373, -97.74955369999999
+Sprouts Farmers Market, 4006 S Lamar Blvd Ste 400, Austin, TX 78704, United States, 30.237778, -97.79312
+Royal Blue Grocery, 301 Brazos St suite 110 suite 110, Austin, TX 78701, United States, 30.26497539999999, -97.74196459999999
+David's Food, 912 W Mary St, Austin, TX 78704, United States, 30.2483573, -97.76179739999999
+Wheatsville Food Co-op, 4001 S Lamar Blvd, Austin, TX 78704, United States, 30.2355801, -97.790999
+Randalls, 2727 Exposition Blvd, Austin, TX 78703, United States, 30.3042649, -97.7638905
+Food Mart, 104 W US Hwy 290 Service Rd, Austin, TX 78735, United States, 30.237321, -97.8403965
+West Campus Market, 709 W 22nd St STE 200, Austin, TX 78705, United States, 30.2852075, -97.7464206
+H-E-B, 2400 S S Congress Ave, Austin, TX 78704, United States, 30.23863129999999, -97.75507400000001
+H-E-B, 7010 Hwy 71 West, Austin, TX 78735, United States, 30.234958, -97.873891
+MT Supermarket, 10901 N Lamar Blvd G, Austin, TX 78753, United States, 30.3780174, -97.6859436
+Rutland Food Store, 1747 Rutland Dr, Austin, TX 78758, United States, 30.3772516, -97.7103546
+Fresh Plus Grocery, 2917 W Anderson Ln, Austin, TX 78757, United States, 30.3582782, -97.7389463
+Hong Kong Supermarket, 8557 Research Blvd, Austin, TX 78758, United States, 30.3613722, -97.71515
+World Food & Halal Market, 9616 N Lamar Blvd # 125, Austin, TX 78753, United States, 30.3670451, -97.69682499999999
+Whole Foods Market, 11920 Domain Dr, Austin, TX 78758, United States, 30.4063209, -97.7201151
+Natural Grocers, 10515 N Mopac Expy, Austin, TX 78759, United States, 30.3874483, -97.7332291
+La Hacienda Market Inc., 9717 N Lamar Blvd a4, Austin, TX 78753, United States, 30.3666667, -97.6941667
+La Hacienda Market, 1812 Payton Gin Rd, Austin, TX 78758, United States, 30.365955, -97.7172294
+Arlan's Market, 7108 Woodrow Ave, Austin, TX 78757, United States, 30.3430352, -97.7256041
+Whole Foods Market, 9607 Research Blvd #300, Austin, TX 78759, United States, 30.3893852, -97.7415146
+Sprouts Farmers Market, 10225 Research Blvd Ste 1000, Austin, TX 78759, United States, 30.3949, -97.74481
+International Foods, 11331 N Lamar Blvd, Austin, TX 78753, United States, 30.3822288, -97.68502699999999
+The Corner Market, 11010 Domain Dr STE 112, Austin, TX 78758, United States, 30.3967496, -97.7269976
+Hana World Market, 1700 W Parmer Ln #100, Austin, TX 78727, United States, 30.4129126, -97.6867422
+El Rancho Supermercado, 8752 Research Blvd, Austin, TX 78758, United States, 30.36503159999999, -97.71979499999999
+Shahi Grocery and Cafe, 12410 N Lamar Blvd D, Austin, TX 78753, United States, 30.4067985, -97.6789312
+Lone Star Family Market #1, 8756 Research Blvd, Austin, TX 78758, United States, 30.3656064, -97.7188635
+Randalls, 10900 Research Blvd, Austin, TX 78759, United States, 30.4022823, -97.7472052
+H-E-B, 12407 N Mopac Expy, Austin, TX 78758, United States, 30.417464, -97.702855
+JD's Supermarket #6, 9111 FM812, Austin, TX 78719, United States, 30.1590344, -97.68786659999999
+Bread Basket, Austin, TX 78719, United States, 30.114675, -97.6943776
+Mobil - JD's Market, 7310 E Riverside Dr, Austin, TX 78741, United States, 30.2208695, -97.69391170000002
+Farm Aire, 3600 Presidential Blvd, Austin, TX 78719, United States, 30.2022371, -97.6702893
+Super Moreliana, 6112 US-183, Austin, TX 78744, United States, 30.1676709, -97.69253619999999
+Tomgro Grocery, 1313 Montopolis Dr, Austin, TX 78741, United States, 30.2301121, -97.69973279999999
+Vargas Food Store, 809 Vargas Rd, Austin, TX 78741, United States, 30.2338742, -97.6935254
+812 Outdoor Market, 8714 FM812, Austin, TX 78719, United States, 30.1639957, -97.68930809999999
+Montopolis Grocery, 1211 Montopolis Dr, Austin, TX 78741, United States, 30.23124679999999, -97.69900539999999
+CNBC, ABIA Lower Level, Austin, TX 78719, United States, 30.2023122, -97.6644082
+Airport Xpress Market, 2777 E Hwy 71, Del Valle, TX 78617, United States, 30.2102543, -97.651808
+Thomas food market, 6301 E Riverside Dr, Austin, TX 78741, United States, 30.2245586, -97.70351219999999
+American Fireworks Stand, 10518-10572 S Hwy 183, Austin, TX 78719, United States, 30.0939537, -97.693967
+Austin SuperMarket, 30 S IH 35 Frontage Rd, Austin, TX 78701, United States, 30.25450859999999, -97.7372688
+ATM (Quix Food Store), 3404 US-183, Austin, TX 78744, United States, 30.2002397, -97.68466029999999
+Mustang Food Mart, 10050 S Hwy 183, Austin, TX 78747, United States, 30.0941667, -97.6941667
+Payless Food Store, 2400 Burleson Rd, Austin, TX 78741, United States, 30.2294433, -97.73597
+The Bee Grocery, 1001 E 6th St, Austin, TX 78702, United States, 30.2649183, -97.73244919999999
+Shop 'n Save, 2204 Woodland Ave, Austin, TX 78741, United States, 30.236153, -97.7280926
+H-E-B plus!, 2508 E Riverside Dr, Austin, TX 78741, United States, 30.2365234, -97.72207290000001
+H-E-B, 12860 Research Blvd, Austin, TX 78750, United States, 30.4342471, -97.7726297
+Randalls, 10900 Research Blvd, Austin, TX 78759, United States, 30.4022823, -97.7472052
+H-E-B, 10710 Research Blvd Ste 200, Austin, TX 78759, United States, 30.39853969999999, -97.7483489
+Sprouts Farmers Market, 10225 Research Blvd Ste 1000, Austin, TX 78759, United States, 30.3949, -97.74481
+Asia Market Austin, 8650 Spicewood Springs Rd #115, Austin, TX 78759, United States, 30.4323869, -97.7714914
+Trader Joe's, 9722 Great Hills Trail Ste 200, Austin, TX 78759, United States, 30.3955849, -97.7517712
+Whole Foods Market, 11920 Domain Dr, Austin, TX 78758, United States, 30.4063209, -97.7201151
+Whole Foods Market, 9607 Research Blvd #300, Austin, TX 78759, United States, 30.3893852, -97.7415146
+H-E-B, 6001 W Parmer Ln, Austin, TX 78727, United States, 30.4415577, -97.7425876
+Natural Grocers, 10515 N Mopac Expy, Austin, TX 78759, United States, 30.3874483, -97.7332291
+Fresh Plus Grocery, 2917 W Anderson Ln, Austin, TX 78757, United States, 30.3582782, -97.7389463
+MT Supermarket, 10901 N Lamar Blvd G, Austin, TX 78753, United States, 30.3780174, -97.6859436
+Target Grocery, 10107 Research Blvd, Austin, TX 78759, United States, 30.3927426, -97.7438771
+H-E-B, 12407 N Mopac Expy, Austin, TX 78758, United States, 30.417464, -97.702855
+Arlan's Market, 7108 Woodrow Ave, Austin, TX 78757, United States, 30.3430352, -97.7256041
+Randalls, 8040 Mesa Dr, Austin, TX 78731, United States, 30.3714899, -97.7580995
+Nugent Grocery, 808 Justin Ln, Austin, TX 78757, United States, 30.3371404, -97.7199675
+Texas Market, 720 Lamar Pl, Austin, TX 78752, United States, 30.3317488, -97.7222359
+MTM Indian Grocery & Fish Store Inc., 9225 W Parmer Ln UNIT 102, Austin, TX 78717, United States, 30.4780862, -97.76637009999999
+The Corner Market, 11010 Domain Dr STE 112, Austin, TX 78758, United States, 30.3967496, -97.7269976
+Double RR Grocery, 4501 E Martin Luther King Jr Blvd, Austin, TX 78721, United States, 30.2851978, -97.68424329999999
+Daily Food Store, 1051 Springdale Rd, Austin, TX 78721, United States, 30.2721209, -97.6908717
+Austin Food Masters, 5905 Techni Center Dr, Austin, TX 78721, United States, 30.2768712, -97.67197209999999
+JD's Market, 3926 Ed Bluestein Blvd, Austin, TX 78721, United States, 30.2753484, -97.668956
+Shack Corner Store, 1167 Webberville Rd, Austin, TX 78721, United States, 30.2774303, -97.68571399999999
+Family Dollar, 4701 E Martin Luther King Jr B, Austin, TX 78721, United States, 30.2854736, -97.68113729999999
+Quick Stop Grocery, 1197 Hargrave St, Austin, TX 78702, United States, 30.275525, -97.70750699999999
+Labatt Food Service, 3722 Bluestein Dr, Austin, TX 78721, United States, 30.2752673, -97.6708974
+KWICK IN, 1149 Airport Blvd, Austin, TX 78702, United States, 30.273027, -97.697385
+7-Eleven, 6004 FM 969, Austin, TX 78721, United States, 30.28605009999999, -97.6639294
+Jiffy-Sak Texaco, 6105 Techni Center Dr, Austin, TX 78721, United States, 30.2757757, -97.668948
+Double M Grocery, 7700 FM 969, Austin, TX 78724, United States, 30.280316, -97.6459016
+Cedar Corner Store, 1401 Cedar Ave, Austin, TX 78702, United States, 30.2770192, -97.7133063
+Fresh Plus Grocery, 408 E 43rd St, Austin, TX 78751, United States, 30.3049515, -97.72642859999999
+H-E-B, 2701 E 7th St, Austin, TX 78702, United States, 30.2594094, -97.7119031
+H-E-B, 1801 E 51st St, Austin, TX 78723, United States, 30.3011658, -97.69871499999999
+Fiesta Mart, LLC, 3909 N I-35 Srvc Rd, Austin, TX 78722, United States, 30.29583809999999, -97.7175465
+The Bee Grocery, 1001 E 6th St, Austin, TX 78702, United States, 30.2649183, -97.73244919999999
+H-E-B, 1000 E 41st St, Austin, TX 78751, United States, 30.3006372, -97.71995679999999
+Mosaic Market, 4600 Mueller Blvd #1031, Austin, TX 78723, United States, 30.2988793, -97.70740699999999
+Fiesta Mart, LLC, 3909 N I-35 Srvc Rd, Austin, TX 78722, United States, 30.29583809999999, -97.7175465
+H-E-B Convenience Store, 3807 N Interstate Hwy 35, Austin, TX 78722, United States, 30.2948485, -97.71896919999999
+RBM Food Mart, 2601 Manor Rd, Austin, TX 78722, United States, 30.2845872, -97.7151813
+Booker Company, 2039 Airport Blvd, Austin, TX 78722, United States, 30.2846351, -97.7049074
+Monarch Food Mart, 1402 E 38th 1/2 St, Austin, TX 78722, United States, 30.2932677, -97.7160571
+Brothers Lane LLC, 2610 Manor Rd, Austin, TX 78722, United States, 30.28526829999999, -97.71461459999999
+Mosaic Market, 4600 Mueller Blvd #1031, Austin, TX 78723, United States, 30.2988793, -97.70740699999999
+99 Market, Airport Blvd, Austin, TX 78723, United States, 30.29415269999999, -97.70777629999999
+MLK Food Store, 2915 E Martin Luther King Jr Blvd, Austin, TX 78702, United States, 30.2817937, -97.7078133
+H-E-B, 1000 E 41st St, Austin, TX 78751, United States, 30.3006372, -97.71995679999999
+Red River Market, 3213 Red River St, Austin, TX 78705, United States, 30.2914167, -97.72646089999999
+Quick Stop Grocery, 1197 Hargrave St, Austin, TX 78702, United States, 30.275525, -97.70750699999999
+The Bee Grocery, 1001 E 6th St, Austin, TX 78702, United States, 30.2649183, -97.73244919999999
+Fresh Plus Grocery, 408 E 43rd St, Austin, TX 78751, United States, 30.3049515, -97.72642859999999
+Cedar Corner Store, 1401 Cedar Ave, Austin, TX 78702, United States, 30.2770192, -97.7133063
+Lone Star Family Market #3, 2003 Airport Blvd, Austin, TX 78722, United States, 30.2835966, -97.7040669
+H-E-B, 1801 E 51st St, Austin, TX 78723, United States, 30.3011658, -97.69871499999999
+Wheatsville Food Co-op, 3101 Guadalupe St, Austin, TX 78705, United States, 30.2975583, -97.7410694
+Whole Foods Market, 525 N Lamar Blvd, Austin, TX 78703, United States, 30.2705496, -97.7531762
+Family Dollar, 3851 Airport Blvd, Austin, TX 78722, United States, 30.28975119999999, -97.70662519999999
+El Rancho Supermercado, 6800 Berkman Dr, Austin, TX 78723, United States, 30.3202701, -97.69048049999999
+Mosaic Market, 4600 Mueller Blvd #1031, Austin, TX 78723, United States, 30.2988793, -97.70740699999999
+H-E-B, 1801 E 51st St, Austin, TX 78723, United States, 30.3011658, -97.69871499999999
+H-E-B, 7112 Ed Bluestein Blvd #125, Austin, TX 78723, United States, 30.3120539, -97.6647761
+Target Grocery, 5621 N I H, 35, Austin, TX 78723, United States, 30.3160659, -97.7067543
+La Michoacana Meat Market, 6908 Cameron Rd, Austin, TX 78752, United States, 30.3247222, -97.69361110000001
+Mi Pueblito, 1015 Reinli St, Austin, TX 78723, United States, 30.3179024, -97.70638819999999
+99 Market, Airport Blvd, Austin, TX 78723, United States, 30.29415269999999, -97.70777629999999
+Yeyo"s club nutricion familiar, 1810 Briarcliff Blvd, Austin, TX 78723, United States, 30.3142694, -97.68971959999999
+La Michoacana Meat Market, 5706 Manor Rd ste b, Austin, TX 78723, United States, 30.30515489999999, -97.6815025
+Double RR Grocery, 4501 E Martin Luther King Jr Blvd, Austin, TX 78721, United States, 30.2851978, -97.68424329999999
+Bueno, 5029 Manor Rd, Austin, TX 78723, United States, 30.2976048, -97.6869164
+Berkman Food Mart, 6615 Berkman Dr, Austin, TX 78723, United States, 30.3195237, -97.6889502
+MLK Food Store, 2915 E Martin Luther King Jr Blvd, Austin, TX 78702, United States, 30.2817937, -97.7078133
+Fresh Plus Grocery, 408 E 43rd St, Austin, TX 78751, United States, 30.3049515, -97.72642859999999
+Fiesta Mart, LLC, 3909 N I-35 Srvc Rd, Austin, TX 78722, United States, 30.29583809999999, -97.7175465
+H-E-B, 1000 E 41st St, Austin, TX 78751, United States, 30.3006372, -97.71995679999999
+Lone Star Family Market #2, 7110 Cameron Rd # A-1, Austin, TX 78752, United States, 30.3257639, -97.69311669999999
+La Hacienda Market, 7517 Cameron Rd #100, Austin, TX 78752, United States, 30.3288889, -97.6894444
+Texas Market, 720 Lamar Pl, Austin, TX 78752, United States, 30.3317488, -97.7222359
+H-E-B, 7112 Ed Bluestein Blvd #125, Austin, TX 78723, United States, 30.3120539, -97.6647761
+General Store, 11003 Harris Branch Pkwy, Austin, TX 78754, United States, 30.3428548, -97.6127681
+Loyola Grocery, 6710 Loyola Ln, Austin, TX 78724, United States, 30.29963339999999, -97.6454657
+Forest Bluff Grocery, 14300 FM 969, Austin, TX 78724, United States, 30.2481311, -97.5836576
+Double M Grocery, 7700 FM 969, Austin, TX 78724, United States, 30.280316, -97.6459016
+Express Food Mart, 8201 Cross Park Dr, Austin, TX 78754, United States, 30.3306208, -97.667231
+Mi Pueblo Meat Market, 6575 Decker Ln, Austin, TX 78724, United States, 30.2895035, -97.6275149
+Dollar General, 7916 Decker Ln, Austin, TX 78724, United States, 30.305523, -97.62057999999999
+JD’s Super Market #7, 6506 Decker Ln, Austin, TX 78724, United States, 30.2910196, -97.62885279999999
+SOH DIST/AUSTIN ORGANICS, 8024 Exchange Dr Suite 200, bldg 7, Austin, TX 78754, United States, 30.333418, -97.660963
+Minimax Food Mart, 10412 FM 969, Austin, TX 78724, United States, 30.263129, -97.62136
+Family Dollar, 14001 FM 969, Austin, TX 78724, United States, 30.248177, -97.58639199999999
+Dollar General, 6600 FM 969, Austin, TX 78724, United States, 30.2847203, -97.6571067
+JD's Market, 3926 Ed Bluestein Blvd, Austin, TX 78721, United States, 30.2753484, -97.668956
+Dessau Grocery, 9406 Dessau Rd, Austin, TX 78754, United States, 30.3513762, -97.6762703
+Dollar General, 13712 FM 969, Austin, TX 78724, United States, 30.2503289, -97.5879164
+La Mexicana Supermercado Chaparo, 14236 FM 969, Austin, TX 78724, United States, 30.2486061, -97.5843031
+El Rancho Supermercado, 6800 Berkman Dr, Austin, TX 78723, United States, 30.3202701, -97.69048049999999
+Africarib Market, 825 E Rundberg Ln # A-1, Austin, TX 78753, United States, 30.3562734, -97.6873918
+La Hacienda Market, 7517 Cameron Rd #100, Austin, TX 78752, United States, 30.3288889, -97.6894444
+Forest Bluff Grocery, 14300 FM 969, Austin, TX 78724, United States, 30.2481311, -97.5836576
+La Mexicana Supermercado Chaparo, 14236 FM 969, Austin, TX 78724, United States, 30.2486061, -97.5843031
+Minimax Food Mart, 10412 FM 969, Austin, TX 78724, United States, 30.263129, -97.62136
+JD's Market, 3926 Ed Bluestein Blvd, Austin, TX 78721, United States, 30.2753484, -97.668956
+H-E-B, 7112 Ed Bluestein Blvd #125, Austin, TX 78723, United States, 30.3120539, -97.6647761
+Family Dollar, 14001 FM 969, Austin, TX 78724, United States, 30.248177, -97.58639199999999
+Double RR Grocery, 4501 E Martin Luther King Jr Blvd, Austin, TX 78721, United States, 30.2851978, -97.68424329999999
+H-E-B, 2701 E 7th St, Austin, TX 78702, United States, 30.2594094, -97.7119031
+La Michoacana Meat Market, 5706 Manor Rd ste b, Austin, TX 78723, United States, 30.30515489999999, -97.6815025
+Mi Pueblo Meat Market, 6575 Decker Ln, Austin, TX 78724, United States, 30.2895035, -97.6275149
+Vargas Food Store, 809 Vargas Rd, Austin, TX 78741, United States, 30.2338742, -97.6935254
+Airport Xpress Market, 2777 E Hwy 71, Del Valle, TX 78617, United States, 30.2102543, -97.651808
+H-E-B, 1801 E 51st St, Austin, TX 78723, United States, 30.3011658, -97.69871499999999
+The Bee Grocery, 1001 E 6th St, Austin, TX 78702, United States, 30.2649183, -97.73244919999999
+El Rancho Supermercado, 6800 Berkman Dr, Austin, TX 78723, United States, 30.3202701, -97.69048049999999
+Corner Store, 12200 FM 969, Austin, TX 78724, United States, 30.2551105, -97.60544619999999
+Tomgro Grocery, 1313 Montopolis Dr, Austin, TX 78741, United States, 30.2301121, -97.69973279999999
+Nugent Grocery, 808 Justin Ln, Austin, TX 78757, United States, 30.3371404, -97.7199675
+Whole Foods Market, 525 N Lamar Blvd, Austin, TX 78703, United States, 30.2705496, -97.7531762
+Payless Food Store, 2400 Burleson Rd, Austin, TX 78741, United States, 30.2294433, -97.73597
+H-E-B, 7301 N FM 620, Austin, TX 78726, United States, 30.4042242, -97.85163089999999
+Anderson Mill H‑E‑B Plus!, 11521 N FM 620, Austin, TX 78726, United States, 30.4538987, -97.8268689
+Cvs 10139, 7300 N FM 620, Austin, TX 78726, United States, 30.4048791, -97.85443310000001
+Manpasand Indian Pakistani Halal Groceries Supermarket, 13945 North, 183 Lakeline Mall Dr Exit, Austin, TX 78717, United States, 30.4718721, -97.7966979
+M & S Express Stoo, 10505 N FM 620, Austin, TX 78726, United States, 30.4436937, -97.8321943
+Randalls, 5145 N FM 620, Austin, TX 78732, United States, 30.3891676, -97.8838207
+Spec's Wines, Spirits & Finer Foods, 10601 Ranch Rd 620 N, Austin, TX 78726, United States, 30.4440334, -97.83181959999999
+Davod's Mediterranean Market & Grill, 13497 US-183 #600, Austin, TX 78750, United States, 30.4497847, -97.7894525
+AMG Mart, 10700 Anderson Mill Rd, Austin, TX 78750, United States, 30.4476065, -97.8105119
+H Mart Austin, 11301 Lakeline Blvd, Austin, TX 78717, United States, 30.4793054, -97.7990614
+Gandhi Bazar 620, 12809 N FM 620 #3, Austin, TX 78750, United States, 30.4656251, -97.80261469999999
+H-E-B, 12860 Research Blvd, Austin, TX 78750, United States, 30.4342471, -97.7726297
+H-E-B plus!, 14028 North, US-183, Austin, TX 78717, United States, 30.4774444, -97.8035175
+Trader Joe's, 9722 Great Hills Trail Ste 200, Austin, TX 78759, United States, 30.3955849, -97.7517712
+Randals Grocery & Gas, 5145 Ranch Rd 620, Austin, TX 78732, United States, 30.3893574, -97.88382849999999
+Sprouts Farmers Market, 10225 Research Blvd Ste 1000, Austin, TX 78759, United States, 30.3949, -97.74481
+Speedy Mart, 10300 Anderson Mill Rd, Austin, TX 78750, United States, 30.4475197, -97.80422490000001
+Cvs 8322, 11725 Ranch Rd 620 N, Austin, TX 78750, United States, 30.4571872, -97.8227734
+Randalls, 10900 Research Blvd, Austin, TX 78759, United States, 30.4022823, -97.7472052
+Asia Market Austin, 8650 Spicewood Springs Rd #115, Austin, TX 78759, United States, 30.4323869, -97.7714914
+H-E-B, 6001 W Parmer Ln, Austin, TX 78727, United States, 30.4415577, -97.7425876
+Desi Brothers, 2506 W Parmer Ln #170, Austin, TX 78727, United States, 30.4200552, -97.701128
+Hana World Market, 1700 W Parmer Ln #100, Austin, TX 78727, United States, 30.4129126, -97.6867422
+Anand Bazar, 2121 W Parmer Ln #108, Austin, TX 78727, United States, 30.4156713, -97.6973163
+Borderless European Market (BEM), 2121 W Parmer Ln #113, Austin, TX 78727, United States, 30.41554649999999, -97.69724989999999
+Food Mart, 12221 Riata Trace Pkwy, Austin, TX 78727, United States, 30.428662, -97.750134
+Food Basket, 2008 W Parmer Ln, Austin, TX 78727, United States, 30.4160798, -97.6953382
+CYC Enterprises Inc, 1700 W Parmer Ln, Austin, TX 78727, United States, 30.4132915, -97.6880703
+Kala's Kuisine, 12117 Pecan St, Austin, TX 78727, United States, 30.4336371, -97.7630162
+H-E-B, 12407 N Mopac Expy, Austin, TX 78758, United States, 30.417464, -97.702855
+Shahi Grocery and Cafe, 12410 N Lamar Blvd D, Austin, TX 78753, United States, 30.4067985, -97.6789312
+Whole Foods Market, 11920 Domain Dr, Austin, TX 78758, United States, 30.4063209, -97.7201151
+Borderless European Market (BEM), 2121 W Parmer Ln #113, Austin, TX 78727, United States, 30.4157896, -97.6976933
+McNeil, 14005 E McNeil Rd, Austin, TX 78729, United States, 30.4536187, -97.7206521
+Texan Market, 12400 Amherst Dr #100, Austin, TX 78727, United States, 30.4210741, -97.7165447
+Asia Market Austin, 8650 Spicewood Springs Rd #115, Austin, TX 78759, United States, 30.4323869, -97.7714914
+7-Eleven, 3801 W Parmer Ln, Austin, TX 78727, United States, 30.4238364, -97.7135019
+H-E-B, 12860 Research Blvd, Austin, TX 78750, United States, 30.4342471, -97.7726297
+Manpasand Indian Pakistani Halal Groceries Supermarket, 12625 N Interstate Hwy 35 building a, Austin, TX 78753, United States, 30.4105057, -97.6717706
+gandhi bazar, 8650 Spicewood Springs Rd, Austin, TX 78759, United States, 30.4323662, -97.7706508
+McNeil, 14005 E McNeil Rd, Austin, TX 78729, United States, 30.4536187, -97.7206521
+Wells Branch Food Mart, 3505 Wells Branch Pkwy, Austin, TX 78728, United States, 30.4395897, -97.69742819999999
+Custom Food Group, 1120 W Howard Ln, Austin, TX 78753, United States, 30.4248424, -97.6684789
+H-E-B, 1434 Wells Branch Pkwy, Pflugerville, TX 78660, United States, 30.4425716, -97.66425339999999
+MiniMax Food Mart #4, 16009 Farm to Market Rd 1325 #100, Austin, TX 78728, United States, 30.4717732, -97.69060569999999
+Manpasand Indian Pakistani Halal Groceries Supermarket, 12625 N Interstate Hwy 35 building a, Austin, TX 78753, United States, 30.4105057, -97.6717706
+Hana World Market, 1700 W Parmer Ln #100, Austin, TX 78727, United States, 30.4129126, -97.6867422
+H-E-B, 12407 N Mopac Expy, Austin, TX 78758, United States, 30.417464, -97.702855
+Shahi Grocery and Cafe, 12410 N Lamar Blvd D, Austin, TX 78753, United States, 30.4067985, -97.6789312
+H-E-B, 6001 W Parmer Ln, Austin, TX 78727, United States, 30.4415577, -97.7425876
+H-E-B, 500 W Canyon Ridge Dr, Austin, TX 78753, United States, 30.4057625, -97.6719967
+MT Supermarket, 10901 N Lamar Blvd G, Austin, TX 78753, United States, 30.3780174, -97.6859436
+Desi Brothers, 2506 W Parmer Ln #170, Austin, TX 78727, United States, 30.4200552, -97.701128
+Borderless European Market (BEM), 2121 W Parmer Ln #113, Austin, TX 78727, United States, 30.41554649999999, -97.69724989999999
+Natural Grocers, 10515 N Mopac Expy, Austin, TX 78759, United States, 30.3874483, -97.7332291
+Randalls, 10900 Research Blvd, Austin, TX 78759, United States, 30.4022823, -97.7472052
+MTM Indian Grocery & Fish Store Inc., 9225 W Parmer Ln UNIT 102, Austin, TX 78717, United States, 30.4780862, -97.76637009999999
+Anand Bazar, 2121 W Parmer Ln #108, Austin, TX 78727, United States, 30.4156713, -97.6973163
+H-E-B, 10710 Research Blvd Ste 200, Austin, TX 78759, United States, 30.39853969999999, -97.7483489
+Whole Foods Market, 11920 Domain Dr, Austin, TX 78758, United States, 30.4063209, -97.7201151
+H-E-B, 7301 N FM 620, Austin, TX 78726, United States, 30.4042242, -97.85163089999999
+The Market @ Jester, 6507 Jester Blvd, Austin, TX 78750, United States, 30.3701862, -97.8001128
+Lakehills Grocery, 1500 Cuernavaca Dr N, Austin, TX 78733, United States, 30.3385784, -97.86519159999999
+Randalls, 5145 N FM 620, Austin, TX 78732, United States, 30.3891676, -97.8838207
+Circle K, 11000 Ranch Rd 2222, Austin, TX 78730, United States, 30.3966374, -97.84829119999999
+Target, 11220 Ranch to Market 2222, Austin, TX 78730, United States, 30.4028395, -97.8502269
+Fresh Plus Grocery, 2917 W Anderson Ln, Austin, TX 78757, United States, 30.3582782, -97.7389463
+Arlan's Market, 7108 Woodrow Ave, Austin, TX 78757, United States, 30.3430352, -97.7256041
+Nugent Grocery, 808 Justin Ln, Austin, TX 78757, United States, 30.3371404, -97.7199675
+H-E-B, 7015 Village Center Dr, Austin, TX 78731, United States, 30.3518373, -97.7551123
+Randalls, 5311 Balcones Dr, Austin, TX 78731, United States, 30.3354371, -97.7580639
+Cvs 10139, 7300 N FM 620, Austin, TX 78726, United States, 30.4048791, -97.85443310000001
+Texas Market, 720 Lamar Pl, Austin, TX 78752, United States, 30.3317488, -97.7222359
+Randalls, 2727 Exposition Blvd, Austin, TX 78703, United States, 30.3042649, -97.7638905
+Randalls, 8040 Mesa Dr, Austin, TX 78731, United States, 30.3714899, -97.7580995
+Randals Grocery & Gas, 5145 Ranch Rd 620, Austin, TX 78732, United States, 30.3893574, -97.88382849999999
+Sprouts Farmers Market, 10225 Research Blvd Ste 1000, Austin, TX 78759, United States, 30.3949, -97.74481
+Walters Bay, Suite 205, 6500 River Pl Blvd Building 5, Austin, TX 78730, United States, 30.3952103, -97.85082009999999
+Natural Grocers, 4615 N Lamar Blvd Suite 304, Austin, TX 78751, United States, 30.3154649, -97.73462049999999
+Whole Foods Market, 9607 Research Blvd #300, Austin, TX 78759, United States, 30.3893852, -97.7415146
+Randalls, 5311 Balcones Dr, Austin, TX 78731, United States, 30.3354371, -97.7580639
+H-E-B, 7015 Village Center Dr, Austin, TX 78731, United States, 30.3518373, -97.7551123
+Randalls, 8040 Mesa Dr, Austin, TX 78731, United States, 30.3714899, -97.7580995
+Randalls, 1500 W 35th St, Austin, TX 78703, United States, 30.3066026, -97.7490176
+Central Market, 4001 N Lamar Blvd, Austin, TX 78756, United States, 30.3076098, -97.73987609999999
+Randalls, 2727 Exposition Blvd, Austin, TX 78703, United States, 30.3042649, -97.7638905
+Wheatsville Food Co-op, 3101 Guadalupe St, Austin, TX 78705, United States, 30.2975583, -97.7410694
+H-E-B, 5808 Burnet Rd, Austin, TX 78756, United States, 30.3344062, -97.74112579999999
+Fresh Plus Grocery, 2917 W Anderson Ln, Austin, TX 78757, United States, 30.3582782, -97.7389463
+Natural Grocers, 4615 N Lamar Blvd Suite 304, Austin, TX 78751, United States, 30.3154649, -97.73462049999999
+Fredericksburg Peach Stand, Austin, TX 78759, United States, 30.37564, -97.7615776
+Arlan's Market, 7108 Woodrow Ave, Austin, TX 78757, United States, 30.3430352, -97.7256041
+Rabbit Food Grocery, 2425 Exposition Blvd ste a, Austin, TX 78703, United States, 30.2975155, -97.767337
+Asahi Imports, 6105 Burnet Rd, Austin, TX 78757, United States, 30.336359, -97.7390442
+Thom's Market - Burnet Road, 5901 Burnet Rd, Austin, TX 78757, United States, 30.3349439, -97.73931499999999
+Nugent Grocery, 808 Justin Ln, Austin, TX 78757, United States, 30.3371404, -97.7199675
+Fresh Plus Grocery, 2401 San Gabriel St, Austin, TX 78705, United States, 30.2883133, -97.74767059999999
+Trader Joe's, 9722 Great Hills Trail Ste 200, Austin, TX 78759, United States, 30.3955849, -97.7517712
+Fresh Plus Grocery, 408 E 43rd St, Austin, TX 78751, United States, 30.3049515, -97.72642859999999
+Texas Market, 720 Lamar Pl, Austin, TX 78752, United States, 30.3317488, -97.7222359
+Randalls, 5145 N FM 620, Austin, TX 78732, United States, 30.3891676, -97.8838207
+Lakehills Grocery, 1500 Cuernavaca Dr N, Austin, TX 78733, United States, 30.3385784, -97.86519159999999
+H-E-B, 7301 N FM 620, Austin, TX 78726, United States, 30.4042242, -97.85163089999999
+Marshall Ford Food Mart, 4610 Ranch Rd 620 N, Austin, TX 78732, United States, 30.3897057, -97.89086359999999
+Hudson Bend Grocery, 5001 Hudson Bend Rd, Austin, TX 78734, United States, 30.412219, -97.927218
+Wag-A-Bag, 2900 N Quinlan Park Rd # 300, Austin, TX 78732, United States, 30.3695087, -97.89223600000001
+Lake Travis Country Market, 3325 Ranch Rd 620 S, Austin, TX 78738, United States, 30.3277811, -97.9633843
+Whole Foods Market, 12601 Hill Country Blvd, Bee Cave, TX 78738, United States, 30.3076183, -97.9377502
+H-E-B, 12400 W, TX-71, Bee Cave, TX 78738, United States, 30.3047556, -97.93231999999999
+H-E-B plus!, 11521 N FM 620 Building A, Austin, TX 78726, United States, 30.453602, -97.8253793
+Cvs 10139, 7300 N FM 620, Austin, TX 78726, United States, 30.4048791, -97.85443310000001
+Steiner Ranch Liquor, 5145 Ranch Rd 620 N, Austin, TX 78732, United States, 30.3895531, -97.8844876
+Randalls, 2301 Ranch Rd 620 S, Lakeway, TX 78734, United States, 30.3411591, -97.96690550000001
+Cavalier Food Market, 509 Ranch Rd 620 S, Lakeway, TX 78734, United States, 30.359346, -97.9537079
+Neighborhood Store, 700 Cuernavaca Dr N, Austin, TX 78733, United States, 30.3318982, -97.86924630000001
+Manpasand Indian Pakistani Halal Groceries Supermarket, 13945 North, 183 Lakeline Mall Dr Exit, Austin, TX 78717, United States, 30.4718721, -97.7966979
+H-E-B, 2000 Ranch Rd 620 S, Lakeway, TX 78734, United States, 30.3448818, -97.9675772
+H-E-B, 7010 Hwy 71 West, Austin, TX 78735, United States, 30.234958, -97.873891
+The Market @ Jester, 6507 Jester Blvd, Austin, TX 78750, United States, 30.3701862, -97.8001128
+7-Eleven, 7002 Ranch Rd 620 N, Austin, TX 78732, United States, 30.4034163, -97.8549618
+Lakehills Grocery, 1500 Cuernavaca Dr N, Austin, TX 78733, United States, 30.3385784, -97.86519159999999
+Neighborhood Store, 700 Cuernavaca Dr N, Austin, TX 78733, United States, 30.3318982, -97.86924630000001
+H-E-B, 12400 W, TX-71, Bee Cave, TX 78738, United States, 30.3047556, -97.93231999999999
+Barrel Creek Provisions, 9433 Bee Cave Rd Building 1, Austin, TX 78733, United States, 30.3158065, -97.8734355
+Whole Foods Market, 12601 Hill Country Blvd, Bee Cave, TX 78738, United States, 30.3076183, -97.9377502
+H-E-B, 701 N Capital of Texas Hwy Bld C, West Lake Hills, TX 78746, United States, 30.291855, -97.82523859999999
+H-E-B, 7010 Hwy 71 West, Austin, TX 78735, United States, 30.234958, -97.873891
+Marigold Market + Cafe, 7415 Southwest Pkwy Building 6, Suite 100, Austin, TX 78735, United States, 30.254654, -97.8669723
+Cavalier Food Market, 509 Ranch Rd 620 S, Lakeway, TX 78734, United States, 30.359346, -97.9537079
+Trader Joe's, 2805 Bee Cave Rd, Austin, TX 78746, United States, 30.2701339, -97.78981139999999
+Randalls, 5145 N FM 620, Austin, TX 78732, United States, 30.3891676, -97.8838207
+H-E-B, 2000 Ranch Rd 620 S, Lakeway, TX 78734, United States, 30.3448818, -97.9675772
+Randalls, 3300 Bee Cave Rd, West Lake Hills, TX 78746, United States, 30.2753663, -97.798856
+Randalls, 2301 Ranch Rd 620 S, Lakeway, TX 78734, United States, 30.3411591, -97.96690550000001
+H-E-B, 7301 N FM 620, Austin, TX 78726, United States, 30.4042242, -97.85163089999999
+Randalls, 2727 Exposition Blvd, Austin, TX 78703, United States, 30.3042649, -97.7638905
+The Market @ Jester, 6507 Jester Blvd, Austin, TX 78750, United States, 30.3701862, -97.8001128
+Whole Foods Market, 4301 W William Cannon Dr, Austin, TX 78749, United States, 30.22017799999999, -97.84175049999999
+Hudson Bend Grocery, 5001 Hudson Bend Rd, Austin, TX 78734, United States, 30.412219, -97.927218
+Whole Foods Market, 525 N Lamar Blvd, Austin, TX 78703, United States, 30.2705496, -97.7531762
+Randalls, 2301 Ranch Rd 620 S, Lakeway, TX 78734, United States, 30.3411591, -97.96690550000001
+H-E-B, 2000 Ranch Rd 620 S, Lakeway, TX 78734, United States, 30.3448818, -97.9675772
+Cavalier Food Market, 509 Ranch Rd 620 S, Lakeway, TX 78734, United States, 30.359346, -97.9537079
+Hudson Bend Grocery, 5001 Hudson Bend Rd, Austin, TX 78734, United States, 30.412219, -97.927218
+Lakeway Market & Deli, 2114 Lakeway Blvd #100, Lakeway, TX 78734, United States, 30.358238, -97.97860999999999
+Foley Corp, 2009 Ranch Road #873 620 N, Lakeway, TX 78734, United States, 30.3624135, -97.9912659
+MERITO FOOD MART, 201 Ranch Rd 620 N, Lakeway, TX 78734, United States, 30.3668705, -97.95010459999999
+Lake Travis Country Market, 3325 Ranch Rd 620 S, Austin, TX 78738, United States, 30.3277811, -97.9633843
+Metro Food Mart, 903 Ranch Rd 620 S, Lakeway, TX 78734, United States, 30.3549588, -97.96031839999999
+Circle K, 1405 S, Ranch Rd 620, Lakeway, TX 78734, United States, 30.3492885, -97.9630359
+7-Eleven, 3636 Ranch Rd 620 N, Austin, TX 78734, United States, 30.3982331, -97.92814899999999
+Kwik Chek, 2103 Ranch Rd 620 S, Lakeway, TX 78734, United States, 30.3427216, -97.96650199999999
+Whole Foods Market, 12601 Hill Country Blvd, Bee Cave, TX 78738, United States, 30.3076183, -97.9377502
+Market Place, 2114 Lakeway Blvd, Lakeway, TX 78734, United States, 30.3581308, -97.978571
+Lakehills Grocery, 1500 Cuernavaca Dr N, Austin, TX 78733, United States, 30.3385784, -97.86519159999999
+Randalls, 5145 N FM 620, Austin, TX 78732, United States, 30.3891676, -97.8838207
+H-E-B Bakery, Lakeway, TX 78734, United States, 30.344586, -97.9683053
+Con' Olio Oils & Vinegars, 3500 FM 620 S Ste F400, Ste F400, Bee Cave, TX 78738, United States, 30.32263919999999, -97.9576664
+CVS, 2306 Ranch Rd 620 S, Lakeway, TX 78734, United States, 30.34165489999999, -97.9689499
+Randals Grocery & Gas, 5145 Ranch Rd 620, Austin, TX 78732, United States, 30.3893574, -97.88382849999999
+H-E-B, 7010 Hwy 71 West, Austin, TX 78735, United States, 30.234958, -97.873891
+Marigold Market + Cafe, 7415 Southwest Pkwy Building 6, Suite 100, Austin, TX 78735, United States, 30.254654, -97.8669723
+Food Mart, 104 W US Hwy 290 Service Rd, Austin, TX 78735, United States, 30.237321, -97.8403965
+South Austin Produce L.L.C., 3200-3298, Whites Dr, Austin, TX 78735, United States, 30.2360054, -97.8083827
+Central Market, 4477 S Lamar Blvd, Austin, TX 78745, United States, 30.2312951, -97.7973525
+Southwest Parkway Market, 4601 Southwest Pkwy #110, Austin, TX 78735, United States, 30.2394491, -97.8317969
+Randalls, 6600 S MoPac Expy S, Austin, TX 78749, United States, 30.2227877, -97.8362269
+Market At Barton Creek and Cafe, 2700 Barton Creek Blvd # 160, Austin, TX 78735, United States, 30.2895503, -97.8712867
+Walmart Supercenter, 5017 W Hwy 290, Austin, TX 78735, United States, 30.23286969999999, -97.8231034
+Sprouts Farmers Market, 4006 S Lamar Blvd Ste 400, Austin, TX 78704, United States, 30.237778, -97.79312
+Target Grocery, 5300 S MoPac Expy, Austin, TX 78749, United States, 30.2338365, -97.82787610000001
+Walmart austin, 5017 US-290, Austin, TX 78746, United States, 30.2323074, -97.8232889
+Boyle Corp, 4901 Mirador Dr, Austin, TX 78735, United States, 30.259786, -97.869665
+H-E-B, 12400 W, TX-71, Bee Cave, TX 78738, United States, 30.3047556, -97.93231999999999
+Farmers Market, Sunset Valley, TX 78745, United States, 30.2310902, -97.806068
+Oak Hill Corner Store, 6134 W US Hwy 290 Service Rd, Austin, TX 78735, United States, 30.2361959, -97.8563033
+Wheatsville Food Co-op, 4001 S Lamar Blvd, Austin, TX 78704, United States, 30.2355801, -97.790999
+Scenic Brook Foodmart, 7216 TX-71, Austin, TX 78735, United States, 30.2369066, -97.87756759999999
+Whole Foods Market, 12601 Hill Country Blvd, Bee Cave, TX 78738, United States, 30.3076183, -97.9377502
+Whole Foods Market, 4301 W William Cannon Dr, Austin, TX 78749, United States, 30.22017799999999, -97.84175049999999
+H-E-B, 7010 Hwy 71 West, Austin, TX 78735, United States, 30.234958, -97.873891
+Graceland Grocery, 8600 US-290, Austin, TX 78736, United States, 30.234867, -97.911626
+Mom's Food Mart, 10900 US-290, Austin, TX 78737, United States, 30.2221402, -97.95666729999999
+Signature Austin, 9920 US-290, Austin, TX 78736, United States, 30.2234485, -97.9566859
+Valero / EZ Food Store, 9520 US-290, Austin, TX 78736, United States, 30.2308879, -97.93440729999999
+H-E-B, 12400 W, TX-71, Bee Cave, TX 78738, United States, 30.3047556, -97.93231999999999
+Circle K, 9920 W Us Hwy 290, Austin, TX 78736, United States, 30.2285798, -97.9419988
+Whole Foods Market, 12601 Hill Country Blvd, Bee Cave, TX 78738, United States, 30.3076183, -97.9377502
+Marigold Market + Cafe, 7415 Southwest Pkwy Building 6, Suite 100, Austin, TX 78735, United States, 30.254654, -97.8669723
+H-E-B, 5800 W Slaughter Ln, Austin, TX 78749, United States, 30.202255, -97.8764559
+Lakehills Grocery, 1500 Cuernavaca Dr N, Austin, TX 78733, United States, 30.3385784, -97.86519159999999
+Whole Foods Market, 4301 W William Cannon Dr, Austin, TX 78749, United States, 30.22017799999999, -97.84175049999999
+Randalls, 6600 S MoPac Expy S, Austin, TX 78749, United States, 30.2227877, -97.8362269
+HEB Bee Cave, TX-71, Bee Cave, TX 78738, United States, 30.3039688, -97.9324678
+J D's Market, 11720 Farm Rd 1826, Austin, TX 78737, United States, 30.1929991, -97.9256655
+H-E-B, 6900 Brodie Ln, Austin, TX 78745, United States, 30.2160058, -97.83062600000001
+Randalls, 9911 Brodie Ln, Austin, TX 78748, United States, 30.1840741, -97.8475742
+Sprouts Farmers Market, 4006 S Lamar Blvd Ste 400, Austin, TX 78704, United States, 30.237778, -97.79312
+Lake Travis Country Market, 3325 Ranch Rd 620 S, Austin, TX 78738, United States, 30.3277811, -97.9633843
+H-E-B, 598 EHwy, US-290, Dripping Springs, TX 78620, United States, 30.1900379, -98.08173099999999
+Whole Foods Market, 12601 Hill Country Blvd, Bee Cave, TX 78738, United States, 30.3076183, -97.9377502
+H-E-B, 12400 W, TX-71, Bee Cave, TX 78738, United States, 30.3047556, -97.93231999999999
+Lake Travis Country Market, 3325 Ranch Rd 620 S, Austin, TX 78738, United States, 30.3277811, -97.9633843
+HEB Bee Cave, TX-71, Bee Cave, TX 78738, United States, 30.3039688, -97.9324678
+Con' Olio Oils & Vinegars, 3500 FM 620 S Ste F400, Ste F400, Bee Cave, TX 78738, United States, 30.32263919999999, -97.9576664
+Wheatsville Food Co-op, 3101 Guadalupe St, Austin, TX 78705, United States, 30.2975583, -97.7410694
+Lakehills Grocery, 1500 Cuernavaca Dr N, Austin, TX 78733, United States, 30.3385784, -97.86519159999999
+Target Grocery, 3702 Ranch Rd 620 S, Bee Cave, TX 78738, United States, 30.316366, -97.95434859999999
+Randalls, 2301 Ranch Rd 620 S, Lakeway, TX 78734, United States, 30.3411591, -97.96690550000001
+H-E-B, 7015 Village Center Dr, Austin, TX 78731, United States, 30.3518373, -97.7551123
+Central Market, 4001 N Lamar Blvd, Austin, TX 78756, United States, 30.3076098, -97.73987609999999
+H-E-B, 2000 Ranch Rd 620 S, Lakeway, TX 78734, United States, 30.3448818, -97.9675772
+Natural Grocers, 4615 N Lamar Blvd Suite 304, Austin, TX 78751, United States, 30.3154649, -97.73462049999999
+Fresh Plus Grocery, 2917 W Anderson Ln, Austin, TX 78757, United States, 30.3582782, -97.7389463
+Randalls, 1500 W 35th St, Austin, TX 78703, United States, 30.3066026, -97.7490176
+Fresh Plus Grocery, 2401 San Gabriel St, Austin, TX 78705, United States, 30.2883133, -97.74767059999999
+Randalls, 5311 Balcones Dr, Austin, TX 78731, United States, 30.3354371, -97.7580639
+Spec's Wines, Spirits & Finer Foods, 13015 Shops Pkwy, Bee Cave, TX 78738, United States, 30.307629, -97.94597499999999
+Fresh Plus Grocery, 408 E 43rd St, Austin, TX 78751, United States, 30.3049515, -97.72642859999999
+Avenue B Grocery & Market, 4403 Avenue B, Austin, TX 78751, United States, 30.3090267, -97.7314334
+H-E-B, 5800 W Slaughter Ln, Austin, TX 78749, United States, 30.202255, -97.8764559
+J D's Market, 11720 Farm Rd 1826, Austin, TX 78737, United States, 30.1929991, -97.9256655
+Randalls, 9911 Brodie Ln, Austin, TX 78748, United States, 30.1840741, -97.8475742
+Store instacart, 5800 W Slaughter Ln, Austin, TX 78749, United States, 30.20184, -97.87675229999999
+H B E, 5800a W Slaughter Ln, Austin, TX 78749, United States, 30.2024088, -97.8768032
+H-E-B, 7010 Hwy 71 West, Austin, TX 78735, United States, 30.234958, -97.873891
+H-E-B, 6900 Brodie Ln, Austin, TX 78745, United States, 30.2160058, -97.83062600000001
+H-E-B, 2110 W Slaughter Ln, Austin, TX 78748, United States, 30.17537879999999, -97.82507799999999
+Whole Foods Market, 4301 W William Cannon Dr, Austin, TX 78749, United States, 30.22017799999999, -97.84175049999999
+Randalls, 6600 S MoPac Expy S, Austin, TX 78749, United States, 30.2227877, -97.8362269
+Brodie Park Market, 9001 Brodie Ln a1, Austin, TX 78748, United States, 30.1939805, -97.8425194
+Ravens market / shell, 11200 manchaca road buld 1, Austin, TX 78748, United States, 30.1580018, -97.8339506
+Manpasand Vegan Grocery, 3601 W William Cannon Dr, Austin, TX 78749, United States, 30.21506399999999, -97.833579
+Central Market, 4477 S Lamar Blvd, Austin, TX 78745, United States, 30.2312951, -97.7973525
+Sprouts Farmers Market, 6920 Menchaca Rd, Austin, TX 78745, United States, 30.20241, -97.80805
+Sprouts Farmers Market, 4006 S Lamar Blvd Ste 400, Austin, TX 78704, United States, 30.237778, -97.79312
+7 Days Food Store, 1025 W Stassney Ln # 104, Austin, TX 78745, United States, 30.2102228, -97.7870445
+Randalls, 2025 W Ben White Blvd, Austin, TX 78704, United States, 30.2292336, -97.7901337
+Mom's Food Mart, 10900 US-290, Austin, TX 78737, United States, 30.2221402, -97.95666729999999
+Filipino Asian Mart, 615 W Slaughter Ln, Austin, TX 78748, United States, 30.172323, -97.801245
+Payless Food Store, 2400 Burleson Rd, Austin, TX 78741, United States, 30.2294433, -97.73597
+H-E-B plus!, 2508 E Riverside Dr, Austin, TX 78741, United States, 30.2365234, -97.72207290000001
+Tomgro Grocery, 1313 Montopolis Dr, Austin, TX 78741, United States, 30.2301121, -97.69973279999999
+Shop 'n Save, 2204 Woodland Ave, Austin, TX 78741, United States, 30.236153, -97.7280926
+La Michoacana Meat Market, 2237B E Riverside Dr, Austin, TX 78741, United States, 30.2377969, -97.726644
+Buesiniso mart, 1100 Manlove St, Austin, TX 78741, United States, 30.2466746, -97.7339458
+Mi Pueblito Market, 2030 E Oltorf St, Austin, TX 78741, United States, 30.2308899, -97.7325213
+Vargas Food Store, 809 Vargas Rd, Austin, TX 78741, United States, 30.2338742, -97.6935254
+Austin SuperMarket, 30 S IH 35 Frontage Rd, Austin, TX 78701, United States, 30.25450859999999, -97.7372688
+H‑E‑B Fuel, 2512 E Riverside Dr, Austin, TX 78741, United States, 30.2345681, -97.72294
+Thomas food market, 6301 E Riverside Dr, Austin, TX 78741, United States, 30.2245586, -97.70351219999999
+Apple Mart, 2101 Wickersham Ln, Austin, TX 78741, United States, 30.231668, -97.72023
+gas station, 1919 S Pleasant Valley Rd, Austin, TX 78741, United States, 30.2340844, -97.7220454
+Royal Blue Grocery, 51 Rainey St #120, Austin, TX 78701, United States, 30.2572284, -97.7391249
+Montopolis Grocery, 1211 Montopolis Dr, Austin, TX 78741, United States, 30.23124679999999, -97.69900539999999
+Mobil - JD's Market, 7310 E Riverside Dr, Austin, TX 78741, United States, 30.2208695, -97.69391170000002
+H-E-B Convenience Store, 2512 E Riverside Dr, Austin, TX 78741, United States, 30.2366383, -97.7221441
+Taylor buesiniso, 1405 E Riverside Dr, Austin, TX 78741, United States, 30.2470574, -97.73397609999999
+Thom's Market - Riverside, 160 E Riverside Dr, Austin, TX 78704, United States, 30.2556737, -97.744906
+Mexican Amaranth, 2507 Burleson Rd APT 308, Austin, TX 78741, United States, 30.2283795, -97.73516079999999
+Tomgro Grocery, 1313 Montopolis Dr, Austin, TX 78741, United States, 30.2301121, -97.69973279999999
+Vargas Food Store, 809 Vargas Rd, Austin, TX 78741, United States, 30.2338742, -97.6935254
+Mobil - JD's Market, 7310 E Riverside Dr, Austin, TX 78741, United States, 30.2208695, -97.69391170000002
+Royal Blue Grocery, 1629 E 6th St, Austin, TX 78702, United States, 30.2624553, -97.7252084
+H-E-B, 2701 E 7th St, Austin, TX 78702, United States, 30.2594094, -97.7119031
+The Bee Grocery, 1001 E 6th St, Austin, TX 78702, United States, 30.2649183, -97.73244919999999
+Thomas food market, 6301 E Riverside Dr, Austin, TX 78741, United States, 30.2245586, -97.70351219999999
+Payless Food Store, 2400 Burleson Rd, Austin, TX 78741, United States, 30.2294433, -97.73597
+Royal Blue Grocery, 301 Brazos St suite 110 suite 110, Austin, TX 78701, United States, 30.26497539999999, -97.74196459999999
+Shop 'n Save, 2204 Woodland Ave, Austin, TX 78741, United States, 30.236153, -97.7280926
+Quick Stop Grocery, 1197 Hargrave St, Austin, TX 78702, United States, 30.275525, -97.70750699999999
+FARM TO MARKET GROCERY, 1718 S Congress Ave, Austin, TX 78704, United States, 30.2463687, -97.7511298
+Royal Blue Grocery, 51 Rainey St #120, Austin, TX 78701, United States, 30.2572284, -97.7391249
+Royal Blue Grocery, 609 Congress Ave, Austin, TX 78701, United States, 30.268323, -97.74224699999999
+Whole Foods Market, 525 N Lamar Blvd, Austin, TX 78703, United States, 30.2705496, -97.7531762
+H-E-B plus!, 2508 E Riverside Dr, Austin, TX 78741, United States, 30.2365234, -97.72207290000001
+Whole Foods Market, 901 E 5th St Ste 100, Austin, TX 78702, United States, 30.2639948, -97.7338841
+Fresh Plus Grocery, 2401 San Gabriel St, Austin, TX 78705, United States, 30.2883133, -97.74767059999999
+Fresh Plus Grocery, 408 E 43rd St, Austin, TX 78751, United States, 30.3049515, -97.72642859999999
+Daily Food Store, 1051 Springdale Rd, Austin, TX 78721, United States, 30.2721209, -97.6908717
+H-E-B, 6607 S IH 35 Frontage Rd, Austin, TX 78744, United States, 30.188724, -97.76871799999999
+Payless Food Store, 2400 Burleson Rd, Austin, TX 78741, United States, 30.2294433, -97.73597
+Mom's Grocery, 1901 E William Cannon Dr, Austin, TX 78744, United States, 30.1879215, -97.7658216
+Fiesta Mart, LLC, 5510 S IH 35 Frontage Rd, Austin, TX 78745, United States, 30.2005225, -97.7645809
+La Moreliana Market, 5405 S Pleasant Valley Rd # E, Austin, TX 78744, United States, 30.1934233, -97.74410189999999
+Allstar Groceries, 5303 Nuckols Crossing Rd, Austin, TX 78744, United States, 30.192618, -97.7386672
+Tomgro Grocery, 1313 Montopolis Dr, Austin, TX 78741, United States, 30.2301121, -97.69973279999999
+Filipino Asian Mart, 615 W Slaughter Ln, Austin, TX 78748, United States, 30.172323, -97.801245
+H-E-B, 8801 S Congress Ave, Austin, TX 78745, United States, 30.168984, -97.7868135
+Super Moreliana, 6112 US-183, Austin, TX 78744, United States, 30.1676709, -97.69253619999999
+Rancho Grande Supermercado, 4604 Teri Rd, Austin, TX 78744, United States, 30.1967306, -97.7430495
+H & R Grocery, 6400 S Congress Ave, Austin, TX 78745, United States, 30.1969391, -97.7778137
+Mi Pueblito Market, 2030 E Oltorf St, Austin, TX 78741, United States, 30.2308899, -97.7325213
+All Star Grocery 3, 4600 Teri Rd, Austin, TX 78744, United States, 30.197067, -97.7436929
+Walmart, Austin, TX 78748, United States, 30.1649481, -97.78993589999999
+Las Delicias (Carniceria, Bakery, Taqueria), 111 W William Cannon Dr, Austin, TX 78745, United States, 30.1925934, -97.7803184
+Montopolis Grocery, 1211 Montopolis Dr, Austin, TX 78741, United States, 30.23124679999999, -97.69900539999999
+Mobil - JD's Market, 7310 E Riverside Dr, Austin, TX 78741, United States, 30.2208695, -97.69391170000002
+North Bluff Grocery Store, 800 E William Cannon Dr, Austin, TX 78745, United States, 30.1913541, -97.7717634
+Taqueria El Puerto, 4600 Teri Rd, Austin, TX 78744, United States, 30.1971109, -97.7436342
+Central Market, 4477 S Lamar Blvd, Austin, TX 78745, United States, 30.2312951, -97.7973525
+H-E-B, 6900 Brodie Ln, Austin, TX 78745, United States, 30.2160058, -97.83062600000001
+Sprouts Farmers Market, 4006 S Lamar Blvd Ste 400, Austin, TX 78704, United States, 30.237778, -97.79312
+Sprouts Farmers Market, 6920 Menchaca Rd, Austin, TX 78745, United States, 30.20241, -97.80805
+Mom's Grocery, 1901 E William Cannon Dr, Austin, TX 78744, United States, 30.1879215, -97.7658216
+7 Days Food Store, 1025 W Stassney Ln # 104, Austin, TX 78745, United States, 30.2102228, -97.7870445
+Fiesta Mart, LLC, 5510 S IH 35 Frontage Rd, Austin, TX 78745, United States, 30.2005225, -97.7645809
+H-E-B, 6607 S IH 35 Frontage Rd, Austin, TX 78744, United States, 30.188724, -97.76871799999999
+Wheatsville Food Co-op, 4001 S Lamar Blvd, Austin, TX 78704, United States, 30.2355801, -97.790999
+Randalls, 2025 W Ben White Blvd, Austin, TX 78704, United States, 30.2292336, -97.7901337
+H-E-B, 8801 S Congress Ave, Austin, TX 78745, United States, 30.168984, -97.7868135
+Randalls, 9911 Brodie Ln, Austin, TX 78748, United States, 30.1840741, -97.8475742
+Lone Star Family Market #4, 512 W Stassney Ln STE 101, Austin, TX 78745, United States, 30.2087251, -97.7799597
+H & R Grocery, 6400 S Congress Ave, Austin, TX 78745, United States, 30.1969391, -97.7778137
+All Star Grocery, 4619 S Congress Ave I, Austin, TX 78745, United States, 30.21524, -97.7684512
+First Market, 7814 S 1st St, Austin, TX 78745, United States, 30.1844526, -97.79285709999999
+Manpasand Vegan Grocery, 3601 W William Cannon Dr, Austin, TX 78749, United States, 30.21506399999999, -97.833579
+The Market @ WM Cannon, 719 W William Cannon Dr # 101, Austin, TX 78745, United States, 30.1969219, -97.7884175
+Randalls, 6600 S MoPac Expy S, Austin, TX 78749, United States, 30.2227877, -97.8362269
+Mi Rancho, 611 W Ben White Blvd, Austin, TX 78745, United States, 30.2256893, -97.77087979999999
+H-E-B, 701 N Capital of Texas Hwy Bld C, West Lake Hills, TX 78746, United States, 30.291855, -97.82523859999999
+Randalls, 3300 Bee Cave Rd, West Lake Hills, TX 78746, United States, 30.2753663, -97.798856
+Trader Joe's, 2805 Bee Cave Rd, Austin, TX 78746, United States, 30.2701339, -97.78981139999999
+Westlake Market, 96 Redbud Trail, West Lake Hills, TX 78746, United States, 30.2921909, -97.79777349999999
+Shops at Mira Vista, 2765-2805 Bee Cave Rd, Rollingwood, TX 78746, United States, 30.2704071, -97.7892308
+Walmart austin, 5017 US-290, Austin, TX 78746, United States, 30.2323074, -97.8232889
+Wheatsville Food Co-op, 4001 S Lamar Blvd, Austin, TX 78704, United States, 30.2355801, -97.790999
+Sprouts Farmers Market, 4006 S Lamar Blvd Ste 400, Austin, TX 78704, United States, 30.237778, -97.79312
+Central Market, 4477 S Lamar Blvd, Austin, TX 78745, United States, 30.2312951, -97.7973525
+Lakehills Grocery, 1500 Cuernavaca Dr N, Austin, TX 78733, United States, 30.3385784, -97.86519159999999
+Randalls, 2727 Exposition Blvd, Austin, TX 78703, United States, 30.3042649, -97.7638905
+Austin supermart, 7110, FM2244, Austin, TX 78746, United States, 30.3036, -97.8396587
+Rabbit Food Grocery, 2425 Exposition Blvd ste a, Austin, TX 78703, United States, 30.2975155, -97.767337
+Whole Foods Market, 525 N Lamar Blvd, Austin, TX 78703, United States, 30.2705496, -97.7531762
+Randalls, 2025 W Ben White Blvd, Austin, TX 78704, United States, 30.2292336, -97.7901337
+CC Wellness, 3801 N Capital Of Texas Hwy Ste D #200, Inside of Salon By JC, Austin, TX 78746, United States, 30.335754, -97.8040958
+Thom's Market - Barton Springs, 1418 Barton Springs Rd, Austin, TX 78704, United States, 30.2616099, -97.75965099999999
+Farmers Market, Sunset Valley, TX 78745, United States, 30.2310902, -97.806068
+Fresh Plus Grocery, 1221 W Lynn St, Austin, TX 78703, United States, 30.2808333, -97.75833329999999
+7-Eleven, 6111 Bee Cave Rd, Austin, TX 78746, United States, 30.2958202, -97.8298746
+Onion Creek Food Mart, 2107 Boca Raton Dr, Austin, TX 78747, United States, 30.1393315, -97.7957357
+Star Market, 7930 Thaxton Rd, Austin, TX 78747, United States, 30.1572816, -97.74434389999999
+Bread Basket, Austin, TX 78719, United States, 30.114675, -97.6943776
+Creedmoor Country Grocery, 12510 FM1625, Creedmoor, TX 78610, United States, 30.0863839, -97.7351762
+H-E-B, 8801 S Congress Ave, Austin, TX 78745, United States, 30.168984, -97.7868135
+Super Moreliana, 6112 US-183, Austin, TX 78744, United States, 30.1676709, -97.69253619999999
+Mustang Food Mart, 10050 S Hwy 183, Austin, TX 78747, United States, 30.0941667, -97.6941667
+Filipino Asian Mart, 615 W Slaughter Ln, Austin, TX 78748, United States, 30.172323, -97.801245
+H-E-B, 6607 S IH 35 Frontage Rd, Austin, TX 78744, United States, 30.188724, -97.76871799999999
+Bread Basket 183, 9401 US-183, Austin, TX 78747, United States, 30.1148697, -97.6946563
+Walmart, Austin, TX 78748, United States, 30.1649481, -97.78993589999999
+Mom's Grocery, 1901 E William Cannon Dr, Austin, TX 78744, United States, 30.1879215, -97.7658216
+La Moreliana Market, 5405 S Pleasant Valley Rd # E, Austin, TX 78744, United States, 30.1934233, -97.74410189999999
+H-E-B, 2110 W Slaughter Ln, Austin, TX 78748, United States, 30.17537879999999, -97.82507799999999
+Allstar Groceries, 5303 Nuckols Crossing Rd, Austin, TX 78744, United States, 30.192618, -97.7386672
+H-E-B Fresh Foods (Austin), 8801 S Congress Ave, Austin, TX 78745, United States, 30.1688596, -97.7868562
+Fiesta Mart, LLC, 5510 S IH 35 Frontage Rd, Austin, TX 78745, United States, 30.2005225, -97.7645809
+Target Grocery, 9500 S IH 35 Frontage Rd Suite G, Austin, TX 78748, United States, 30.1629477, -97.79401519999999
+JD's Supermarket #6, 9111 FM812, Austin, TX 78719, United States, 30.1590344, -97.68786659999999
+Payless Food Store, 2400 Burleson Rd, Austin, TX 78741, United States, 30.2294433, -97.73597
+Randalls, 9911 Brodie Ln, Austin, TX 78748, United States, 30.1840741, -97.8475742
+H-E-B, 2110 W Slaughter Ln, Austin, TX 78748, United States, 30.17537879999999, -97.82507799999999
+Filipino Asian Mart, 615 W Slaughter Ln, Austin, TX 78748, United States, 30.172323, -97.801245
+H-E-B, 8801 S Congress Ave, Austin, TX 78745, United States, 30.168984, -97.7868135
+Walmart, Austin, TX 78748, United States, 30.1649481, -97.78993589999999
+Brodie Park Market, 9001 Brodie Ln a1, Austin, TX 78748, United States, 30.1939805, -97.8425194
+Ravens market / shell, 11200 manchaca road buld 1, Austin, TX 78748, United States, 30.1580018, -97.8339506
+First Market, 7814 S 1st St, Austin, TX 78745, United States, 30.1844526, -97.79285709999999
+Walmart supercenter, 9300 S IH 35 Frontage Rd, Austin, TX 78748, United States, 30.1647994, -97.78997419999999
+Target Grocery, 9500 S IH 35 Frontage Rd Suite G, Austin, TX 78748, United States, 30.1629477, -97.79401519999999
+H-E-B, 6607 S IH 35 Frontage Rd, Austin, TX 78744, United States, 30.188724, -97.76871799999999
+H-E-B fuel, 8408 S IH 35 Frontage Rd, Austin, TX 78745, United States, 30.1705376, -97.7857712
+Onion Creek Food Mart, 2107 Boca Raton Dr, Austin, TX 78747, United States, 30.1393315, -97.7957357
+Mom's Grocery, 1901 E William Cannon Dr, Austin, TX 78744, United States, 30.1879215, -97.7658216
+The Market @ WM Cannon, 719 W William Cannon Dr # 101, Austin, TX 78745, United States, 30.1969219, -97.7884175
+Sprouts Farmers Market, 6920 Menchaca Rd, Austin, TX 78745, United States, 30.20241, -97.80805
+H-E-B, 6900 Brodie Ln, Austin, TX 78745, United States, 30.2160058, -97.83062600000001
+Torrison besiniso, 135 W Slaughter Ln, Austin, TX 78748, United States, 30.1668103, -97.7905475
+Bread Basket WestGate, 8801 West Gate Blvd, Austin, TX 78745, United States, 30.1912316, -97.8327601
+7 Days Food Store, 1025 W Stassney Ln # 104, Austin, TX 78745, United States, 30.2102228, -97.7870445
+Randalls, 6600 S MoPac Expy S, Austin, TX 78749, United States, 30.2227877, -97.8362269
+Whole Foods Market, 4301 W William Cannon Dr, Austin, TX 78749, United States, 30.22017799999999, -97.84175049999999
+H-E-B, 5800 W Slaughter Ln, Austin, TX 78749, United States, 30.202255, -97.8764559
+Manpasand Vegan Grocery, 3601 W William Cannon Dr, Austin, TX 78749, United States, 30.21506399999999, -97.833579
+Johnson grocery store, 4410 W William Cannon Dr, Austin, TX 78749, United States, 30.2237332, -97.840858
+H-E-B, 7010 Hwy 71 West, Austin, TX 78735, United States, 30.234958, -97.873891
+Target Grocery, 5300 S MoPac Expy, Austin, TX 78749, United States, 30.2338365, -97.82787610000001
+Randalls, 9911 Brodie Ln, Austin, TX 78748, United States, 30.1840741, -97.8475742
+H-E-B, 6900 Brodie Ln, Austin, TX 78745, United States, 30.2160058, -97.83062600000001
+Store instacart, 5800 W Slaughter Ln, Austin, TX 78749, United States, 30.20184, -97.87675229999999
+H B E, 5800a W Slaughter Ln, Austin, TX 78749, United States, 30.2024088, -97.8768032
+Food Mart, 104 W US Hwy 290 Service Rd, Austin, TX 78735, United States, 30.237321, -97.8403965
+Costco now, 4301 W William Cannon Dr, Austin, TX 78749, United States, 30.2215037, -97.8411819
+Food Mart, 6109 W William Cannon Dr, Austin, TX 78749, United States, 30.2290019, -97.8646167
+Walmart austin, 5017 US-290, Austin, TX 78746, United States, 30.2323074, -97.8232889
+Brodie Park Market, 9001 Brodie Ln a1, Austin, TX 78748, United States, 30.1939805, -97.8425194
+Target, 5300 S MoPac Expy, Austin, TX 78749, United States, 30.2339236, -97.8288361
+Desi Brothers, 3421 W William Cannon Dr #133, Austin, TX 78745, United States, 30.2125581, -97.8306217
+7-Eleven, 5000 W Slaughter Ln, Austin, TX 78749, United States, 30.2000829, -97.8631472
+Mandola's Italian, Dr E, 4301 W William Cannon Dr #1, Austin, TX 78749, United States, 30.2215037, -97.8411819
+Manpasand Indian Pakistani Halal Groceries Supermarket, 13945 North, 183 Lakeline Mall Dr Exit, Austin, TX 78717, United States, 30.4718721, -97.7966979
+H-E-B, 12860 Research Blvd, Austin, TX 78750, United States, 30.4342471, -97.7726297
+H-E-B plus!, 11521 N FM 620 Building A, Austin, TX 78726, United States, 30.453602, -97.8253793
+Asia Market Austin, 8650 Spicewood Springs Rd #115, Austin, TX 78759, United States, 30.4323869, -97.7714914
+Davod's Mediterranean Market & Grill, 13497 US-183 #600, Austin, TX 78750, United States, 30.4497847, -97.7894525
+Gandhi Bazar 620, 12809 N FM 620 #3, Austin, TX 78750, United States, 30.4656251, -97.80261469999999
+H-E-B plus!, 14028 North, US-183, Austin, TX 78717, United States, 30.4774444, -97.8035175
+H Mart Austin, 11301 Lakeline Blvd, Austin, TX 78717, United States, 30.4793054, -97.7990614
+gandhi bazar, 8650 Spicewood Springs Rd, Austin, TX 78759, United States, 30.4323662, -97.7706508
+The Market @ Jester, 6507 Jester Blvd, Austin, TX 78750, United States, 30.3701862, -97.8001128
+MP HALAL MEAT MARKET & MEDITERRANEAN GROCERY, 13945 US-183, Austin, TX 78717, United States, 30.4719863, -97.79692299999999
+H-E-B, 7301 N FM 620, Austin, TX 78726, United States, 30.4042242, -97.85163089999999
+Randalls, 8040 Mesa Dr, Austin, TX 78731, United States, 30.3714899, -97.7580995
+Trader Joe's, 9722 Great Hills Trail Ste 200, Austin, TX 78759, United States, 30.3955849, -97.7517712
+Speedy Mart, 10300 Anderson Mill Rd, Austin, TX 78750, United States, 30.4475197, -97.80422490000001
+Sprouts Farmers Market, 10225 Research Blvd Ste 1000, Austin, TX 78759, United States, 30.3949, -97.74481
+Walmart Supercenter, 13201 Ranch Rd 620 N, Austin, TX 78717, United States, 30.4673822, -97.7897515
+Fredericksburg Peach Stand, Austin, TX 78759, United States, 30.37564, -97.7615776
+H-E-B, 10710 Research Blvd Ste 200, Austin, TX 78759, United States, 30.39853969999999, -97.7483489
+Lana's Enterprises Inc, 13284 Pond Springs Rd, Austin, TX 78729, United States, 30.4466746, -97.78202689999999
+Natural Grocers, 4615 N Lamar Blvd Suite 304, Austin, TX 78751, United States, 30.3154649, -97.73462049999999
+Fresh Plus Grocery, 408 E 43rd St, Austin, TX 78751, United States, 30.3049515, -97.72642859999999
+Avenue B Grocery & Market, 4403 Avenue B, Austin, TX 78751, United States, 30.3090267, -97.7314334
+H-E-B, 1000 E 41st St, Austin, TX 78751, United States, 30.3006372, -97.71995679999999
+Hyde Park Market, 4429 Duval St, Austin, TX 78751, United States, 30.3066399, -97.7243365
+Highland Market, 4511 Airport Blvd, Austin, TX 78751, United States, 30.3039004, -97.71574969999999
+North Loop Food Store, 120 N Loop Blvd E, Austin, TX 78751, United States, 30.31797779999999, -97.7212644
+Central Market, 4001 N Lamar Blvd, Austin, TX 78756, United States, 30.3076098, -97.73987609999999
+1 Stop Grocery, 5101 Airport Blvd, Austin, TX 78751, United States, 30.3122973, -97.714973
+Duval Market, 500 E 51st St, Austin, TX 78751, United States, 30.3140436, -97.7190406
+New Speedway Grocery, 3707 Speedway, Austin, TX 78705, United States, 30.3001941, -97.7334336
+Target Grocery, 5621 N I H, 35, Austin, TX 78723, United States, 30.3160659, -97.7067543
+Wheatsville Food Co-op, 3101 Guadalupe St, Austin, TX 78705, United States, 30.2975583, -97.7410694
+Fiesta Mart, LLC, 3909 N I-35 Srvc Rd, Austin, TX 78722, United States, 30.29583809999999, -97.7175465
+H-E-B Convenience Store, 3807 N Interstate Hwy 35, Austin, TX 78722, United States, 30.2948485, -97.71896919999999
+Mini S Foodmart, 4429 Duval St, Austin, TX 78751, United States, 30.3066567, -97.72434
+Texas Market, 720 Lamar Pl, Austin, TX 78752, United States, 30.3317488, -97.7222359
+Mi Pueblito, 1015 Reinli St, Austin, TX 78723, United States, 30.3179024, -97.70638819999999
+Nugent Grocery, 808 Justin Ln, Austin, TX 78757, United States, 30.3371404, -97.7199675
+Red River Market, 3213 Red River St, Austin, TX 78705, United States, 30.2914167, -97.72646089999999
+Midtown Grocery & Cafe, 7010 Easy Wind Dr Suite # A-180, Austin, TX 78752, United States, 30.339405, -97.71816679999999
+Burrito, Austin, TX 78752, United States, 30.333444, -97.70490749999999
+Texas Market, 720 Lamar Pl, Austin, TX 78752, United States, 30.3317488, -97.7222359
+Han Yang Market, 6808 N Lamar Blvd #A-110, Austin, TX 78752, United States, 30.3361904, -97.7210397
+Nugent Grocery, 808 Justin Ln, Austin, TX 78757, United States, 30.3371404, -97.7199675
+Arlan's Market, 7108 Woodrow Ave, Austin, TX 78757, United States, 30.3430352, -97.7256041
+La Michoacana Meat Market, 6908 Cameron Rd, Austin, TX 78752, United States, 30.3247222, -97.69361110000001
+99 Ranch Market, 6929 Airport Blvd #110, Austin, TX 78752, United States, 30.337742, -97.7178551
+Dia's Market, 812 Justin Ln, Austin, TX 78757, United States, 30.3374065, -97.72039079999999
+반찬 천국 Mom's Taste, 6613 Airport Blvd #3601, Austin, TX 78752, United States, 30.3309593, -97.71510310000001
+JD's Market, 7200 N Interstate Hwy 35, Austin, TX 78752, United States, 30.3333615, -97.7047377
+Mi Tienda, 8007 Gessner Dr, Austin, TX 78753, United States, 30.343589, -97.70193959999999
+La Hacienda Market, 7517 Cameron Rd #100, Austin, TX 78752, United States, 30.3288889, -97.6894444
+Lone Star Family Market #2, 7110 Cameron Rd # A-1, Austin, TX 78752, United States, 30.3257639, -97.69311669999999
+El Rancho Supermercado, 6800 Berkman Dr, Austin, TX 78723, United States, 30.3202701, -97.69048049999999
+Natural Grocers, 4615 N Lamar Blvd Suite 304, Austin, TX 78751, United States, 30.3154649, -97.73462049999999
+Africarib Market, 825 E Rundberg Ln # A-1, Austin, TX 78753, United States, 30.3562734, -97.6873918
+Pepe's Fruit Cup Shop, 704 E St Johns Ave, Austin, TX 78752, United States, 30.3336997, -97.70507699999999
+Mi Pueblito, 1015 Reinli St, Austin, TX 78723, United States, 30.3179024, -97.70638819999999
+Sunrise Mini Mart, 1809 W Anderson Ln, Austin, TX 78757, United States, 30.3531516, -97.72550319999999
+Tech Ridge Center, 500 W Canyon Ridge Dr, Austin, TX 78753, United States, 30.40456349999999, -97.67271819999999
+MT Supermarket, 10901 N Lamar Blvd G, Austin, TX 78753, United States, 30.3780174, -97.6859436
+Rundberg Grocery, 310 E Rundberg Ln, Austin, TX 78753, United States, 30.3601258, -97.691563
+Africarib Market, 825 E Rundberg Ln # A-1, Austin, TX 78753, United States, 30.3562734, -97.6873918
+H-E-B, 9414 N Lamar Blvd, Austin, TX 78753, United States, 30.3646685, -97.69806779999999
+New Madina Market, 9200 N Lamar Blvd #106, Austin, TX 78753, United States, 30.3613807, -97.69866669999999
+Hana World Market, 1700 W Parmer Ln #100, Austin, TX 78727, United States, 30.4129126, -97.6867422
+World Food & Halal Market, 9616 N Lamar Blvd # 125, Austin, TX 78753, United States, 30.3670451, -97.69682499999999
+Shahi Grocery and Cafe, 12410 N Lamar Blvd D, Austin, TX 78753, United States, 30.4067985, -97.6789312
+La Hacienda Market Inc., 9717 N Lamar Blvd a4, Austin, TX 78753, United States, 30.3666667, -97.6941667
+Tienda Mexicana, 825 E Rundberg Ln # D, Austin, TX 78753, United States, 30.3568925, -97.6863437
+Mi Tienda, 8007 Gessner Dr, Austin, TX 78753, United States, 30.343589, -97.70193959999999
+Dessau Grocery, 9406 Dessau Rd, Austin, TX 78754, United States, 30.3513762, -97.6762703
+El Rancho Supermercado, 8752 Research Blvd, Austin, TX 78758, United States, 30.36503159999999, -97.71979499999999
+H-E-B, 500 W Canyon Ridge Dr, Austin, TX 78753, United States, 30.4057625, -97.6719967
+International Foods, 11331 N Lamar Blvd, Austin, TX 78753, United States, 30.3822288, -97.68502699999999
+Hong Kong Supermarket, 8557 Research Blvd, Austin, TX 78758, United States, 30.3613722, -97.71515
+La Hacienda Market, 1812 Payton Gin Rd, Austin, TX 78758, United States, 30.365955, -97.7172294
+Viva Food Mart, 8610 N Lamar Blvd, Austin, TX 78753, United States, 30.3555341, -97.7040237
+Manpasand Indian Pakistani Halal Groceries Supermarket, 12625 N Interstate Hwy 35 building a, Austin, TX 78753, United States, 30.4105057, -97.6717706
+Dessau Grocery, 9406 Dessau Rd, Austin, TX 78754, United States, 30.3513762, -97.6762703
+General Store, 11003 Harris Branch Pkwy, Austin, TX 78754, United States, 30.3428548, -97.6127681
+Mi Casa Market, 11700 Dessau Rd, Austin, TX 78754, United States, 30.3771082, -97.6593532
+H-E-B, 500 W Canyon Ridge Dr, Austin, TX 78753, United States, 30.4057625, -97.6719967
+Super Market Cameron, 8800 Cameron Rd, Austin, TX 78754, United States, 30.3447976, -97.67754099999999
+JD’s Supermarket #8, 8807 Cameron Rd, Austin, TX 78754, United States, 30.3443466, -97.67711969999999
+SOH DIST/AUSTIN ORGANICS, 8024 Exchange Dr Suite 200, bldg 7, Austin, TX 78754, United States, 30.333418, -97.660963
+Express Food Mart, 8201 Cross Park Dr, Austin, TX 78754, United States, 30.3306208, -97.667231
+LaCasa SuperMercado, 13015 Dessau Rd A-103, Austin, TX 78754, United States, 30.3989933, -97.6409638
+La Hacienda Market, 7517 Cameron Rd #100, Austin, TX 78752, United States, 30.3288889, -97.6894444
+MT Supermarket, 10901 N Lamar Blvd G, Austin, TX 78753, United States, 30.3780174, -97.6859436
+Shahi Grocery and Cafe, 12410 N Lamar Blvd D, Austin, TX 78753, United States, 30.4067985, -97.6789312
+Africarib Market, 825 E Rundberg Ln # A-1, Austin, TX 78753, United States, 30.3562734, -97.6873918
+Dollar General, 12320 Dessau Rd, Austin, TX 78754, United States, 30.3893133, -97.64798719999999
+Langdon 6 Familla, 1119 Stephanie Lee Ln, Austin, TX 78753, United States, 30.3688458, -97.67301789999999
+MiniMax Food Mart #3, 11800 Dessau Rd Suite #100, Austin, TX 78754, United States, 30.378526, -97.65808299999999
+Manpasand Indian Pakistani Halal Groceries Supermarket, 12625 N Interstate Hwy 35 building a, Austin, TX 78753, United States, 30.4105057, -97.6717706
+Rundberg Grocery, 310 E Rundberg Ln, Austin, TX 78753, United States, 30.3601258, -97.691563
+Hana World Market, 1700 W Parmer Ln #100, Austin, TX 78727, United States, 30.4129126, -97.6867422
+El Rancho Supermercado, 6800 Berkman Dr, Austin, TX 78723, United States, 30.3202701, -97.69048049999999
+H-E-B, 7015 Village Center Dr, Austin, TX 78731, United States, 30.3518373, -97.7551123
+Fresh Plus Grocery, 2917 W Anderson Ln, Austin, TX 78757, United States, 30.3582782, -97.7389463
+Randalls, 5311 Balcones Dr, Austin, TX 78731, United States, 30.3354371, -97.7580639
+H-E-B, 5808 Burnet Rd, Austin, TX 78756, United States, 30.3344062, -97.74112579999999
+Randalls, 8040 Mesa Dr, Austin, TX 78731, United States, 30.3714899, -97.7580995
+Arlan's Market, 7108 Woodrow Ave, Austin, TX 78757, United States, 30.3430352, -97.7256041
+Central Market, 4001 N Lamar Blvd, Austin, TX 78756, United States, 30.3076098, -97.73987609999999
+Hong Kong Supermarket, 8557 Research Blvd, Austin, TX 78758, United States, 30.3613722, -97.71515
+Texas Market, 720 Lamar Pl, Austin, TX 78752, United States, 30.3317488, -97.7222359
+Natural Grocers, 4615 N Lamar Blvd Suite 304, Austin, TX 78751, United States, 30.3154649, -97.73462049999999
+Dia's Market, 812 Justin Ln, Austin, TX 78757, United States, 30.3374065, -97.72039079999999
+Asahi Imports, 6105 Burnet Rd, Austin, TX 78757, United States, 30.336359, -97.7390442
+Nugent Grocery, 808 Justin Ln, Austin, TX 78757, United States, 30.3371404, -97.7199675
+El Rancho Supermercado, 8752 Research Blvd, Austin, TX 78758, United States, 30.36503159999999, -97.71979499999999
+Han Yang Market, 6808 N Lamar Blvd #A-110, Austin, TX 78752, United States, 30.3361904, -97.7210397
+Randalls, 2727 Exposition Blvd, Austin, TX 78703, United States, 30.3042649, -97.7638905
+Randalls, 10900 Research Blvd, Austin, TX 78759, United States, 30.4022823, -97.7472052
+Fresh Plus Grocery, 408 E 43rd St, Austin, TX 78751, United States, 30.3049515, -97.72642859999999
+Trader Joe's, 9722 Great Hills Trail Ste 200, Austin, TX 78759, United States, 30.3955849, -97.7517712
+Natural Grocers, 10515 N Mopac Expy, Austin, TX 78759, United States, 30.3874483, -97.7332291
+H-E-B, 5808 Burnet Rd, Austin, TX 78756, United States, 30.3344062, -97.74112579999999
+Central Market, 4001 N Lamar Blvd, Austin, TX 78756, United States, 30.3076098, -97.73987609999999
+Natural Grocers, 4615 N Lamar Blvd Suite 304, Austin, TX 78751, United States, 30.3154649, -97.73462049999999
+Burnet Food Mart, 5300 Burnet Rd, Austin, TX 78756, United States, 30.32604019999999, -97.7399099
+Thom's Market - Burnet Road, 5901 Burnet Rd, Austin, TX 78757, United States, 30.3349439, -97.73931499999999
+Asahi Imports, 6105 Burnet Rd, Austin, TX 78757, United States, 30.336359, -97.7390442
+Rosedale Market, 1309 W 45th St, Austin, TX 78756, United States, 30.3150047, -97.7414683
+Randalls, 1500 W 35th St, Austin, TX 78703, United States, 30.3066026, -97.7490176
+Texas Market, 720 Lamar Pl, Austin, TX 78752, United States, 30.3317488, -97.7222359
+Dev's Shell, 4001 Medical Pkwy, Austin, TX 78756, United States, 30.3087973, -97.7424502
+épicerie café & grocery, 2307 Hancock Dr, Austin, TX 78756, United States, 30.3245151, -97.74367559999999
+AMA Food Mart, 5304 Burnet Rd, Austin, TX 78756, United States, 30.3261794, -97.7400155
+Wheatsville Food Co-op, 3101 Guadalupe St, Austin, TX 78705, United States, 30.2975583, -97.7410694
+2222 Market, 1112 W Koenig Ln, Austin, TX 78756, United States, 30.3299107, -97.72900690000002
+Nugent Grocery, 808 Justin Ln, Austin, TX 78757, United States, 30.3371404, -97.7199675
+Avenue B Grocery & Market, 4403 Avenue B, Austin, TX 78751, United States, 30.3090267, -97.7314334
+Fresh Plus Grocery, 408 E 43rd St, Austin, TX 78751, United States, 30.3049515, -97.72642859999999
+Han Yang Market, 6808 N Lamar Blvd #A-110, Austin, TX 78752, United States, 30.3361904, -97.7210397
+Dia's Market, 812 Justin Ln, Austin, TX 78757, United States, 30.3374065, -97.72039079999999
+Rock Market, Austin, TX 78756, United States, 30.3248256, -97.73895429999999
+Fresh Plus Grocery, 2917 W Anderson Ln, Austin, TX 78757, United States, 30.3582782, -97.7389463
+Arlan's Market, 7108 Woodrow Ave, Austin, TX 78757, United States, 30.3430352, -97.7256041
+Nugent Grocery, 808 Justin Ln, Austin, TX 78757, United States, 30.3371404, -97.7199675
+Dia's Market, 812 Justin Ln, Austin, TX 78757, United States, 30.3374065, -97.72039079999999
+H-E-B, 5808 Burnet Rd, Austin, TX 78756, United States, 30.3344062, -97.74112579999999
+Sunrise Mini Mart, 1809 W Anderson Ln, Austin, TX 78757, United States, 30.3531516, -97.72550319999999
+Han Yang Market, 6808 N Lamar Blvd #A-110, Austin, TX 78752, United States, 30.3361904, -97.7210397
+Texas Market, 720 Lamar Pl, Austin, TX 78752, United States, 30.3317488, -97.7222359
+Asahi Imports, 6105 Burnet Rd, Austin, TX 78757, United States, 30.336359, -97.7390442
+Randalls, 5311 Balcones Dr, Austin, TX 78731, United States, 30.3354371, -97.7580639
+Thom's Market - Burnet Road, 5901 Burnet Rd, Austin, TX 78757, United States, 30.3349439, -97.73931499999999
+Hong Kong Supermarket, 8557 Research Blvd, Austin, TX 78758, United States, 30.3613722, -97.71515
+La Hacienda Market, 1812 Payton Gin Rd, Austin, TX 78758, United States, 30.365955, -97.7172294
+El Rancho Supermercado, 8752 Research Blvd, Austin, TX 78758, United States, 30.36503159999999, -97.71979499999999
+99 Ranch Market, 6929 Airport Blvd #110, Austin, TX 78752, United States, 30.337742, -97.7178551
+Midtown Grocery & Cafe, 7010 Easy Wind Dr Suite # A-180, Austin, TX 78752, United States, 30.339405, -97.71816679999999
+Target Grocery, 8601 Research Blvd, Austin, TX 78758, United States, 30.3629265, -97.71536359999999
+H-E-B, 7015 Village Center Dr, Austin, TX 78731, United States, 30.3518373, -97.7551123
+La Familia, 8540 Research Blvd, Austin, TX 78758, United States, 30.3605666, -97.7174905
+Lone Star Family Market #1, 8756 Research Blvd, Austin, TX 78758, United States, 30.3656064, -97.7188635
+Whole Foods Market, 11920 Domain Dr, Austin, TX 78758, United States, 30.4063209, -97.7201151
+Hong Kong Supermarket, 8557 Research Blvd, Austin, TX 78758, United States, 30.3613722, -97.71515
+El Rancho Supermercado, 8752 Research Blvd, Austin, TX 78758, United States, 30.36503159999999, -97.71979499999999
+La Hacienda Market, 1812 Payton Gin Rd, Austin, TX 78758, United States, 30.365955, -97.7172294
+Hana World Market, 1700 W Parmer Ln #100, Austin, TX 78727, United States, 30.4129126, -97.6867422
+MT Supermarket, 10901 N Lamar Blvd G, Austin, TX 78753, United States, 30.3780174, -97.6859436
+Natural Grocers, 10515 N Mopac Expy, Austin, TX 78759, United States, 30.3874483, -97.7332291
+La Hacienda Market Inc., 9717 N Lamar Blvd a4, Austin, TX 78753, United States, 30.3666667, -97.6941667
+Thurmond Market, 812 Thurmond St, Austin, TX 78758, United States, 30.3539203, -97.70605259999999
+H-E-B, 12407 N Mopac Expy, Austin, TX 78758, United States, 30.417464, -97.702855
+World Food & Halal Market, 9616 N Lamar Blvd # 125, Austin, TX 78753, United States, 30.3670451, -97.69682499999999
+Rutland Food Store, 1747 Rutland Dr, Austin, TX 78758, United States, 30.3772516, -97.7103546
+Rundberg Grocery, 310 E Rundberg Ln, Austin, TX 78753, United States, 30.3601258, -97.691563
+Shahi Grocery and Cafe, 12410 N Lamar Blvd D, Austin, TX 78753, United States, 30.4067985, -97.6789312
+La Familia, 8540 Research Blvd, Austin, TX 78758, United States, 30.3605666, -97.7174905
+Whole Foods Market, 9607 Research Blvd #300, Austin, TX 78759, United States, 30.3893852, -97.7415146
+H-E-B, 9414 N Lamar Blvd, Austin, TX 78753, United States, 30.3646685, -97.69806779999999
+La Finca Supermercado, 9616 N Lamar Blvd Suite# 130, Austin, TX 78753, United States, 30.3670629, -97.6964596
+Borderless European Market (BEM), 2121 W Parmer Ln #113, Austin, TX 78727, United States, 30.41554649999999, -97.69724989999999
+New Madina Market, 9200 N Lamar Blvd #106, Austin, TX 78753, United States, 30.3613807, -97.69866669999999
+H-E-B, 12860 Research Blvd, Austin, TX 78750, United States, 30.4342471, -97.7726297
+Randalls, 10900 Research Blvd, Austin, TX 78759, United States, 30.4022823, -97.7472052
+Savory Spice Shop, 10000 Research Blvd Suite 129, Austin, TX 78759, United States, 30.3915683, -97.7488542
+Trader Joe's, 9722 Great Hills Trail Ste 200, Austin, TX 78759, United States, 30.3955849, -97.7517712
+Fredericksburg Peach Stand, Austin, TX 78759, United States, 30.37564, -97.7615776
+Natural Grocers, 10515 N Mopac Expy, Austin, TX 78759, United States, 30.3874483, -97.7332291
+Randalls, 8040 Mesa Dr, Austin, TX 78731, United States, 30.3714899, -97.7580995
+Target Grocery, 10107 Research Blvd, Austin, TX 78759, United States, 30.3927426, -97.7438771
+Whole Foods Market, 9607 Research Blvd #300, Austin, TX 78759, United States, 30.3893852, -97.7415146
+Whole Foods Market, 11920 Domain Dr, Austin, TX 78758, United States, 30.4063209, -97.7201151
+gandhi bazar, 8650 Spicewood Springs Rd, Austin, TX 78759, United States, 30.4323662, -97.7706508
+H-E-B, 10710 Research Blvd Ste 200, Austin, TX 78759, United States, 30.39853969999999, -97.7483489
+Con' Olio Oils & Vinegars, 10000 Research Blvd #130, Austin, TX 78759, United States, 30.3915098, -97.7488556
+Sprouts Farmers Market, 10225 Research Blvd Ste 1000, Austin, TX 78759, United States, 30.3949, -97.74481
+The Corner Market, 11010 Domain Dr STE 112, Austin, TX 78758, United States, 30.3967496, -97.7269976
+H-E-B, 12407 N Mopac Expy, Austin, TX 78758, United States, 30.417464, -97.702855
+Desi Brothers, 2506 W Parmer Ln #170, Austin, TX 78727, United States, 30.4200552, -97.701128
+Fresh Plus Grocery, 2917 W Anderson Ln, Austin, TX 78757, United States, 30.3582782, -97.7389463
+Asia Market Austin, 8650 Spicewood Springs Rd #115, Austin, TX 78759, United States, 30.4323869, -97.7714914
+H-E-B, 7015 Village Center Dr, Austin, TX 78731, United States, 30.3518373, -97.7551123
+Payless Food Store, 2400 Burleson Rd, Austin, TX 78741, United States, 30.2294433, -97.73597
+Shop 'n Save, 2204 Woodland Ave, Austin, TX 78741, United States, 30.236153, -97.7280926
+Market, Austin, TX 78704, United States, 30.2203795, -97.7538563
+Royal Blue Grocery, 51 Rainey St #120, Austin, TX 78701, United States, 30.2572284, -97.7391249
+Austin SuperMarket, 30 S IH 35 Frontage Rd, Austin, TX 78701, United States, 30.25450859999999, -97.7372688
+Royal Blue Grocery, 301 Brazos St suite 110 suite 110, Austin, TX 78701, United States, 30.26497539999999, -97.74196459999999
+The Bee Grocery, 1001 E 6th St, Austin, TX 78702, United States, 30.2649183, -97.73244919999999
+Whole Foods Market, 525 N Lamar Blvd, Austin, TX 78703, United States, 30.2705496, -97.7531762
+Tomgro Grocery, 1313 Montopolis Dr, Austin, TX 78741, United States, 30.2301121, -97.69973279999999
+FARM TO MARKET GROCERY, 1718 S Congress Ave, Austin, TX 78704, United States, 30.2463687, -97.7511298
+Thomas food market, 6301 E Riverside Dr, Austin, TX 78741, United States, 30.2245586, -97.70351219999999
+Fiesta Mart, LLC, 5510 S IH 35 Frontage Rd, Austin, TX 78745, United States, 30.2005225, -97.7645809
+Royal Blue Grocery, 1629 E 6th St, Austin, TX 78702, United States, 30.2624553, -97.7252084
+David's Food, 912 W Mary St, Austin, TX 78704, United States, 30.2483573, -97.76179739999999
+La Moreliana Market, 5405 S Pleasant Valley Rd # E, Austin, TX 78744, United States, 30.1934233, -97.74410189999999
+Wheatsville Food Co-op, 4001 S Lamar Blvd, Austin, TX 78704, United States, 30.2355801, -97.790999
+H-E-B, 2400 S S Congress Ave, Austin, TX 78704, United States, 30.23863129999999, -97.75507400000001
+Allstar Groceries, 5303 Nuckols Crossing Rd, Austin, TX 78744, United States, 30.192618, -97.7386672
+Whole Foods Market, 901 E 5th St Ste 100, Austin, TX 78702, United States, 30.2639948, -97.7338841
+Fresh Plus Grocery, 2401 San Gabriel St, Austin, TX 78705, United States, 30.2883133, -97.74767059999999
+Nugent Grocery, 808 Justin Ln, Austin, TX 78757, United States, 30.3371404, -97.7199675
+Burrito, Austin, TX 78752, United States, 30.333444, -97.70490749999999
+Texas Market, 720 Lamar Pl, Austin, TX 78752, United States, 30.3317488, -97.7222359
+Lone Star Family Market #2, 7110 Cameron Rd # A-1, Austin, TX 78752, United States, 30.3257639, -97.69311669999999
+Arlan's Market, 7108 Woodrow Ave, Austin, TX 78757, United States, 30.3430352, -97.7256041
+Africarib Market, 825 E Rundberg Ln # A-1, Austin, TX 78753, United States, 30.3562734, -97.6873918
+Han Yang Market, 6808 N Lamar Blvd #A-110, Austin, TX 78752, United States, 30.3361904, -97.7210397
+Dia's Market, 812 Justin Ln, Austin, TX 78757, United States, 30.3374065, -97.72039079999999
+반찬 천국 Mom's Taste, 6613 Airport Blvd #3601, Austin, TX 78752, United States, 30.3309593, -97.71510310000001
+MT Supermarket, 10901 N Lamar Blvd G, Austin, TX 78753, United States, 30.3780174, -97.6859436
+Burmese Store, 9010 N Interstate Hwy 35, Austin, TX 78753, United States, 30.3554018, -97.6907327
+Hong Kong Supermarket, 8557 Research Blvd, Austin, TX 78758, United States, 30.3613722, -97.71515
+Thurmond Market, 812 Thurmond St, Austin, TX 78758, United States, 30.3539203, -97.70605259999999
+La Hacienda Market, 7517 Cameron Rd #100, Austin, TX 78752, United States, 30.3288889, -97.6894444
+Target Grocery, 5621 N I H, 35, Austin, TX 78723, United States, 30.3160659, -97.7067543
+Dessau Grocery, 9406 Dessau Rd, Austin, TX 78754, United States, 30.3513762, -97.6762703
+Fresh Plus Grocery, 408 E 43rd St, Austin, TX 78751, United States, 30.3049515, -97.72642859999999
+World Food & Halal Market, 9616 N Lamar Blvd # 125, Austin, TX 78753, United States, 30.3670451, -97.69682499999999
+Natural Grocers, 4615 N Lamar Blvd Suite 304, Austin, TX 78751, United States, 30.3154649, -97.73462049999999
+JD's Market, 7200 N Interstate Hwy 35, Austin, TX 78752, United States, 30.3333615, -97.7047377
+Royal Blue Grocery, 1629 E 6th St, Austin, TX 78702, United States, 30.2624553, -97.7252084
+The Bee Grocery, 1001 E 6th St, Austin, TX 78702, United States, 30.2649183, -97.73244919999999
+Whole Foods Market, 901 E 5th St Ste 100, Austin, TX 78702, United States, 30.2639948, -97.7338841
+H-E-B, 2701 E 7th St, Austin, TX 78702, United States, 30.2594094, -97.7119031
+Whole Foods Market, 525 N Lamar Blvd, Austin, TX 78703, United States, 30.2705496, -97.7531762
+Royal Blue Grocery, 51 Rainey St #120, Austin, TX 78701, United States, 30.2572284, -97.7391249
+Royal Blue Grocery, 301 Brazos St suite 110 suite 110, Austin, TX 78701, United States, 30.26497539999999, -97.74196459999999
+Royal Blue Grocery, 609 Congress Ave, Austin, TX 78701, United States, 30.268323, -97.74224699999999
+La Michoacana Meat Market, 1917 E 7th St, Austin, TX 78702, United States, 30.2620848, -97.7214364
+Royal Blue Grocery Commissary Kitchen, 408 N Pleasant Valley Rd, Austin, TX 78702, United States, 30.256117, -97.71161239999999
+Payless Food Store, 2400 Burleson Rd, Austin, TX 78741, United States, 30.2294433, -97.73597
+Royal Blue Grocery, The 360 Tower, 360 Nueces St #90, Austin, TX 78701, United States, 30.2677373, -97.74955369999999
+Green & White Grocery, 1201 E 7th St, Austin, TX 78702, United States, 30.2650911, -97.72999659999999
+Shop 'n Save, 2204 Woodland Ave, Austin, TX 78741, United States, 30.236153, -97.7280926
+Fresh Plus Grocery, 2401 San Gabriel St, Austin, TX 78705, United States, 30.2883133, -97.74767059999999
+Wheatsville Food Co-op, 3101 Guadalupe St, Austin, TX 78705, United States, 30.2975583, -97.7410694
+Mini Mart, 231 E 6th St, Austin, TX 78701, United States, 30.2674362, -97.7405886
+Fresh Plus Grocery, 1221 W Lynn St, Austin, TX 78703, United States, 30.2808333, -97.75833329999999
+FARM TO MARKET GROCERY, 1718 S Congress Ave, Austin, TX 78704, United States, 30.2463687, -97.7511298
+Royal Blue, 241 W 3rd St, Austin, TX 78701, United States, 30.2657008, -97.7460431
+Randalls, 2727 Exposition Blvd, Austin, TX 78703, United States, 30.3042649, -97.7638905
+Rabbit Food Grocery, 2425 Exposition Blvd ste a, Austin, TX 78703, United States, 30.2975155, -97.767337
+Whole Foods Market, 525 N Lamar Blvd, Austin, TX 78703, United States, 30.2705496, -97.7531762
+Fresh Plus Grocery, 2401 San Gabriel St, Austin, TX 78705, United States, 30.2883133, -97.74767059999999
+Fresh Plus Grocery, 1221 W Lynn St, Austin, TX 78703, United States, 30.2808333, -97.75833329999999
+Randalls, 1500 W 35th St, Austin, TX 78703, United States, 30.3066026, -97.7490176
+Wheatsville Food Co-op, 3101 Guadalupe St, Austin, TX 78705, United States, 30.2975583, -97.7410694
+Central Market, 4001 N Lamar Blvd, Austin, TX 78756, United States, 30.3076098, -97.73987609999999
+Fresh Plus Grocery, 408 E 43rd St, Austin, TX 78751, United States, 30.3049515, -97.72642859999999
+H-E-B, 5808 Burnet Rd, Austin, TX 78756, United States, 30.3344062, -97.74112579999999
+Randalls, 5311 Balcones Dr, Austin, TX 78731, United States, 30.3354371, -97.7580639
+Texas Market, 720 Lamar Pl, Austin, TX 78752, United States, 30.3317488, -97.7222359
+Natural Grocers, 4615 N Lamar Blvd Suite 304, Austin, TX 78751, United States, 30.3154649, -97.73462049999999
+West Campus Market, 709 W 22nd St STE 200, Austin, TX 78705, United States, 30.2852075, -97.7464206
+Austin SuperMarket, 30 S IH 35 Frontage Rd, Austin, TX 78701, United States, 30.25450859999999, -97.7372688
+The Bee Grocery, 1001 E 6th St, Austin, TX 78702, United States, 30.2649183, -97.73244919999999
+Trader Joe's, 211 Walter Seaholm Dr Ste 100, Austin, TX 78701, United States, 30.2674966, -97.7527899
+H-E-B, 1000 E 41st St, Austin, TX 78751, United States, 30.3006372, -97.71995679999999
+Randalls, 3300 Bee Cave Rd, West Lake Hills, TX 78746, United States, 30.2753663, -97.798856
+Royal Blue Grocery, The 360 Tower, 360 Nueces St #90, Austin, TX 78701, United States, 30.2677373, -97.74955369999999
+Royal Blue Grocery, 609 Congress Ave, Austin, TX 78701, United States, 30.268323, -97.74224699999999
+Royal Blue Grocery, 301 Brazos St suite 110 suite 110, Austin, TX 78701, United States, 30.26497539999999, -97.74196459999999
+Whole Foods Market, 525 N Lamar Blvd, Austin, TX 78703, United States, 30.2705496, -97.7531762
+Mini Mart, 231 E 6th St, Austin, TX 78701, United States, 30.2674362, -97.7405886
+The Bee Grocery, 1001 E 6th St, Austin, TX 78702, United States, 30.2649183, -97.73244919999999
+Whole Foods Market, 901 E 5th St Ste 100, Austin, TX 78702, United States, 30.2639948, -97.7338841
+Austin SuperMarket, 30 S IH 35 Frontage Rd, Austin, TX 78701, United States, 30.25450859999999, -97.7372688
+Royal Blue Grocery, The 360 Tower, 360 Nueces St #90, Austin, TX 78701, United States, 30.2677373, -97.74955369999999
+Royal Blue Grocery, 51 Rainey St #120, Austin, TX 78701, United States, 30.2572284, -97.7391249
+Royal Blue, 241 W 3rd St, Austin, TX 78701, United States, 30.2657008, -97.7460431
+Trader Joe's, 211 Walter Seaholm Dr Ste 100, Austin, TX 78701, United States, 30.2674966, -97.7527899
+Fresh Plus Grocery, 1221 W Lynn St, Austin, TX 78703, United States, 30.2808333, -97.75833329999999
+Royal Blue Grocery, 1629 E 6th St, Austin, TX 78702, United States, 30.2624553, -97.7252084
+Fresh Plus Grocery, 2401 San Gabriel St, Austin, TX 78705, United States, 30.2883133, -97.74767059999999
+Shop 24, 213 E 6th St, Austin, TX 78701, United States, 30.267259, -97.741001
+The Bee Grocery, 209 E 6th St, Austin, TX 78701, United States, 30.26744429999999, -97.7410835
+Thom's Market - Barton Springs, 1418 Barton Springs Rd, Austin, TX 78704, United States, 30.2616099, -97.75965099999999
+Payless Food Store, 2400 Burleson Rd, Austin, TX 78741, United States, 30.2294433, -97.73597
+Green & White Grocery, 1201 E 7th St, Austin, TX 78702, United States, 30.2650911, -97.72999659999999
+Central Market, 4001 N Lamar Blvd, Austin, TX 78756, United States, 30.3076098, -97.73987609999999
+Central Market, 4001 N Lamar Blvd, Austin, TX 78756, United States, 30.3076098, -97.73987609999999
+Wheatsville Food Co-op, 3101 Guadalupe St, Austin, TX 78705, United States, 30.2975583, -97.7410694
+Fresh Plus Grocery, 408 E 43rd St, Austin, TX 78751, United States, 30.3049515, -97.72642859999999
+Fresh Plus Grocery, 2401 San Gabriel St, Austin, TX 78705, United States, 30.2883133, -97.74767059999999
+Randalls, 1500 W 35th St, Austin, TX 78703, United States, 30.3066026, -97.7490176
+Avenue B Grocery & Market, 4403 Avenue B, Austin, TX 78751, United States, 30.3090267, -97.7314334
+Natural Grocers, 4615 N Lamar Blvd Suite 304, Austin, TX 78751, United States, 30.3154649, -97.73462049999999
+Fresh Plus Grocery, 1221 W Lynn St, Austin, TX 78703, United States, 30.2808333, -97.75833329999999
+Texas Market, 720 Lamar Pl, Austin, TX 78752, United States, 30.3317488, -97.7222359
+Friendly Rio Market, 620 W 29th St, Austin, TX 78705, United States, 30.2960499, -97.7435794
+Whole Foods Market, 525 N Lamar Blvd, Austin, TX 78703, United States, 30.2705496, -97.7531762
+New Speedway Grocery, 3707 Speedway, Austin, TX 78705, United States, 30.3001941, -97.7334336
+H-E-B, 1000 E 41st St, Austin, TX 78751, United States, 30.3006372, -97.71995679999999
+Randalls, 2727 Exposition Blvd, Austin, TX 78703, United States, 30.3042649, -97.7638905
+West Campus Market, 709 W 22nd St STE 200, Austin, TX 78705, United States, 30.2852075, -97.7464206
+Fresh Plus Grocery, 2917 W Anderson Ln, Austin, TX 78757, United States, 30.3582782, -97.7389463
+H-E-B, 5808 Burnet Rd, Austin, TX 78756, United States, 30.3344062, -97.74112579999999
+Nugent Grocery, 808 Justin Ln, Austin, TX 78757, United States, 30.3371404, -97.7199675
+Fiesta Mart, LLC, 3909 N I-35 Srvc Rd, Austin, TX 78722, United States, 30.29583809999999, -97.7175465
+The Bee Grocery, 1001 E 6th St, Austin, TX 78702, United States, 30.2649183, -97.73244919999999
+Fresh Plus Grocery, 2917 W Anderson Ln, Austin, TX 78757, United States, 30.3582782, -97.7389463
+Arlan's Market, 7108 Woodrow Ave, Austin, TX 78757, United States, 30.3430352, -97.7256041
+Texas Market, 720 Lamar Pl, Austin, TX 78752, United States, 30.3317488, -97.7222359
+Hong Kong Supermarket, 8557 Research Blvd, Austin, TX 78758, United States, 30.3613722, -97.71515
+Nugent Grocery, 808 Justin Ln, Austin, TX 78757, United States, 30.3371404, -97.7199675
+Dia's Market, 812 Justin Ln, Austin, TX 78757, United States, 30.3374065, -97.72039079999999
+Han Yang Market, 6808 N Lamar Blvd #A-110, Austin, TX 78752, United States, 30.3361904, -97.7210397
+H-E-B, 7015 Village Center Dr, Austin, TX 78731, United States, 30.3518373, -97.7551123
+H-E-B, 5808 Burnet Rd, Austin, TX 78756, United States, 30.3344062, -97.74112579999999
+Thom's Market - Burnet Road, 5901 Burnet Rd, Austin, TX 78757, United States, 30.3349439, -97.73931499999999
+Sunrise Mini Mart, 1809 W Anderson Ln, Austin, TX 78757, United States, 30.3531516, -97.72550319999999
+MT Supermarket, 10901 N Lamar Blvd G, Austin, TX 78753, United States, 30.3780174, -97.6859436
+Asahi Imports, 6105 Burnet Rd, Austin, TX 78757, United States, 30.336359, -97.7390442
+El Rancho Supermercado, 8752 Research Blvd, Austin, TX 78758, United States, 30.36503159999999, -97.71979499999999
+Thurmond Market, 812 Thurmond St, Austin, TX 78758, United States, 30.3539203, -97.70605259999999
+Central Market, 4001 N Lamar Blvd, Austin, TX 78756, United States, 30.3076098, -97.73987609999999
+99 Ranch Market, 6929 Airport Blvd #110, Austin, TX 78752, United States, 30.337742, -97.7178551
+World Food & Halal Market, 9616 N Lamar Blvd # 125, Austin, TX 78753, United States, 30.3670451, -97.69682499999999
+New Madina Market, 9200 N Lamar Blvd #106, Austin, TX 78753, United States, 30.3613807, -97.69866669999999
+Lone Star Family Market #1, 8756 Research Blvd, Austin, TX 78758, United States, 30.3656064, -97.7188635
+Whole Foods Market, 525 N Lamar Blvd, Austin, TX 78703, United States, 30.2705496, -97.7531762
+Royal Blue Grocery, 609 Congress Ave, Austin, TX 78701, United States, 30.268323, -97.74224699999999
+The Bee Grocery, 1001 E 6th St, Austin, TX 78702, United States, 30.2649183, -97.73244919999999
+Royal Blue Grocery, 301 Brazos St suite 110 suite 110, Austin, TX 78701, United States, 30.26497539999999, -97.74196459999999
+Mini Mart, 231 E 6th St, Austin, TX 78701, United States, 30.2674362, -97.7405886
+Whole Foods Market, 901 E 5th St Ste 100, Austin, TX 78702, United States, 30.2639948, -97.7338841
+Royal Blue Grocery, The 360 Tower, 360 Nueces St #90, Austin, TX 78701, United States, 30.2677373, -97.74955369999999
+Austin SuperMarket, 30 S IH 35 Frontage Rd, Austin, TX 78701, United States, 30.25450859999999, -97.7372688
+Trader Joe's, 211 Walter Seaholm Dr Ste 100, Austin, TX 78701, United States, 30.2674966, -97.7527899
+Royal Blue Grocery, 51 Rainey St #120, Austin, TX 78701, United States, 30.2572284, -97.7391249
+Royal Blue, 241 W 3rd St, Austin, TX 78701, United States, 30.2657008, -97.7460431
+Shop 24, 213 E 6th St, Austin, TX 78701, United States, 30.267259, -97.741001
+The Bee Grocery, 209 E 6th St, Austin, TX 78701, United States, 30.26744429999999, -97.7410835
+Royal Blue Grocery, 1629 E 6th St, Austin, TX 78702, United States, 30.2624553, -97.7252084
+Thom's Market - Barton Springs, 1418 Barton Springs Rd, Austin, TX 78704, United States, 30.2616099, -97.75965099999999
+Fresh Plus Grocery, 2401 San Gabriel St, Austin, TX 78705, United States, 30.2883133, -97.74767059999999
+FARM TO MARKET GROCERY, 1718 S Congress Ave, Austin, TX 78704, United States, 30.2463687, -97.7511298
+Fresh Plus Grocery, 1221 W Lynn St, Austin, TX 78703, United States, 30.2808333, -97.75833329999999
+Wheatsville Food Co-op, 3101 Guadalupe St, Austin, TX 78705, United States, 30.2975583, -97.7410694
+Thom's Market - Riverside, 160 E Riverside Dr, Austin, TX 78704, United States, 30.2556737, -97.744906
+Whole Foods Market, 525 N Lamar Blvd, Austin, TX 78703, United States, 30.2705496, -97.7531762
+Royal Blue Grocery, 301 Brazos St suite 110 suite 110, Austin, TX 78701, United States, 30.26497539999999, -97.74196459999999
+Mini Mart, 231 E 6th St, Austin, TX 78701, United States, 30.2674362, -97.7405886
+The Bee Grocery, 1001 E 6th St, Austin, TX 78702, United States, 30.2649183, -97.73244919999999
+Royal Blue Grocery, 609 Congress Ave, Austin, TX 78701, United States, 30.268323, -97.74224699999999
+Austin SuperMarket, 30 S IH 35 Frontage Rd, Austin, TX 78701, United States, 30.25450859999999, -97.7372688
+Whole Foods Market, 901 E 5th St Ste 100, Austin, TX 78702, United States, 30.2639948, -97.7338841
+Royal Blue Grocery, The 360 Tower, 360 Nueces St #90, Austin, TX 78701, United States, 30.2677373, -97.74955369999999
+Fresh Plus Grocery, 2401 San Gabriel St, Austin, TX 78705, United States, 30.2883133, -97.74767059999999
+Trader Joe's, 211 Walter Seaholm Dr Ste 100, Austin, TX 78701, United States, 30.2674966, -97.7527899
+Fresh Plus Grocery, 1221 W Lynn St, Austin, TX 78703, United States, 30.2808333, -97.75833329999999
+Royal Blue Grocery, 51 Rainey St #120, Austin, TX 78701, United States, 30.2572284, -97.7391249
+Shop 24, 213 E 6th St, Austin, TX 78701, United States, 30.267259, -97.741001
+Royal Blue, 241 W 3rd St, Austin, TX 78701, United States, 30.2657008, -97.7460431
+The Bee Grocery, 209 E 6th St, Austin, TX 78701, United States, 30.26744429999999, -97.7410835
+Wheatsville Food Co-op, 3101 Guadalupe St, Austin, TX 78705, United States, 30.2975583, -97.7410694
+Green & White Grocery, 1201 E 7th St, Austin, TX 78702, United States, 30.2650911, -97.72999659999999
+Royal Blue Grocery, 1629 E 6th St, Austin, TX 78702, United States, 30.2624553, -97.7252084
+Fresh Plus Grocery, 408 E 43rd St, Austin, TX 78751, United States, 30.3049515, -97.72642859999999
+Thom's Market - Barton Springs, 1418 Barton Springs Rd, Austin, TX 78704, United States, 30.2616099, -97.75965099999999
+Shop 'n Save, 2204 Woodland Ave, Austin, TX 78741, United States, 30.236153, -97.7280926
+Market, Austin, TX 78704, United States, 30.2203795, -97.7538563
+FARM TO MARKET GROCERY, 1718 S Congress Ave, Austin, TX 78704, United States, 30.2463687, -97.7511298
+H-E-B, 2400 S S Congress Ave, Austin, TX 78704, United States, 30.23863129999999, -97.75507400000001
+Taylor grocery, 518 E Oltorf St, Austin, TX 78704, United States, 30.2374422, -97.75048679999999
+Payless Food Store, 2400 Burleson Rd, Austin, TX 78741, United States, 30.2294433, -97.73597
+Austin SuperMarket, 30 S IH 35 Frontage Rd, Austin, TX 78701, United States, 30.25450859999999, -97.7372688
+Allstar Groceries, 5303 Nuckols Crossing Rd, Austin, TX 78744, United States, 30.192618, -97.7386672
+7 Days Food Store, 1025 W Stassney Ln # 104, Austin, TX 78745, United States, 30.2102228, -97.7870445
+All Star Grocery, 4619 S Congress Ave I, Austin, TX 78745, United States, 30.21524, -97.7684512
+H-E-B plus!, 2508 E Riverside Dr, Austin, TX 78741, United States, 30.2365234, -97.72207290000001
+Intermex, 2700 S Congress Ave, Austin, TX 78704, United States, 30.2354269, -97.7568125
+Lone Star Family Market #4, 512 W Stassney Ln STE 101, Austin, TX 78745, United States, 30.2087251, -97.7799597
+King Food Mart, 2907 S 1st St, Austin, TX 78704, United States, 30.236082, -97.7632533
+Mi Pueblito Market, 2030 E Oltorf St, Austin, TX 78741, United States, 30.2308899, -97.7325213
+All Star Grocery 3, 4600 Teri Rd, Austin, TX 78744, United States, 30.197067, -97.7436929
+La Moreliana Market, 5405 S Pleasant Valley Rd # E, Austin, TX 78744, United States, 30.1934233, -97.74410189999999
+The Bee Grocery, 1001 E 6th St, Austin, TX 78702, United States, 30.2649183, -97.73244919999999
+David's Food, 912 W Mary St, Austin, TX 78704, United States, 30.2483573, -97.76179739999999
+Food Stores, 2238 S Lamar Blvd, Austin, TX 78704, United States, 30.2476568, -97.7737233
+Texas Market, 720 Lamar Pl, Austin, TX 78752, United States, 30.3317488, -97.7222359
+Lone Star Family Market #2, 7110 Cameron Rd # A-1, Austin, TX 78752, United States, 30.3257639, -97.69311669999999
+Nugent Grocery, 808 Justin Ln, Austin, TX 78757, United States, 30.3371404, -97.7199675
+MT Supermarket, 10901 N Lamar Blvd G, Austin, TX 78753, United States, 30.3780174, -97.6859436
+Fresh Plus Grocery, 408 E 43rd St, Austin, TX 78751, United States, 30.3049515, -97.72642859999999
+Arlan's Market, 7108 Woodrow Ave, Austin, TX 78757, United States, 30.3430352, -97.7256041
+Viva Food Mart, 8610 N Lamar Blvd, Austin, TX 78753, United States, 30.3555341, -97.7040237
+La Michoacana Meat Market, 6908 Cameron Rd, Austin, TX 78752, United States, 30.3247222, -97.69361110000001
+Super Market Cameron, 8800 Cameron Rd, Austin, TX 78754, United States, 30.3447976, -97.67754099999999
+Hong Kong Supermarket, 8557 Research Blvd, Austin, TX 78758, United States, 30.3613722, -97.71515
+Fresh Plus Grocery, 2917 W Anderson Ln, Austin, TX 78757, United States, 30.3582782, -97.7389463
+Natural Grocers, 4615 N Lamar Blvd Suite 304, Austin, TX 78751, United States, 30.3154649, -97.73462049999999
+La Hacienda Market, 7517 Cameron Rd #100, Austin, TX 78752, United States, 30.3288889, -97.6894444
+Avenue B Grocery & Market, 4403 Avenue B, Austin, TX 78751, United States, 30.3090267, -97.7314334
+Dia's Market, 812 Justin Ln, Austin, TX 78757, United States, 30.3374065, -97.72039079999999
+Burrito, Austin, TX 78752, United States, 30.333444, -97.70490749999999
+H-E-B, 5808 Burnet Rd, Austin, TX 78756, United States, 30.3344062, -97.74112579999999
+H-E-B, 9414 N Lamar Blvd, Austin, TX 78753, United States, 30.3646685, -97.69806779999999
+Fresh Plus Grocery, 2401 San Gabriel St, Austin, TX 78705, United States, 30.2883133, -97.74767059999999
+Han Yang Market, 6808 N Lamar Blvd #A-110, Austin, TX 78752, United States, 30.3361904, -97.7210397
+Whole Foods Market, 525 N Lamar Blvd, Austin, TX 78703, United States, 30.2705496, -97.7531762
+Fresh Plus Grocery, 2401 San Gabriel St, Austin, TX 78705, United States, 30.2883133, -97.74767059999999
+The Bee Grocery, 1001 E 6th St, Austin, TX 78702, United States, 30.2649183, -97.73244919999999
+Wheatsville Food Co-op, 3101 Guadalupe St, Austin, TX 78705, United States, 30.2975583, -97.7410694
+Royal Blue Grocery, The 360 Tower, 360 Nueces St #90, Austin, TX 78701, United States, 30.2677373, -97.74955369999999
+Royal Blue Grocery, 609 Congress Ave, Austin, TX 78701, United States, 30.268323, -97.74224699999999
+Royal Blue Grocery, 301 Brazos St suite 110 suite 110, Austin, TX 78701, United States, 30.26497539999999, -97.74196459999999
+Austin SuperMarket, 30 S IH 35 Frontage Rd, Austin, TX 78701, United States, 30.25450859999999, -97.7372688
+West Campus Market, 709 W 22nd St STE 200, Austin, TX 78705, United States, 30.2852075, -97.7464206
+Mini Mart, 231 E 6th St, Austin, TX 78701, United States, 30.2674362, -97.7405886
+Fresh Plus Grocery, 1221 W Lynn St, Austin, TX 78703, United States, 30.2808333, -97.75833329999999
+Whole Foods Market, 901 E 5th St Ste 100, Austin, TX 78702, United States, 30.2639948, -97.7338841
+Trader Joe's, 211 Walter Seaholm Dr Ste 100, Austin, TX 78701, United States, 30.2674966, -97.7527899
+Central Market, 4001 N Lamar Blvd, Austin, TX 78756, United States, 30.3076098, -97.73987609999999
+Royal Blue Grocery, 51 Rainey St #120, Austin, TX 78701, United States, 30.2572284, -97.7391249
+Royal Blue Grocery, 1629 E 6th St, Austin, TX 78702, United States, 30.2624553, -97.7252084
+Royal Blue, 241 W 3rd St, Austin, TX 78701, United States, 30.2657008, -97.7460431
+Fresh Plus Grocery, 408 E 43rd St, Austin, TX 78751, United States, 30.3049515, -97.72642859999999
+Randalls, 2727 Exposition Blvd, Austin, TX 78703, United States, 30.3042649, -97.7638905
+Randalls, 1500 W 35th St, Austin, TX 78703, United States, 30.3066026, -97.7490176
+Whole Foods Market, 525 N Lamar Blvd, Austin, TX 78703, United States, 30.2705496, -97.7531762
+The Bee Grocery, 1001 E 6th St, Austin, TX 78702, United States, 30.2649183, -97.73244919999999
+Fresh Plus Grocery, 2401 San Gabriel St, Austin, TX 78705, United States, 30.2883133, -97.74767059999999
+Royal Blue Grocery, 301 Brazos St suite 110 suite 110, Austin, TX 78701, United States, 30.26497539999999, -97.74196459999999
+Wheatsville Food Co-op, 3101 Guadalupe St, Austin, TX 78705, United States, 30.2975583, -97.7410694
+Whole Foods Market, 901 E 5th St Ste 100, Austin, TX 78702, United States, 30.2639948, -97.7338841
+Austin SuperMarket, 30 S IH 35 Frontage Rd, Austin, TX 78701, United States, 30.25450859999999, -97.7372688
+Fresh Plus Grocery, 1221 W Lynn St, Austin, TX 78703, United States, 30.2808333, -97.75833329999999
+Royal Blue Grocery, The 360 Tower, 360 Nueces St #90, Austin, TX 78701, United States, 30.2677373, -97.74955369999999
+Mini Mart, 231 E 6th St, Austin, TX 78701, United States, 30.2674362, -97.7405886
+H-E-B, 2701 E 7th St, Austin, TX 78702, United States, 30.2594094, -97.7119031
+Royal Blue Grocery, 609 Congress Ave, Austin, TX 78701, United States, 30.268323, -97.74224699999999
+H-E-B, 1000 E 41st St, Austin, TX 78751, United States, 30.3006372, -97.71995679999999
+Royal Blue Grocery, 1629 E 6th St, Austin, TX 78702, United States, 30.2624553, -97.7252084
+Green & White Grocery, 1201 E 7th St, Austin, TX 78702, United States, 30.2650911, -97.72999659999999
+Fresh Plus Grocery, 408 E 43rd St, Austin, TX 78751, United States, 30.3049515, -97.72642859999999
+West Campus Market, 709 W 22nd St STE 200, Austin, TX 78705, United States, 30.2852075, -97.7464206
+Royal Blue Grocery, 51 Rainey St #120, Austin, TX 78701, United States, 30.2572284, -97.7391249
+Red River Market, 3213 Red River St, Austin, TX 78705, United States, 30.2914167, -97.72646089999999
+Trader Joe's, 211 Walter Seaholm Dr Ste 100, Austin, TX 78701, United States, 30.2674966, -97.7527899
+Randalls, 1500 W 35th St, Austin, TX 78703, United States, 30.3066026, -97.7490176
+Randalls, 2727 Exposition Blvd, Austin, TX 78703, United States, 30.3042649, -97.7638905
+Arlan's Market, 7108 Woodrow Ave, Austin, TX 78757, United States, 30.3430352, -97.7256041
+Texas Market, 720 Lamar Pl, Austin, TX 78752, United States, 30.3317488, -97.7222359
+Central Market, 4001 N Lamar Blvd, Austin, TX 78756, United States, 30.3076098, -97.73987609999999
+Randalls, 5311 Balcones Dr, Austin, TX 78731, United States, 30.3354371, -97.7580639
+Fresh Plus Grocery, 2401 San Gabriel St, Austin, TX 78705, United States, 30.2883133, -97.74767059999999
+Wheatsville Food Co-op, 3101 Guadalupe St, Austin, TX 78705, United States, 30.2975583, -97.7410694
+Rabbit Food Grocery, 2425 Exposition Blvd ste a, Austin, TX 78703, United States, 30.2975155, -97.767337
+Dia's Market, 812 Justin Ln, Austin, TX 78757, United States, 30.3374065, -97.72039079999999
+Natural Grocers, 4615 N Lamar Blvd Suite 304, Austin, TX 78751, United States, 30.3154649, -97.73462049999999
+Avenue B Grocery & Market, 4403 Avenue B, Austin, TX 78751, United States, 30.3090267, -97.7314334
+New Speedway Grocery, 3707 Speedway, Austin, TX 78705, United States, 30.3001941, -97.7334336
+Nugent Grocery, 808 Justin Ln, Austin, TX 78757, United States, 30.3371404, -97.7199675
+Fresh Plus Grocery, 408 E 43rd St, Austin, TX 78751, United States, 30.3049515, -97.72642859999999
+Fresh Plus Grocery, 1221 W Lynn St, Austin, TX 78703, United States, 30.2808333, -97.75833329999999
+Whole Foods Market, 525 N Lamar Blvd, Austin, TX 78703, United States, 30.2705496, -97.7531762
+Royal Blue Grocery, 609 Congress Ave, Austin, TX 78701, United States, 30.268323, -97.74224699999999
+Royal Blue Grocery, 301 Brazos St suite 110 suite 110, Austin, TX 78701, United States, 30.26497539999999, -97.74196459999999
+Royal Blue Grocery, The 360 Tower, 360 Nueces St #90, Austin, TX 78701, United States, 30.2677373, -97.74955369999999
+Royal Blue Grocery, 609 Congress Ave, Austin, TX 78701, United States, 30.268323, -97.74224699999999
+Royal Blue Grocery, 301 Brazos St suite 110 suite 110, Austin, TX 78701, United States, 30.26497539999999, -97.74196459999999
+Whole Foods Market, 525 N Lamar Blvd, Austin, TX 78703, United States, 30.2705496, -97.7531762
+Mini Mart, 231 E 6th St, Austin, TX 78701, United States, 30.2674362, -97.7405886
+The Bee Grocery, 1001 E 6th St, Austin, TX 78702, United States, 30.2649183, -97.73244919999999
+Royal Blue Grocery, 51 Rainey St #120, Austin, TX 78701, United States, 30.2572284, -97.7391249
+Royal Blue Grocery, The 360 Tower, 360 Nueces St #90, Austin, TX 78701, United States, 30.2677373, -97.74955369999999
+Royal Blue, 241 W 3rd St, Austin, TX 78701, United States, 30.2657008, -97.7460431
+Royal Blue Grocery, 1629 E 6th St, Austin, TX 78702, United States, 30.2624553, -97.7252084
+Whole Foods Market, 901 E 5th St Ste 100, Austin, TX 78702, United States, 30.2639948, -97.7338841
+Austin SuperMarket, 30 S IH 35 Frontage Rd, Austin, TX 78701, United States, 30.25450859999999, -97.7372688
+Fresh Plus Grocery, 2401 San Gabriel St, Austin, TX 78705, United States, 30.2883133, -97.74767059999999
+Green & White Grocery, 1201 E 7th St, Austin, TX 78702, United States, 30.2650911, -97.72999659999999
+Fresh Plus Grocery, 1221 W Lynn St, Austin, TX 78703, United States, 30.2808333, -97.75833329999999
+Thom's Market - Barton Springs, 1418 Barton Springs Rd, Austin, TX 78704, United States, 30.2616099, -97.75965099999999
+Wheatsville Food Co-op, 3101 Guadalupe St, Austin, TX 78705, United States, 30.2975583, -97.7410694
+Trader Joe's, 211 Walter Seaholm Dr Ste 100, Austin, TX 78701, United States, 30.2674966, -97.7527899
+Thom's Market - Riverside, 160 E Riverside Dr, Austin, TX 78704, United States, 30.2556737, -97.744906
+FARM TO MARKET GROCERY, 1718 S Congress Ave, Austin, TX 78704, United States, 30.2463687, -97.7511298
+Fresh Plus Grocery, 408 E 43rd St, Austin, TX 78751, United States, 30.3049515, -97.72642859999999
+Royal Blue Grocery, 301 Brazos St suite 110 suite 110, Austin, TX 78701, United States, 30.26497539999999, -97.74196459999999
+Royal Blue Grocery, 609 Congress Ave, Austin, TX 78701, United States, 30.268323, -97.74224699999999
+Mini Mart, 231 E 6th St, Austin, TX 78701, United States, 30.2674362, -97.7405886
+Whole Foods Market, 525 N Lamar Blvd, Austin, TX 78703, United States, 30.2705496, -97.7531762
+Austin SuperMarket, 30 S IH 35 Frontage Rd, Austin, TX 78701, United States, 30.25450859999999, -97.7372688
+Royal Blue Grocery, 51 Rainey St #120, Austin, TX 78701, United States, 30.2572284, -97.7391249
+The Bee Grocery, 1001 E 6th St, Austin, TX 78702, United States, 30.2649183, -97.73244919999999
+Fresh Plus Grocery, 2401 San Gabriel St, Austin, TX 78705, United States, 30.2883133, -97.74767059999999
+Royal Blue Grocery, The 360 Tower, 360 Nueces St #90, Austin, TX 78701, United States, 30.2677373, -97.74955369999999
+Trader Joe's, 211 Walter Seaholm Dr Ste 100, Austin, TX 78701, United States, 30.2674966, -97.7527899
+Royal Blue, 241 W 3rd St, Austin, TX 78701, United States, 30.2657008, -97.7460431
+Shop 'n Save, 2204 Woodland Ave, Austin, TX 78741, United States, 30.236153, -97.7280926
+Whole Foods Market, 901 E 5th St Ste 100, Austin, TX 78702, United States, 30.2639948, -97.7338841
+Fresh Plus Grocery, 1221 W Lynn St, Austin, TX 78703, United States, 30.2808333, -97.75833329999999
+Royal Blue Grocery, 1629 E 6th St, Austin, TX 78702, United States, 30.2624553, -97.7252084
+Green & White Grocery, 1201 E 7th St, Austin, TX 78702, United States, 30.2650911, -97.72999659999999
+Thom's Market - Riverside, 160 E Riverside Dr, Austin, TX 78704, United States, 30.2556737, -97.744906
+Mosaic Market, 4600 Mueller Blvd #1031, Austin, TX 78723, United States, 30.2988793, -97.70740699999999
+H-E-B, 2701 E 7th St, Austin, TX 78702, United States, 30.2594094, -97.7119031
+Randalls, 1500 W 35th St, Austin, TX 78703, United States, 30.3066026, -97.7490176
