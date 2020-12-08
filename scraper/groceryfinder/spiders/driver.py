@@ -119,9 +119,10 @@ class GroceryFinder(scrapy.Spider):
         api_key = config.api_key
 
         if next_page_token == None or next_page_token == 'first_request': 
-            query = 'grocery stores in ' + zip_
 
+            query = 'grocery stores in ' + zip_
             url = "https://maps.googleapis.com/maps/api/place/textsearch/json?key=" + api_key + "&query=" + query   
+
         else:
             url = "https://maps.googleapis.com/maps/api/place/textsearch/json?key=" + api_key + "&pagetoken=" + next_page_token
 
@@ -143,7 +144,6 @@ class GroceryFinder(scrapy.Spider):
                     latitude = place['geometry']['location']['lat']
                     longitude = place['geometry']['location']['lng']
                     output += name + ', ' + address + ', ' + str(latitude) + ', ' + str(longitude) + '\n'
-        
 
         return output, next_page_token
 
