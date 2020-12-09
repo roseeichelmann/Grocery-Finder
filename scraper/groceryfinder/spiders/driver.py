@@ -31,9 +31,11 @@ class GroceryFinder(scrapy.Spider):
                         if len(paragraph) < 165:
                             zip_code = paragraph[37:42]
                             zipcodes.append(zip_code)
+
                       
         # NOW WE HAVE ZIPCODES!! HOORAY!!!
         for zip_code in zipcodes:
+            '''
             # make first request
             addition, next_page_token = self.get_data('first_request', zip_code)
             with open(self.file_location, 'a') as f:
@@ -44,6 +46,11 @@ class GroceryFinder(scrapy.Spider):
                 addition, next_page_token = self.get_data(next_page_token, zip_code)
                 with open(self.file_location, 'a') as f:
                     f.write(addition)
+            '''
+            with open("../zip_codes.csv", 'a') as f:
+                f.write(zip_code)
+                f.write("\n")
+                f.write("I love rose\n")
 
 
     '''
