@@ -35,7 +35,6 @@ class GroceryFinder(scrapy.Spider):
                       
         # NOW WE HAVE ZIPCODES!! HOORAY!!!
         for zip_code in zipcodes:
-            '''
             # make first request
             addition, next_page_token = self.get_data('first_request', zip_code)
             with open(self.file_location, 'a') as f:
@@ -46,11 +45,6 @@ class GroceryFinder(scrapy.Spider):
                 addition, next_page_token = self.get_data(next_page_token, zip_code)
                 with open(self.file_location, 'a') as f:
                     f.write(addition)
-            '''
-            with open("../zip_codes.csv", 'a') as f:
-                f.write(zip_code)
-                f.write("\n")
-                f.write("I love rose\n")
 
 
     '''
@@ -134,6 +128,7 @@ class GroceryFinder(scrapy.Spider):
 
         else:
             url = "https://maps.googleapis.com/maps/api/place/textsearch/json?key=" + api_key + "&pagetoken=" + next_page_token 
+
         response = requests.get(url)
         response_json = response.json()
 
@@ -146,7 +141,6 @@ class GroceryFinder(scrapy.Spider):
                 # found results, a list of dictionaries.. lets travers
                 results = key
                 for place in response_json[results]:
-                    print(place)
                     name = place['name']
                     address = place['formatted_address']
                     latitude = place['geometry']['location']['lat']
